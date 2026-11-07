@@ -86,3 +86,20 @@ translations. Re-importing cannot silently erase this curatorial layer. The audi
 never writes the corpus, aborts if reconstruction differs, and emits metadata
 rather than copies of comparison editions. Inspect changed snapshot hashes when
 rerunning against newer source files.
+
+## Grammar presentation and compound follow-up
+
+`lib/grammar-curation.json` adds explicit Sanskrit samāsa types and pedagogical
+vigrahas for 173 compound occurrences. These are curated drafts, with unsandhied
+phrases to expose the syntactic relation. A component list with “+” is not called
+a vigraha. Ambiguous names and corrupt compounds are not assigned a new type from
+hyphens alone. The original English descriptions remain available where no more
+specific analysis has been prepared.
+
+Word grammar is presented first using Sanskrit case, number, gender, person,
+lakāra and pada terminology, then the existing English explanation. The label
+formatter translates existing tags; it does not infer morphology. In particular,
+prathamapuruṣa corresponds to English third person. Duplicated passage prose is
+suppressed, and corrected translations no longer retain contradictory old prose.
+Tests check label mapping, alternatives, word-to-compound associations, placeholder
+patterns, source hashes, import cleanup and curatorial-layer persistence.

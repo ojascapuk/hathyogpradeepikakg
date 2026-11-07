@@ -1,0 +1,796 @@
+{
+  "date": "2026-11-07",
+  "policy": "Explicit editorial Sanskrit expansions. Retain alternative or uncertain analyses in the source notes; do not infer a compound solely from a hyphen. Vigrahas are unsandhied pedagogical phrases.",
+  "references": [
+    "https://www.learnsanskrit.org/vyakarana/tinanta/tin/",
+    "https://www.learnsanskrit.org/guide/compounds/the-compound-system/"
+  ],
+  "compounds": {
+    "haṭha-yoga-vidyā": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhayogasya vidyā",
+      "type": "Genitive dependent compound"
+    },
+    "pronnata-rāja-yogam": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "pronnataḥ rājayogaḥ; taṃ pronnataṃ rājayogam",
+      "type": "Descriptive/appositional compound"
+    },
+    "śrī-ādi-nāthāya": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "ādiḥ nāthaḥ ādināthaḥ; śrīmān ādināthaḥ; tasmai śrīmate ādināthāya",
+      "type": "Descriptive/appositional compound"
+    },
+    "haṭha-vidyā": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhasya vidyā",
+      "type": "Genitive dependent compound"
+    },
+    "haṭha-vidyām": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhasya vidyā",
+      "type": "Genitive dependent compound"
+    },
+    "śrī-gurum": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "śrīmantaṃ gurum",
+      "type": "Descriptive/appositional compound"
+    },
+    "bahumata-dhvānta": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ karmadhārayaḥ",
+      "vigraha": "bahūni matāni; teṣāṃ dhvāntam",
+      "type": "Genitive dependent compound; internally: Descriptive/appositional compound"
+    },
+    "kṛpākaraḥ": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kṛpāyāḥ ākaraḥ",
+      "type": "Genitive dependent compound"
+    },
+    "haṭha-pradīpikām": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhasya pradīpikā; tāṃ pradīpikām",
+      "type": "Genitive dependent compound"
+    },
+    "matsyendra-gorakṣādyāḥ": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "matsyendragorakṣau ādyau yeṣāṃ te",
+      "type": "Possessive/exocentric compound"
+    },
+    "mahāsiddha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān siddhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahā-siddha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān siddhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "haṭha-yoga-prabhāva": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhayogasya prabhāvaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "kāla-daṇḍa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kālasya daṇḍaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "brahmāṇḍa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "brahmaṇaḥ aṇḍam",
+      "type": "Genitive dependent compound"
+    },
+    "samāśraya-maṭha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "samāśrayabhūtaḥ maṭhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "aśeṣa-tāpa-tapta": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "aśeṣaiḥ tāpaiḥ taptaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "ādhāra-kamaṭha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "ādhārabhūtaḥ kamaṭhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "nirvīrya": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "nirgataṃ vīryaṃ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "maṭhikā-madhya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "maṭhikāyāḥ madhyam",
+      "type": "Genitive dependent compound"
+    },
+    "alpa-dvāra": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "alpaṃ dvāraṃ yasya tat",
+      "type": "Possessive/exocentric compound"
+    },
+    "prākāra-saṃveṣṭita": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "prākāreṇa saṃveṣṭitam",
+      "type": "Instrumental dependent compound"
+    },
+    "haṭhābhyāsin": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhasya abhyāsī",
+      "type": "Genitive dependent compound"
+    },
+    "sarva-cintā-vivarjita": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "sarvābhiḥ cintābhiḥ vivarjitaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "gurūpadiṣṭa-mārga": {
+      "typeSanskrit": "karmadhārayaḥ; antaḥ tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "guruṇā upadiṣṭaḥ mārgaḥ",
+      "type": "Descriptive/appositional compound; internally: Instrumental dependent compound"
+    },
+    "niyamāgrahaḥ": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "niyamānām āgrahaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "jana-saṅgaḥ": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "janaiḥ saṅgaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "tattva-jñāna": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "tattvasya jñānam",
+      "type": "Genitive dependent compound"
+    },
+    "jana-saṅga-parityāga": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "janaiḥ saṅgaḥ; tasya parityāgaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mitāhāra": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mitaḥ āhāraḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "īśvara-pūjana": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "īśvarasya pūjanam",
+      "type": "Genitive dependent compound"
+    },
+    "siddhānta-vākya-śravaṇa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "siddhāntasya vākyāni; teṣāṃ śravaṇam",
+      "type": "Genitive dependent compound"
+    },
+    "yoga-śāstra-viśārada": {
+      "typeSanskrit": "saptamī-tatpuruṣaḥ",
+      "vigraha": "yogaśāstre viśāradaḥ",
+      "type": "Locative dependent compound"
+    },
+    "aṅga-lāghava": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "aṅgānāṃ lāghavam",
+      "type": "Genitive dependent compound"
+    },
+    "vaśiṣṭhādi": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "vaśiṣṭhaḥ ādiḥ yeṣāṃ te",
+      "type": "Possessive/exocentric compound"
+    },
+    "matsyendrādi": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "matsyendraḥ ādiḥ yeṣāṃ te",
+      "type": "Possessive/exocentric compound"
+    },
+    "pāda-tala": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "pādasya talam",
+      "type": "Genitive dependent compound"
+    },
+    "ṛju-kāya": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "ṛjuḥ kāyaḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "jānu-ūru": {
+      "typeSanskrit": "itaretara-dvandvaḥ",
+      "vigraha": "jānū ca ūrū ca",
+      "type": "Coordinative compound"
+    },
+    "dakṣiṇa-gulpha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "dakṣiṇaḥ gulphaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "pṛṣṭha-pārśva": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "pṛṣṭhasya pārśvam",
+      "type": "Genitive dependent compound"
+    },
+    "go-mukha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "goḥ mukham",
+      "type": "Genitive dependent compound"
+    },
+    "yoga-vid": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "yogaṃ vetti iti yogavit",
+      "type": "Compound with a verbal final member"
+    },
+    "vyoma-stha": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "vyomni tiṣṭhati iti vyomasthaḥ",
+      "type": "Compound with a verbal final member"
+    },
+    "kukkuṭāsana-bandha-stha": {
+      "typeSanskrit": "saptamī-tatpuruṣaḥ",
+      "vigraha": "kukkuṭāsanasya bandhe sthitaḥ",
+      "type": "Locative dependent compound"
+    },
+    "uttāna-kūrmaka": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "uttānaḥ kūrmakaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "pāda-aṅguṣṭha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "pādasya aṅguṣṭhaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "śravaṇa-avadhi": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "śravaṇam avadhiḥ yasya tat",
+      "type": "Possessive/exocentric compound"
+    },
+    "dhanur-ākarṣaṇa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "dhanuṣaḥ ākarṣaṇam",
+      "type": "Genitive dependent compound"
+    },
+    "parivartitāṅga": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "parivartitāni aṅgāni yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "śrī-matsyanāthodita": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "śrīmatā matsyanāthena uditam",
+      "type": "Instrumental dependent compound"
+    },
+    "matsyendra-pīṭha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "matsyendrasya pīṭham",
+      "type": "Genitive dependent compound"
+    },
+    "jaṭhara-pradīpti": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "jaṭharasya pradīptiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "kuṇḍalinī-prabodha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kuṇḍalinyāḥ prabodhaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "candra-sthiratva": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "candrasya sthiratvam",
+      "type": "Genitive dependent compound"
+    },
+    "padāgra-dvitaya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "pādayoḥ agre; tayoḥ dvitayam",
+      "type": "Genitive dependent compound"
+    },
+    "jaṭhara-anala": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "jaṭharasya analaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "kara-dvaya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "karayoḥ dvayam",
+      "type": "Genitive dependent compound"
+    },
+    "sakala-roga": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "sakalaḥ rogaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "jaṭharāgni": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "jaṭharasya agniḥ",
+      "type": "Genitive dependent compound"
+    },
+    "śrānti-hara": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "śrāntiṃ harati iti śrāntiharam",
+      "type": "Compound with a verbal final member"
+    },
+    "citta-viśrānti-kāraka": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ; antaḥ ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "cittasya viśrāntiṃ karoti iti cittaviśrāntikārakam",
+      "type": "Compound with a verbal final member; internally: Genitive dependent compound"
+    },
+    "sārabhūta": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "sārabhūtaṃ vastu; sāraḥ bhūtaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "saṃyamitendriya": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "saṃyamitāni indriyāṇi yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "acala-dṛś": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "acalā dṛk",
+      "type": "Descriptive/appositional compound"
+    },
+    "bandha-traya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "bandhānāṃ trayam",
+      "type": "Genitive dependent compound"
+    },
+    "mala-śodhana": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "malasya śodhanam",
+      "type": "Genitive dependent compound"
+    },
+    "ātma-dhyāyin": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "ātmānaṃ dhyāyati iti ātmadhyāyī",
+      "type": "Compound with a verbal final member"
+    },
+    "siddhāsanābhyāsa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "siddhāsanasya abhyāsaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "prāṇa-anila": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "prāṇarūpaḥ anilaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "kevala-kumbhaka": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "kevalaḥ kumbhakaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "nirāyāsa": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "na vidyate āyāsaḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "anāyāsa": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "na vidyate āyāsaḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "siddha-sadṛśa": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "siddhena sadṛśam",
+      "type": "Instrumental dependent compound"
+    },
+    "kevalopama": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "kevalena upamaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "khecarī-sama": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "khecaryā samaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "nāda-sadṛśa": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "nādena sadṛśaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "nāsāgra": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāsāyāḥ agram",
+      "type": "Genitive dependent compound"
+    },
+    "ūru-saṃstha": {
+      "typeSanskrit": "saptamī-tatpuruṣaḥ",
+      "vigraha": "ūrvoḥ saṃsthaḥ",
+      "type": "Locative dependent compound"
+    },
+    "ūru-madhya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "ūrvoḥ madhyam",
+      "type": "Genitive dependent compound"
+    },
+    "sarva-vyādhi-vināśana": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "sarvān vyādhīn vināśayati iti sarvavyādhivināśanam",
+      "type": "Compound with a verbal final member"
+    },
+    "śakti-prabhāva": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "śakteḥ prabhāvaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍī-dvāra": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍyāḥ dvāram",
+      "type": "Genitive dependent compound"
+    },
+    "savya-gulpha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "savyaḥ gulphaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "dakṣa-gulpha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "dakṣaḥ gulphaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "vyātta-vaktra": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "vyāttaṃ vaktraṃ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "yogi-puṅgava": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "yogināṃ puṅgavaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "bandha-tritaya-sandhāna": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "bandhānāṃ tritayam; tasya sandhānam",
+      "type": "Genitive dependent compound"
+    },
+    "āsanottama": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "āsanānām uttamam",
+      "type": "Genitive dependent compound"
+    },
+    "pārśva-pāda": {
+      "typeSanskrit": "saptamī-tatpuruṣaḥ",
+      "vigraha": "pārśvayoḥ pādau",
+      "type": "Locative dependent compound"
+    },
+    "gorakṣāsana": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "gorakṣasya āsanam",
+      "type": "Genitive dependent compound"
+    },
+    "siddha-yogin": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "siddhaḥ yogī",
+      "type": "Descriptive/appositional compound"
+    },
+    "āsana-bandha": {
+      "typeSanskrit": "itaretara-dvandvaḥ",
+      "vigraha": "āsanaṃ ca bandhaḥ ca",
+      "type": "Coordinative compound"
+    },
+    "yogīndra": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "yoginām indraḥ",
+      "type": "Genitive dependent compound"
+    },
+    "vigata-śrama": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "vigataḥ śramaḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "nāḍikā-śuddhi": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍikānāṃ śuddhiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mudrā-ākhya": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "mudrā iti ākhyā yasya tat",
+      "type": "Possessive/exocentric compound"
+    },
+    "nāda-anusandhāna": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nādasya anusandhānam",
+      "type": "Genitive dependent compound"
+    },
+    "nādānusandhāna": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nādasya anusandhānam",
+      "type": "Genitive dependent compound"
+    },
+    "abhyāsa-anukrama": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "abhyāsasya anukramaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "śiva-samprīti": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "śivasya samprītiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "amla-yukta": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "amlena yuktam",
+      "type": "Instrumental dependent compound"
+    },
+    "durjana-prānta": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "durjanasya prāntam",
+      "type": "Genitive dependent compound"
+    },
+    "kāya-kleśa-vidhi": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kāyasya kleśaḥ; tasya vidhiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mudgādi": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "mudgaḥ ādiḥ yeṣāṃ te",
+      "type": "Possessive/exocentric compound"
+    },
+    "dhātu-prapoṣaṇa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "dhātūnāṃ prapoṣaṇam",
+      "type": "Genitive dependent compound"
+    },
+    "mano-abhilaṣita": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "manasā abhilaṣitam",
+      "type": "Instrumental dependent compound"
+    },
+    "kriyā-yukta": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "kriyayā yuktaḥ",
+      "type": "Instrumental dependent compound"
+    },
+    "yoga-siddhi": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "yogasya siddhiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "veṣa-dhāraṇa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "veṣasya dhāraṇam",
+      "type": "Genitive dependent compound"
+    },
+    "tat-kathā": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "tasya kathā",
+      "type": "Genitive dependent compound"
+    },
+    "haṭhābhyāsa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "haṭhasya abhyāsaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mahā-mudrā": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahatī mudrā",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahāmudrā": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahatī mudrā",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahā-bandha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān bandhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahābandha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān bandhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahā-vedha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān vedhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "mahāvedha": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mahān vedhaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "mūla-bandha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "mūlasya bandhaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mūlabandha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "mūlasya bandhaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "kaṇṭha-bandha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kaṇṭhasya bandhaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "kaṇṭha-mudrā": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kaṇṭhasya mudrā",
+      "type": "Genitive dependent compound"
+    },
+    "mahā-bandha-sthita": {
+      "typeSanskrit": "saptamī-tatpuruṣaḥ",
+      "vigraha": "mahābandhe sthitaḥ",
+      "type": "Locative dependent compound"
+    },
+    "eka-dhī": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "ekā dhīḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "puṭa-dvaya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "puṭayoḥ dvayam",
+      "type": "Genitive dependent compound"
+    },
+    "madhyaga": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "madhye gacchati iti madhyagaḥ",
+      "type": "Compound with a verbal final member"
+    },
+    "tattva-darśin": {
+      "typeSanskrit": "upapada-tatpuruṣaḥ",
+      "vigraha": "tattvaṃ paśyati iti tattvadarśī",
+      "type": "Compound with a verbal final member"
+    },
+    "nir-matsara": {
+      "typeSanskrit": "bahuvrīhiḥ",
+      "vigraha": "nirgataḥ matsaraḥ yasya saḥ",
+      "type": "Possessive/exocentric compound"
+    },
+    "prāṇa-saṃyāma": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "prāṇasya saṃyāmaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍī-śuddhi": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍīnāṃ śuddhiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍi-śuddhi": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍīnāṃ śuddhiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍī-śodhana": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍīnāṃ śodhanam",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍi-śodhana": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍīnāṃ śodhanam",
+      "type": "Genitive dependent compound"
+    },
+    "nāḍī-cakra": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nāḍīnāṃ cakram",
+      "type": "Genitive dependent compound"
+    },
+    "brahma-randhra": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "brahmaṇaḥ randhram",
+      "type": "Genitive dependent compound"
+    },
+    "brahma-nāḍī": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "brahmaṇaḥ nāḍī",
+      "type": "Genitive dependent compound"
+    },
+    "madhya-mārga": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "madhyaḥ mārgaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "prāṇa-vāta-prabandha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ karmadhārayaḥ",
+      "vigraha": "prāṇarūpasya vātasya prabandhaḥ",
+      "type": "Genitive dependent compound; internally: Descriptive/appositional compound"
+    },
+    "sahaja-sadṛśa": {
+      "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+      "vigraha": "sahajena sadṛśam",
+      "type": "Instrumental dependent compound"
+    },
+    "viṣaya-tyāga": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "viṣayāṇāṃ tyāgaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "guru-vākya": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "guroḥ vākyam",
+      "type": "Genitive dependent compound"
+    },
+    "indriya-varga-vṛtti": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "indriyāṇāṃ vargaḥ; tasya vṛttiḥ",
+      "type": "Genitive dependent compound"
+    },
+    "jīva-bhūta": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "jīvaḥ bhūtaḥ",
+      "type": "Descriptive/appositional compound"
+    },
+    "nāda-rūpa": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "nādasya rūpam",
+      "type": "Genitive dependent compound"
+    },
+    "soma-sūryāgni-sambandha": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ itaretara-dvandvaḥ",
+      "vigraha": "somaḥ ca sūryaḥ ca agniḥ ca; teṣāṃ sambandhaḥ",
+      "type": "Genitive dependent compound; internally: Coordinative compound"
+    },
+    "mṛtāvasthā": {
+      "typeSanskrit": "karmadhārayaḥ",
+      "vigraha": "mṛtā avasthā",
+      "type": "Descriptive/appositional compound"
+    },
+    "prāṇāpāna": {
+      "typeSanskrit": "itaretara-dvandvaḥ",
+      "vigraha": "prāṇaḥ ca apānaḥ ca",
+      "type": "Coordinative compound"
+    },
+    "nāda-bindu": {
+      "typeSanskrit": "itaretara-dvandvaḥ",
+      "vigraha": "nādaḥ ca binduḥ ca",
+      "type": "Coordinative compound"
+    },
+    "kāma-deva": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "kāmasya devaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "abhyāsa-yoga": {
+      "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+      "vigraha": "abhyāsasya yogaḥ",
+      "type": "Genitive dependent compound"
+    },
+    "mṛṇāla-komala-vapus": {
+      "typeSanskrit": "bahuvrīhiḥ; antaḥ upamāna-karmadhārayaḥ",
+      "vigraha": "mṛṇālam iva komalaṃ vapuḥ yasya saḥ",
+      "type": "Possessive/exocentric compound; internally: Descriptive compound with comparison"
+    },
+    "ṣoḍaśa-patra-padma-galita": {
+      "typeSanskrit": "pañcamī-tatpuruṣaḥ; antaḥ bahuvrīhiḥ",
+      "vigraha": "ṣoḍaśa patrāṇi yasya tat padmam; tasmāt padmāt galitam",
+      "type": "Ablative dependent compound; internally: Possessive/exocentric compound"
+    }
+  },
+  "words": {
+    "2.54": {
+      "vijṛmbhikām": {
+        "meaning": "opening or expansion; nasal exhalation in Sinh’s interpretation",
+        "grammar": "Feminine accusative singular; the exact breath action is interpretive."
+      }
+    },
+    "3.10": {
+      "yonim": {
+        "meaning": "the perineal place",
+        "grammar": "Feminine accusative singular"
+      }
+    },
+    "3.61": {
+      "yonim": {
+        "meaning": "the perineal place",
+        "grammar": "Feminine accusative singular"
+      }
+    },
+    "4.111": {
+      "upamānam": {
+        "meaning": "comparison as written; “dishonour” would require the reading apamānam",
+        "grammar": "Neuter accusative singular; the transmitted reading is uncertain in context."
+      }
+    }
+  }
+}

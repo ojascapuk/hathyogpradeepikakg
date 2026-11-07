@@ -114,20 +114,26 @@
       {
         "form": "haṭha-yoga-vidyā",
         "split": "haṭha-yogasya vidyā",
-        "type": "Ṣaṣṭhī-tatpuruṣa (genitive relation)",
-        "meaning": "Haṭha: the technical discipline of haṭha (literally force); yoga: discipline/integration; vidyā: knowledge/teaching. The whole means “knowledge of haṭhayoga.”"
+        "type": "Genitive dependent compound",
+        "meaning": "Haṭha: the technical discipline of haṭha (literally force); yoga: discipline/integration; vidyā: knowledge/teaching. The whole means “knowledge of haṭhayoga.”",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhayogasya vidyā"
       },
       {
         "form": "pronnata-rāja-yogam",
         "split": "pronnatam rāja-yogam",
-        "type": "Karmadhāraya at the outer level",
-        "meaning": "Pronnata: elevated/lofty (pra + unnata); rāja-yoga: royal/supreme yoga. At the outer level, the compound describes rājayoga as lofty."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Pronnata: elevated/lofty (pra + unnata); rāja-yoga: royal/supreme yoga. At the outer level, the compound describes rājayoga as lofty.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "pronnataḥ rājayogaḥ; taṃ pronnataṃ rājayogam"
       },
       {
         "form": "śrī-ādi-nāthāya",
         "split": "śrī + ādi + nātha; ādiḥ nāthaḥ; dative -āya",
-        "type": "Honorific śrī- plus descriptive/karmadhāraya ādi-nātha",
-        "meaning": "Śrī: venerable/auspicious; ādi: first/original; nātha: lord/protector. The whole expression is dative singular, “to the venerable first lord.”"
+        "type": "Descriptive/appositional compound",
+        "meaning": "Śrī: venerable/auspicious; ādi: first/original; nātha: lord/protector. The whole expression is dative singular, “to the venerable first lord.”",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "ādiḥ nāthaḥ ādināthaḥ; śrīmān ādināthaḥ; tasmai śrīmate ādināthāya"
       },
       {
         "form": "rāja-yoga",
@@ -213,14 +219,18 @@
       {
         "form": "haṭha-vidyā",
         "split": "haṭhasya vidyā",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Teaching concerning haṭha."
+        "type": "Genitive dependent compound",
+        "meaning": "Teaching concerning haṭha.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya vidyā"
       },
       {
         "form": "śrī-gurum",
         "split": "śrī + guru; accusative -m",
-        "type": "Honorific/descriptive compound",
-        "meaning": "Śrī: venerable/auspicious; guru: teacher. The accusative singular is the object of praṇamya, “having bowed to the venerable teacher.”"
+        "type": "Descriptive/appositional compound",
+        "meaning": "Śrī: venerable/auspicious; guru: teacher. The accusative singular is the object of praṇamya, “having bowed to the venerable teacher.”",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "śrīmantaṃ gurum"
       },
       {
         "form": "rāja-yogāya",
@@ -293,20 +303,26 @@
       {
         "form": "bahumata-dhvānta",
         "split": "bahūni matāni; teṣāṃ dhvāntam",
-        "type": "Nested compound; genitive relation at the outer level",
-        "meaning": "Darkness associated with a multiplicity of opinions."
+        "type": "Genitive dependent compound; internally: Descriptive/appositional compound",
+        "meaning": "Darkness associated with a multiplicity of opinions.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ karmadhārayaḥ",
+        "vigraha": "bahūni matāni; teṣāṃ dhvāntam"
       },
       {
         "form": "kṛpākaraḥ",
         "split": "kṛpāyāḥ ākaraḥ",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "A mine or source of compassion."
+        "type": "Genitive dependent compound",
+        "meaning": "A mine or source of compassion.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kṛpāyāḥ ākaraḥ"
       },
       {
         "form": "haṭha-pradīpikām",
         "split": "haṭhasya pradīpikā; haṭha + pradīpikā; accusative -m",
-        "type": "Ṣaṣṭhī-tatpuruṣa, metaphorically understood",
-        "meaning": "Haṭha: the technical haṭha discipline; pradīpikā: little lamp/illumination. The title pictures the work as a lamp illuminating haṭha."
+        "type": "Genitive dependent compound",
+        "meaning": "Haṭha: the technical haṭha discipline; pradīpikā: little lamp/illumination. The title pictures the work as a lamp illuminating haṭha.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya pradīpikā; tāṃ pradīpikām"
       },
       {
         "form": "rāja-yogam",
@@ -396,14 +412,18 @@
       {
         "form": "matsyendra-gorakṣādyāḥ",
         "split": "matsyendra-gorakṣau ādyau yeṣāṃ te",
-        "type": "Ādya-ending possessive/enumerative compound",
-        "meaning": "Matsyendra and Gorakṣa are the first named members of the group: “Matsyendra, Gorakṣa, and others.” Matsyendra and Gorakṣa are proper names; ādya means first."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Matsyendra and Gorakṣa are the first named members of the group: “Matsyendra, Gorakṣa, and others.” Matsyendra and Gorakṣa are proper names; ādya means first.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "matsyendragorakṣau ādyau yeṣāṃ te"
       },
       {
         "form": "haṭha-vidyām",
         "split": "haṭhasya vidyā; haṭha + vidyā; accusative -m",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Haṭha: the technical discipline; vidyā: knowledge/teaching. The accusative singular names what the teachers know."
+        "type": "Genitive dependent compound",
+        "meaning": "Haṭha: the technical discipline; vidyā: knowledge/teaching. The accusative singular names what the teachers know.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya vidyā"
       },
       {
         "form": "tat-prasādataḥ",
@@ -782,26 +802,34 @@
       {
         "form": "mahāsiddha",
         "split": "mahā (great) + siddha (accomplished adept)",
-        "type": "Karmadhāraya",
-        "meaning": "A great adept."
+        "type": "Descriptive/appositional compound",
+        "meaning": "A great adept.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mahān siddhaḥ"
       },
       {
         "form": "haṭha-yoga-prabhāva",
         "split": "haṭhayogasya prabhāvaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Haṭhayoga’s power."
+        "type": "Genitive dependent compound",
+        "meaning": "Haṭhayoga’s power.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhayogasya prabhāvaḥ"
       },
       {
         "form": "kāla-daṇḍa",
         "split": "kālasya daṇḍaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "The rod of time or death."
+        "type": "Genitive dependent compound",
+        "meaning": "The rod of time or death.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kālasya daṇḍaḥ"
       },
       {
         "form": "brahmāṇḍa",
         "split": "brahma + aṇḍa (egg)",
-        "type": "Traditional compound name",
-        "meaning": "The cosmic egg."
+        "type": "Genitive dependent compound",
+        "meaning": "The cosmic egg.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "brahmaṇaḥ aṇḍam"
       }
     ],
     "sandhi": [
@@ -857,14 +885,18 @@
       {
         "form": "aśeṣa-tāpa-tapta",
         "split": "aśeṣa (all) + tāpa (affliction, heat) + tapta (burnt)",
-        "type": "Instrumental relation to participle",
-        "meaning": "Afflicted by every suffering."
+        "type": "Instrumental dependent compound",
+        "meaning": "Afflicted by every suffering.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "aśeṣaiḥ tāpaiḥ taptaḥ"
       },
       {
         "form": "samāśraya-maṭha",
         "split": "samāśraya (shelter) + maṭha (monastery)",
-        "type": "Appositional compound",
-        "meaning": "A monastery that is a refuge."
+        "type": "Descriptive/appositional compound",
+        "meaning": "A monastery that is a refuge.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "samāśrayabhūtaḥ maṭhaḥ"
       },
       {
         "form": "aśeṣa-yoga-yukta",
@@ -875,8 +907,10 @@
       {
         "form": "ādhāra-kamaṭha",
         "split": "ādhāra (support) + kamaṭha (tortoise)",
-        "type": "Appositional metaphor",
-        "meaning": "The tortoise as support."
+        "type": "Descriptive/appositional compound",
+        "meaning": "The tortoise as support.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "ādhārabhūtaḥ kamaṭhaḥ"
       }
     ],
     "sandhi": [
@@ -974,14 +1008,18 @@
       {
         "form": "haṭha-vidyā",
         "split": "haṭhasya vidyā",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Haṭha teaching."
+        "type": "Genitive dependent compound",
+        "meaning": "Haṭha teaching.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya vidyā"
       },
       {
         "form": "nirvīrya",
         "split": "nir (without) + vīrya (potency)",
-        "type": "Privative compound",
-        "meaning": "Lacking potency."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Lacking potency.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "nirgataṃ vīryaṃ yasya saḥ"
       }
     ],
     "sandhi": [
@@ -1085,8 +1123,10 @@
       {
         "form": "maṭhikā-madhya",
         "split": "maṭhikāyāḥ madhyam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Interior of the hut."
+        "type": "Genitive dependent compound",
+        "meaning": "Interior of the hut.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "maṭhikāyāḥ madhyam"
       },
       {
         "form": "dhanuḥ-pramāṇa-paryanta",
@@ -1214,8 +1254,10 @@
       {
         "form": "alpa-dvāra",
         "split": "alpa (small) + dvāra (door)",
-        "type": "Bahuvrīhi",
-        "meaning": "Having a small door."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Having a small door.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "alpaṃ dvāraṃ yasya tat"
       },
       {
         "form": "arandhra-garta-vivara",
@@ -1244,14 +1286,18 @@
       {
         "form": "prākāra-saṃveṣṭita",
         "split": "prākāreṇa saṃveṣṭita",
-        "type": "Instrumental tatpuruṣa",
-        "meaning": "Enclosed by a wall."
+        "type": "Instrumental dependent compound",
+        "meaning": "Enclosed by a wall.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "prākāreṇa saṃveṣṭitam"
       },
       {
         "form": "haṭhābhyāsin",
         "split": "haṭha (practice) + abhyāsin (practitioner)",
-        "type": "Genitive relation",
-        "meaning": "Practising haṭha."
+        "type": "Genitive dependent compound",
+        "meaning": "Practising haṭha.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya abhyāsī"
       }
     ],
     "sandhi": [
@@ -1336,14 +1382,18 @@
       {
         "form": "sarva-cintā-vivarjita",
         "split": "sarva (all) + cintā (worry) + vivarjita (free from)",
-        "type": "Nested participial compound",
-        "meaning": "Free of every worry."
+        "type": "Instrumental dependent compound",
+        "meaning": "Free of every worry.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "sarvābhiḥ cintābhiḥ vivarjitaḥ"
       },
       {
         "form": "gurūpadiṣṭa-mārga",
         "split": "guruṇā upadiṣṭaḥ mārgaḥ",
-        "type": "Nested instrumental and appositional relation",
-        "meaning": "The path taught by the guru."
+        "type": "Descriptive/appositional compound; internally: Instrumental dependent compound",
+        "meaning": "The path taught by the guru.",
+        "typeSanskrit": "karmadhārayaḥ; antaḥ tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "guruṇā upadiṣṭaḥ mārgaḥ"
       }
     ],
     "sandhi": [
@@ -1451,14 +1501,18 @@
       {
         "form": "niyamāgrahaḥ",
         "split": "niyama + āgraha",
-        "type": "Ṣaṣṭhī-tatpuruṣa reading",
-        "meaning": "Insistence on observances."
+        "type": "Genitive dependent compound",
+        "meaning": "Insistence on observances.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "niyamānām āgrahaḥ"
       },
       {
         "form": "jana-saṅgaḥ",
         "split": "janaiḥ saṅgaḥ",
-        "type": "Tṛtīyā-tatpuruṣa reading",
-        "meaning": "Association with people."
+        "type": "Instrumental dependent compound",
+        "meaning": "Association with people.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "janaiḥ saṅgaḥ"
       }
     ],
     "notes": [
@@ -1549,14 +1603,18 @@
       {
         "form": "tattva-jñāna",
         "split": "tattvasya jñānam",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Knowledge of reality."
+        "type": "Genitive dependent compound",
+        "meaning": "Knowledge of reality.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "tattvasya jñānam"
       },
       {
         "form": "jana-saṅga-parityāga",
         "split": "jana-saṅgasya parityāgaḥ",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Abandonment of association with people."
+        "type": "Genitive dependent compound",
+        "meaning": "Abandonment of association with people.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "janaiḥ saṅgaḥ; tasya parityāgaḥ"
       }
     ],
     "notes": [
@@ -1658,8 +1716,10 @@
       {
         "form": "mitāhāra",
         "split": "mita (measured) + āhāra (intake)",
-        "type": "Karmadhāraya",
-        "meaning": "Measured intake."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Measured intake.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mitaḥ āhāraḥ"
       },
       {
         "form": "brahmacarya",
@@ -1780,20 +1840,26 @@
       {
         "form": "īśvara-pūjana",
         "split": "īśvarasya pūjanam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Worship of the Lord."
+        "type": "Genitive dependent compound",
+        "meaning": "Worship of the Lord.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "īśvarasya pūjanam"
       },
       {
         "form": "siddhānta-vākya-śravaṇa",
         "split": "siddhānta (established doctrine) + vākya (statement) + śravaṇa (hearing)",
-        "type": "Nested genitive relations",
-        "meaning": "Hearing doctrinal teachings."
+        "type": "Genitive dependent compound",
+        "meaning": "Hearing doctrinal teachings.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "siddhāntasya vākyāni; teṣāṃ śravaṇam"
       },
       {
         "form": "yoga-śāstra-viśārada",
         "split": "yoga-śāstre viśārada",
-        "type": "Locative tatpuruṣa",
-        "meaning": "Expert in yoga scripture."
+        "type": "Locative dependent compound",
+        "meaning": "Expert in yoga scripture.",
+        "typeSanskrit": "saptamī-tatpuruṣaḥ",
+        "vigraha": "yogaśāstre viśāradaḥ"
       }
     ],
     "sandhi": [
@@ -1903,8 +1969,10 @@
       {
         "form": "aṅga-lāghava",
         "split": "aṅgasya lāghavam",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Lightness of the body."
+        "type": "Genitive dependent compound",
+        "meaning": "Lightness of the body.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "aṅgānāṃ lāghavam"
       }
     ],
     "notes": [
@@ -1983,14 +2051,18 @@
       {
         "form": "vaśiṣṭhādi",
         "split": "vaśiṣṭha (name) + ādi (beginning)",
-        "type": "Ādi-ending enumerative compound",
-        "meaning": "Vasiṣṭha and others."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Vasiṣṭha and others.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "vaśiṣṭhaḥ ādiḥ yeṣāṃ te"
       },
       {
         "form": "matsyendrādi",
         "split": "matsyendra (name) + ādi (beginning)",
-        "type": "Ādi-ending enumerative compound",
-        "meaning": "Matsyendra and others."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Matsyendra and others.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "matsyendraḥ ādiḥ yeṣāṃ te"
       }
     ],
     "sandhi": [
@@ -2086,20 +2158,26 @@
       {
         "form": "pāda-tala",
         "split": "pādasya talam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Sole of a foot."
+        "type": "Genitive dependent compound",
+        "meaning": "Sole of a foot.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "pādasya talam"
       },
       {
         "form": "ṛju-kāya",
         "split": "ṛjuḥ kāyaḥ yasya",
-        "type": "Bahuvrīhi",
-        "meaning": "One whose body is upright."
+        "type": "Possessive/exocentric compound",
+        "meaning": "One whose body is upright.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "ṛjuḥ kāyaḥ yasya saḥ"
       },
       {
         "form": "jānu-ūru",
         "split": "jānu (knee) + ūru (thigh)",
-        "type": "Dvandva",
-        "meaning": "Knees and thighs."
+        "type": "Coordinative compound",
+        "meaning": "Knees and thighs.",
+        "typeSanskrit": "itaretara-dvandvaḥ",
+        "vigraha": "jānū ca ūrū ca"
       }
     ],
     "sandhi": [
@@ -2190,20 +2268,26 @@
       {
         "form": "dakṣiṇa-gulpha",
         "split": "dakṣiṇa (right) + gulpha (ankle)",
-        "type": "Karmadhāraya",
-        "meaning": "Right ankle."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Right ankle.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "dakṣiṇaḥ gulphaḥ"
       },
       {
         "form": "pṛṣṭha-pārśva",
         "split": "pṛṣṭha (rear) + pārśva (side)",
-        "type": "Genitive relation",
-        "meaning": "Side of the rear."
+        "type": "Genitive dependent compound",
+        "meaning": "Side of the rear.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "pṛṣṭhasya pārśvam"
       },
       {
         "form": "go-mukha",
         "split": "go (cow) + mukha (face)",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Cow’s face."
+        "type": "Genitive dependent compound",
+        "meaning": "Cow’s face.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "goḥ mukham"
       },
       {
         "form": "gomukhākṛti",
@@ -2421,8 +2505,10 @@
       {
         "form": "yoga-vid",
         "split": "yogaṃ vetti",
-        "type": "Verbal compound",
-        "meaning": "One who knows yoga."
+        "type": "Compound with a verbal final member",
+        "meaning": "One who knows yoga.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "yogaṃ vetti iti yogavit"
       }
     ],
     "sandhi": [
@@ -2513,8 +2599,10 @@
       {
         "form": "vyoma-stha",
         "split": "vyoman (sky) + stha (standing)",
-        "type": "Locative verbal compound",
-        "meaning": "Situated in the air."
+        "type": "Compound with a verbal final member",
+        "meaning": "Situated in the air.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "vyomni tiṣṭhati iti vyomasthaḥ"
       },
       {
         "form": "kukkuṭāsana",
@@ -2594,14 +2682,18 @@
       {
         "form": "kukkuṭāsana-bandha-stha",
         "split": "kukkuṭāsana (cock posture) + bandha (arrangement) + stha (situated)",
-        "type": "Nested locative relation",
-        "meaning": "Situated in the cock-posture configuration."
+        "type": "Locative dependent compound",
+        "meaning": "Situated in the cock-posture configuration.",
+        "typeSanskrit": "saptamī-tatpuruṣaḥ",
+        "vigraha": "kukkuṭāsanasya bandhe sthitaḥ"
       },
       {
         "form": "uttāna-kūrmaka",
         "split": "uttāna (supine) + kūrmaka (little tortoise)",
-        "type": "Karmadhāraya name",
-        "meaning": "Supine tortoise."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Supine tortoise.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "uttānaḥ kūrmakaḥ"
       }
     ],
     "sandhi": [
@@ -2687,20 +2779,26 @@
       {
         "form": "pāda-aṅguṣṭha",
         "split": "pādasya aṅguṣṭhaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Great toe of the foot."
+        "type": "Genitive dependent compound",
+        "meaning": "Great toe of the foot.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "pādasya aṅguṣṭhaḥ"
       },
       {
         "form": "śravaṇa-avadhi",
         "split": "śravaṇa (ear) + avadhi (limit)",
-        "type": "Limit compound",
-        "meaning": "As far as the ear."
+        "type": "Possessive/exocentric compound",
+        "meaning": "As far as the ear.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "śravaṇam avadhiḥ yasya tat"
       },
       {
         "form": "dhanur-ākarṣaṇa",
         "split": "dhanuṣaḥ ākarṣaṇam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Drawing of a bow."
+        "type": "Genitive dependent compound",
+        "meaning": "Drawing of a bow.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "dhanuṣaḥ ākarṣaṇam"
       },
       {
         "form": "dhanur-āsana",
@@ -2814,14 +2912,18 @@
       {
         "form": "parivartitāṅga",
         "split": "parivartita (turned) + aṅga (body)",
-        "type": "Bahuvrīhi",
-        "meaning": "Whose body is turned."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Whose body is turned.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "parivartitāni aṅgāni yasya saḥ"
       },
       {
         "form": "śrī-matsyanāthodita",
         "split": "śrī (venerable) + matsyanātha (name) + udita (taught)",
-        "type": "Instrumental relation",
-        "meaning": "Taught by Matsyanātha."
+        "type": "Instrumental dependent compound",
+        "meaning": "Taught by Matsyanātha.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "śrīmatā matsyanāthena uditam"
       }
     ],
     "sandhi": [
@@ -2912,14 +3014,18 @@
       {
         "form": "matsyendra-pīṭha",
         "split": "matsyendrasya pīṭham",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Matsyendra’s seat."
+        "type": "Genitive dependent compound",
+        "meaning": "Matsyendra’s seat.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "matsyendrasya pīṭham"
       },
       {
         "form": "jaṭhara-pradīpti",
         "split": "jaṭhara (belly) + pradīpti (kindling)",
-        "type": "Genitive relation",
-        "meaning": "Kindling of digestive fire."
+        "type": "Genitive dependent compound",
+        "meaning": "Kindling of digestive fire.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "jaṭharasya pradīptiḥ"
       },
       {
         "form": "pracaṇḍa-rug-maṇḍala-khaṇḍanāstra",
@@ -2930,14 +3036,18 @@
       {
         "form": "kuṇḍalinī-prabodha",
         "split": "kuṇḍalinyāḥ prabodhaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Awakening of Kuṇḍalinī."
+        "type": "Genitive dependent compound",
+        "meaning": "Awakening of Kuṇḍalinī.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kuṇḍalinyāḥ prabodhaḥ"
       },
       {
         "form": "candra-sthiratva",
         "split": "candrasya sthiratvam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Stability of the moon."
+        "type": "Genitive dependent compound",
+        "meaning": "Stability of the moon.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "candrasya sthiratvam"
       }
     ],
     "sandhi": [
@@ -3041,8 +3151,10 @@
       {
         "form": "padāgra-dvitaya",
         "split": "pada (foot) + agra (front) + dvitaya (pair)",
-        "type": "Nested genitive relation",
-        "meaning": "Pair of fronts of the feet."
+        "type": "Genitive dependent compound",
+        "meaning": "Pair of fronts of the feet.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "pādayoḥ agre; tayoḥ dvitayam"
       },
       {
         "form": "jānūparinyasta-lalāṭa-deśa",
@@ -3150,8 +3262,10 @@
       {
         "form": "jaṭhara-anala",
         "split": "jaṭharasya analaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "The fire of the belly."
+        "type": "Genitive dependent compound",
+        "meaning": "The fire of the belly.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "jaṭharasya analaḥ"
       }
     ],
     "sandhi": [
@@ -3249,8 +3363,10 @@
       {
         "form": "kara-dvaya",
         "split": "karayoḥ dvayam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Pair of hands."
+        "type": "Genitive dependent compound",
+        "meaning": "Pair of hands.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "karayoḥ dvayam"
       },
       {
         "form": "tat-kūrpara-sthāpita-nābhi-pārśva",
@@ -3400,8 +3516,10 @@
       {
         "form": "sakala-roga",
         "split": "sakala (all) + roga (disease)",
-        "type": "Karmadhāraya",
-        "meaning": "All diseases."
+        "type": "Descriptive/appositional compound",
+        "meaning": "All diseases.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "sakalaḥ rogaḥ"
       },
       {
         "form": "gulmodarādi",
@@ -3418,8 +3536,10 @@
       {
         "form": "jaṭharāgni",
         "split": "jaṭharasya agniḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Fire of the abdomen."
+        "type": "Genitive dependent compound",
+        "meaning": "Fire of the abdomen.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "jaṭharasya agniḥ"
       }
     ],
     "sandhi": [
@@ -3511,14 +3631,18 @@
       {
         "form": "śrānti-hara",
         "split": "śrāntiṃ harati",
-        "type": "Upapada-type verbal compound",
-        "meaning": "That which removes fatigue."
+        "type": "Compound with a verbal final member",
+        "meaning": "That which removes fatigue.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "śrāntiṃ harati iti śrāntiharam"
       },
       {
         "form": "citta-viśrānti-kāraka",
         "split": "cittasya viśrāntiṃ karoti",
-        "type": "Nested compound with verbal final member",
-        "meaning": "Producing rest of the mind."
+        "type": "Compound with a verbal final member; internally: Genitive dependent compound",
+        "meaning": "Producing rest of the mind.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ; antaḥ ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "cittasya viśrāntiṃ karoti iti cittaviśrāntikārakam"
       }
     ],
     "notes": [
@@ -3602,8 +3726,10 @@
       {
         "form": "sārabhūta",
         "split": "sāra (essence) + bhūta (become)",
-        "type": "Appositional/resultative compound",
-        "meaning": "Constituting the essence."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Constituting the essence.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "sārabhūtaṃ vastu; sāraḥ bhūtaḥ"
       }
     ],
     "sandhi": [
@@ -3917,14 +4043,18 @@
       {
         "form": "saṃyamitendriya",
         "split": "saṃyamitāni indriyāṇi yasya",
-        "type": "Bahuvrīhi",
-        "meaning": "One whose senses are restrained."
+        "type": "Possessive/exocentric compound",
+        "meaning": "One whose senses are restrained.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "saṃyamitāni indriyāṇi yasya saḥ"
       },
       {
         "form": "acala-dṛś",
         "split": "acala (unmoving) + dṛś (gaze)",
-        "type": "Karmadhāraya",
-        "meaning": "Fixed gaze."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Fixed gaze.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "acalā dṛk"
       },
       {
         "form": "mokṣa-kapāṭa-bheda-janaka",
@@ -4230,8 +4360,10 @@
       {
         "form": "mitāhāra",
         "split": "mita (measured) + āhāra (eating)",
-        "type": "Karmadhāraya",
-        "meaning": "Moderate eating."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Moderate eating.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mitaḥ āhāraḥ"
       },
       {
         "form": "sarvāsana",
@@ -4323,8 +4455,10 @@
       {
         "form": "mala-śodhana",
         "split": "malasya śodhanam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Purification of impurity."
+        "type": "Genitive dependent compound",
+        "meaning": "Purification of impurity.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "malasya śodhanam"
       }
     ],
     "sandhi": [
@@ -4404,8 +4538,10 @@
       {
         "form": "ātma-dhyāyin",
         "split": "ātmānaṃ dhyāyati",
-        "type": "Verbal compound",
-        "meaning": "One who meditates on self."
+        "type": "Compound with a verbal final member",
+        "meaning": "One who meditates on self.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "ātmānaṃ dhyāyati iti ātmadhyāyī"
       },
       {
         "form": "mitāhārin",
@@ -4422,8 +4558,10 @@
       {
         "form": "siddhāsanābhyāsa",
         "split": "siddhāsanasya abhyāsaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Practice of siddhāsana."
+        "type": "Genitive dependent compound",
+        "meaning": "Practice of siddhāsana.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "siddhāsanasya abhyāsaḥ"
       }
     ],
     "sandhi": [
@@ -4551,20 +4689,26 @@
       {
         "form": "prāṇa-anila",
         "split": "prāṇa (vital breath) + anila (wind)",
-        "type": "Appositional compound",
-        "meaning": "Vital wind."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Vital wind.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "prāṇarūpaḥ anilaḥ"
       },
       {
         "form": "kevala-kumbhaka",
         "split": "kevala (unaccompanied) + kumbhaka (retention)",
-        "type": "Karmadhāraya",
-        "meaning": "Unaccompanied retention."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Unaccompanied retention.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "kevalaḥ kumbhakaḥ"
       },
       {
         "form": "nirāyāsa",
         "split": "nir (without) + āyāsa (effort)",
-        "type": "Privative compound",
-        "meaning": "Effortlessness."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Effortlessness.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "na vidyate āyāsaḥ yasya saḥ"
       }
     ],
     "sandhi": [
@@ -4656,14 +4800,18 @@
       {
         "form": "bandha-traya",
         "split": "bandhānāṃ trayam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "A set of three locks."
+        "type": "Genitive dependent compound",
+        "meaning": "A set of three locks.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "bandhānāṃ trayam"
       },
       {
         "form": "anāyāsa",
         "split": "a (absence) + āyāsa (effort)",
-        "type": "Privative formation",
-        "meaning": "Absence of effort."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Absence of effort.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "na vidyate āyāsaḥ yasya saḥ"
       }
     ],
     "sandhi": [
@@ -4764,26 +4912,34 @@
       {
         "form": "siddha-sadṛśa",
         "split": "siddhena sadṛśam",
-        "type": "Comparison compound",
-        "meaning": "Comparable to siddhāsana."
+        "type": "Instrumental dependent compound",
+        "meaning": "Comparable to siddhāsana.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "siddhena sadṛśam"
       },
       {
         "form": "kevalopama",
         "split": "kevalena upamaḥ",
-        "type": "Comparison compound",
-        "meaning": "Comparable to kevala retention."
+        "type": "Instrumental dependent compound",
+        "meaning": "Comparable to kevala retention.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "kevalena upamaḥ"
       },
       {
         "form": "khecarī-sama",
         "split": "khecaryā sama",
-        "type": "Comparison compound",
-        "meaning": "Equal to khecarī."
+        "type": "Instrumental dependent compound",
+        "meaning": "Equal to khecarī.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "khecaryā samaḥ"
       },
       {
         "form": "nāda-sadṛśa",
         "split": "nādena sadṛśa",
-        "type": "Comparison compound",
-        "meaning": "Comparable to nāda as a means of laya."
+        "type": "Instrumental dependent compound",
+        "meaning": "Comparable to nāda as a means of laya.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "nādena sadṛśaḥ"
       }
     ],
     "notes": [
@@ -4957,8 +5113,10 @@
       {
         "form": "nāsāgra",
         "split": "nāsāyāḥ agram",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Tip of the nose."
+        "type": "Genitive dependent compound",
+        "meaning": "Tip of the nose.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāsāyāḥ agram"
       },
       {
         "form": "vyādhi-vināśa-kārin",
@@ -5050,14 +5208,18 @@
       {
         "form": "ūru-saṃstha",
         "split": "ūru (thigh) + saṃstha (situated)",
-        "type": "Locative verbal compound",
-        "meaning": "Situated upon the thighs."
+        "type": "Locative dependent compound",
+        "meaning": "Situated upon the thighs.",
+        "typeSanskrit": "saptamī-tatpuruṣaḥ",
+        "vigraha": "ūrvoḥ saṃsthaḥ"
       },
       {
         "form": "ūru-madhya",
         "split": "ūrvoḥ madhyam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "The space between the thighs."
+        "type": "Genitive dependent compound",
+        "meaning": "The space between the thighs.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "ūrvoḥ madhyam"
       }
     ],
     "sandhi": [
@@ -5149,8 +5311,10 @@
       {
         "form": "nāsāgra",
         "split": "nāsā (nose) + agra (tip)",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Tip of the nose."
+        "type": "Genitive dependent compound",
+        "meaning": "Tip of the nose.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāsāyāḥ agram"
       },
       {
         "form": "rājad-anta-mūla",
@@ -5248,8 +5412,10 @@
       {
         "form": "sarva-vyādhi-vināśana",
         "split": "sarva (all) + vyādhi (disease) + vināśana (destroying)",
-        "type": "Nested verbal compound",
-        "meaning": "Destroying every disease."
+        "type": "Compound with a verbal final member",
+        "meaning": "Destroying every disease.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "sarvān vyādhīn vināśayati iti sarvavyādhivināśanam"
       }
     ],
     "sandhi": [],
@@ -5437,8 +5603,10 @@
       {
         "form": "śakti-prabhāva",
         "split": "śakteḥ prabhāvaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Power of śakti."
+        "type": "Genitive dependent compound",
+        "meaning": "Power of śakti.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "śakteḥ prabhāvaḥ"
       }
     ],
     "sandhi": [
@@ -5553,8 +5721,10 @@
       {
         "form": "nāḍī-dvāra",
         "split": "nāḍyāḥ dvāram",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Door of the channel."
+        "type": "Genitive dependent compound",
+        "meaning": "Door of the channel.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍyāḥ dvāram"
       }
     ],
     "sandhi": [
@@ -5652,14 +5822,18 @@
       {
         "form": "savya-gulpha",
         "split": "savya (left) + gulpha (ankle)",
-        "type": "Karmadhāraya",
-        "meaning": "Left ankle."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Left ankle.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "savyaḥ gulphaḥ"
       },
       {
         "form": "dakṣa-gulpha",
         "split": "dakṣa (right) + gulpha (ankle)",
-        "type": "Karmadhāraya",
-        "meaning": "Right ankle."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Right ankle.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "dakṣaḥ gulphaḥ"
       }
     ],
     "sandhi": [
@@ -5757,14 +5931,18 @@
       {
         "form": "vyātta-vaktra",
         "split": "vyātta (opened) + vaktra (mouth)",
-        "type": "Bahuvrīhi",
-        "meaning": "Whose mouth is open."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Whose mouth is open.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "vyāttaṃ vaktraṃ yasya saḥ"
       },
       {
         "form": "nāsāgra",
         "split": "nāsā (nose) + agra (tip)",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Tip of the nose."
+        "type": "Genitive dependent compound",
+        "meaning": "Tip of the nose.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāsāyāḥ agram"
       }
     ],
     "sandhi": [
@@ -5849,20 +6027,26 @@
       {
         "form": "yogi-puṅgava",
         "split": "yogin (yogin) + puṅgava (foremost, bull)",
-        "type": "Appositional honorific",
-        "meaning": "Foremost yogin."
+        "type": "Genitive dependent compound",
+        "meaning": "Foremost yogin.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "yogināṃ puṅgavaḥ"
       },
       {
         "form": "bandha-tritaya-sandhāna",
         "split": "bandha (lock) + tritaya (threefold set) + sandhāna (joining)",
-        "type": "Nested genitive compound",
-        "meaning": "Joining of three locks."
+        "type": "Genitive dependent compound",
+        "meaning": "Joining of three locks.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "bandhānāṃ tritayam; tasya sandhānam"
       },
       {
         "form": "āsanottama",
         "split": "āsana (posture) + uttama (best)",
-        "type": "Appositional compound",
-        "meaning": "Best posture."
+        "type": "Genitive dependent compound",
+        "meaning": "Best posture.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "āsanānām uttamam"
       }
     ],
     "sandhi": [
@@ -5965,14 +6149,18 @@
       {
         "form": "savya-gulpha",
         "split": "savya (left) + gulpha (ankle)",
-        "type": "Karmadhāraya",
-        "meaning": "Left ankle."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Left ankle.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "savyaḥ gulphaḥ"
       },
       {
         "form": "dakṣa-gulpha",
         "split": "dakṣa (right) + gulpha (ankle)",
-        "type": "Karmadhāraya",
-        "meaning": "Right ankle."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Right ankle.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "dakṣaḥ gulphaḥ"
       }
     ],
     "sandhi": [
@@ -6094,8 +6282,10 @@
       {
         "form": "pārśva-pāda",
         "split": "pārśva (side) + pāda (foot)",
-        "type": "Locative relation",
-        "meaning": "The feet at the sides."
+        "type": "Locative dependent compound",
+        "meaning": "The feet at the sides.",
+        "typeSanskrit": "saptamī-tatpuruṣaḥ",
+        "vigraha": "pārśvayoḥ pādau"
       },
       {
         "form": "bhadrāsana",
@@ -6106,20 +6296,26 @@
       {
         "form": "sarva-vyādhi-vināśana",
         "split": "sarva (all) + vyādhi (disease) + vināśana (destroying)",
-        "type": "Nested verbal compound",
-        "meaning": "Destroying all disease."
+        "type": "Compound with a verbal final member",
+        "meaning": "Destroying all disease.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "sarvān vyādhīn vināśayati iti sarvavyādhivināśanam"
       },
       {
         "form": "gorakṣāsana",
         "split": "gorakṣa (name) + āsana (posture)",
-        "type": "Genitive name compound",
-        "meaning": "Gorakṣa’s posture."
+        "type": "Genitive dependent compound",
+        "meaning": "Gorakṣa’s posture.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "gorakṣasya āsanam"
       },
       {
         "form": "siddha-yogin",
         "split": "siddha (accomplished) + yogin",
-        "type": "Karmadhāraya",
-        "meaning": "Accomplished yogin."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Accomplished yogin.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "siddhaḥ yogī"
       }
     ],
     "sandhi": [
@@ -6187,26 +6383,34 @@
       {
         "form": "āsana-bandha",
         "split": "āsana (posture) + bandha (lock)",
-        "type": "Dvandva reading",
-        "meaning": "Postures and locks."
+        "type": "Coordinative compound",
+        "meaning": "Postures and locks.",
+        "typeSanskrit": "itaretara-dvandvaḥ",
+        "vigraha": "āsanaṃ ca bandhaḥ ca"
       },
       {
         "form": "yogīndra",
         "split": "yogin (yogin) + indra (lord)",
-        "type": "Honorific compound",
-        "meaning": "Lord of yogins."
+        "type": "Genitive dependent compound",
+        "meaning": "Lord of yogins.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "yoginām indraḥ"
       },
       {
         "form": "vigata-śrama",
         "split": "vigata (gone) + śrama (fatigue)",
-        "type": "Bahuvrīhi",
-        "meaning": "Whose fatigue has gone."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Whose fatigue has gone.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "vigataḥ śramaḥ yasya saḥ"
       },
       {
         "form": "nāḍikā-śuddhi",
         "split": "nāḍikāyāḥ śuddhiḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Purification of channels."
+        "type": "Genitive dependent compound",
+        "meaning": "Purification of channels.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍikānāṃ śuddhiḥ"
       },
       {
         "form": "mudrādi-pavanī-kriyā",
@@ -6298,20 +6502,26 @@
       {
         "form": "mudrā-ākhya",
         "split": "mudrā iti ākhyā yasya",
-        "type": "Designation compound",
-        "meaning": "Named mudrā."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Named mudrā.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "mudrā iti ākhyā yasya tat"
       },
       {
         "form": "nāda-anusandhāna",
         "split": "nādasya anusandhānam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Contemplative investigation of sound."
+        "type": "Genitive dependent compound",
+        "meaning": "Contemplative investigation of sound.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nādasya anusandhānam"
       },
       {
         "form": "abhyāsa-anukrama",
         "split": "abhyāsasya anukramaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Order of practice."
+        "type": "Genitive dependent compound",
+        "meaning": "Order of practice.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "abhyāsasya anukramaḥ"
       }
     ],
     "sandhi": [
@@ -6501,14 +6711,18 @@
       {
         "form": "śiva-samprīti",
         "split": "śivasya samprītiḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Śiva’s satisfaction."
+        "type": "Genitive dependent compound",
+        "meaning": "Śiva’s satisfaction.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "śivasya samprītiḥ"
       },
       {
         "form": "mitāhāra",
         "split": "mita (measured) + āhāra (food)",
-        "type": "Karmadhāraya",
-        "meaning": "Measured food."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Measured food.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mitaḥ āhāraḥ"
       }
     ],
     "sandhi": [
@@ -6679,8 +6893,10 @@
       {
         "form": "amla-yukta",
         "split": "amlena yukta",
-        "type": "Instrumental tatpuruṣa",
-        "meaning": "Mixed with sour food."
+        "type": "Instrumental dependent compound",
+        "meaning": "Mixed with sour food.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "amlena yuktam"
       },
       {
         "form": "kadaśana-śākotka",
@@ -6793,8 +7009,10 @@
       {
         "form": "durjana-prānta",
         "split": "durjana (bad person) + prānta (vicinity)",
-        "type": "Genitive relation",
-        "meaning": "Vicinity of bad people."
+        "type": "Genitive dependent compound",
+        "meaning": "Vicinity of bad people.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "durjanasya prāntam"
       },
       {
         "form": "vahni-strī-pathi-sevana",
@@ -6811,8 +7029,10 @@
       {
         "form": "kāya-kleśa-vidhi",
         "split": "kāya (body) + kleśa (affliction) + vidhi (method)",
-        "type": "Nested genitive compound",
-        "meaning": "A method of tormenting the body."
+        "type": "Genitive dependent compound",
+        "meaning": "A method of tormenting the body.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kāyasya kleśaḥ; tasya vidhiḥ"
       }
     ],
     "sandhi": [
@@ -6904,8 +7124,10 @@
       {
         "form": "mudgādi",
         "split": "mudga (mung) + ādi (and others)",
-        "type": "Ādi-ending compound",
-        "meaning": "Mung beans and similar foods."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Mung beans and similar foods.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "mudgaḥ ādiḥ yeṣāṃ te"
       },
       {
         "form": "yamīndra-pathya",
@@ -6997,14 +7219,18 @@
       {
         "form": "dhātu-prapoṣaṇa",
         "split": "dhātūnāṃ prapoṣaṇam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Nourishment of bodily constituents."
+        "type": "Genitive dependent compound",
+        "meaning": "Nourishment of bodily constituents.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "dhātūnāṃ prapoṣaṇam"
       },
       {
         "form": "mano-abhilaṣita",
         "split": "manasā abhilaṣitam",
-        "type": "Instrumental tatpuruṣa",
-        "meaning": "Desired by the mind."
+        "type": "Instrumental dependent compound",
+        "meaning": "Desired by the mind.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "manasā abhilaṣitam"
       }
     ],
     "sandhi": [
@@ -7208,8 +7434,10 @@
       {
         "form": "kriyā-yukta",
         "split": "kriyayā yukta",
-        "type": "Tṛtīyā-tatpuruṣa",
-        "meaning": "Joined to or engaged in action."
+        "type": "Instrumental dependent compound",
+        "meaning": "Joined to or engaged in action.",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "kriyayā yuktaḥ"
       },
       {
         "form": "śāstra-pāṭha-mātra",
@@ -7220,8 +7448,10 @@
       {
         "form": "yoga-siddhi",
         "split": "yogasya siddhiḥ",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Accomplishment of yoga."
+        "type": "Genitive dependent compound",
+        "meaning": "Accomplishment of yoga.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "yogasya siddhiḥ"
       }
     ],
     "notes": [],
@@ -7303,14 +7533,18 @@
       {
         "form": "veṣa-dhāraṇa",
         "split": "veṣasya dhāraṇam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Wearing an outward appearance."
+        "type": "Genitive dependent compound",
+        "meaning": "Wearing an outward appearance.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "veṣasya dhāraṇam"
       },
       {
         "form": "tat-kathā",
         "split": "tasya kathā",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Talk concerning that."
+        "type": "Genitive dependent compound",
+        "meaning": "Talk concerning that.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "tasya kathā"
       }
     ],
     "sandhi": [
@@ -7400,8 +7634,10 @@
       {
         "form": "haṭhābhyāsa",
         "split": "haṭhasya abhyāsaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Practice of haṭha."
+        "type": "Genitive dependent compound",
+        "meaning": "Practice of haṭha.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "haṭhasya abhyāsaḥ"
       },
       {
         "form": "rāja-yoga-phalāvadhi",
@@ -7510,8 +7746,10 @@
       {
         "form": "gurūpadiṣṭa-mārga",
         "split": "guruṇā upadiṣṭaḥ mārgaḥ",
-        "type": "Nested compound; karmadhāraya at outer level",
-        "meaning": "A path taught by the teacher."
+        "type": "Descriptive/appositional compound; internally: Instrumental dependent compound",
+        "meaning": "A path taught by the teacher.",
+        "typeSanskrit": "karmadhārayaḥ; antaḥ tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "guruṇā upadiṣṭaḥ mārgaḥ"
       }
     ],
     "notes": [
@@ -7807,8 +8045,10 @@
       {
         "form": "madhyaga",
         "split": "madhya (centre) + ga (going)",
-        "type": "Verbal compound",
-        "meaning": "Going through the centre."
+        "type": "Compound with a verbal final member",
+        "meaning": "Going through the centre.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "madhye gacchati iti madhyagaḥ"
       },
       {
         "form": "unmanī-bhāva",
@@ -7918,8 +8158,10 @@
       {
         "form": "nāḍī-cakra",
         "split": "nāḍīnām cakram",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Network of channels."
+        "type": "Genitive dependent compound",
+        "meaning": "Network of channels.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍīnāṃ cakram"
       },
       {
         "form": "malākula",
@@ -9390,8 +9632,10 @@
       {
         "form": "nāḍī-śuddhi",
         "split": "nāḍīnām śuddhiḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Purity of channels."
+        "type": "Genitive dependent compound",
+        "meaning": "Purity of channels.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍīnāṃ śuddhiḥ"
       }
     ],
     "sandhi": [
@@ -9483,8 +9727,10 @@
       {
         "form": "nāḍi-śodhana",
         "split": "nāḍīnām śodhanam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Purification of channels."
+        "type": "Genitive dependent compound",
+        "meaning": "Purification of channels.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍīnāṃ śodhanam"
       }
     ],
     "sandhi": [
@@ -9780,8 +10026,10 @@
       {
         "form": "yogi-puṅgava",
         "split": "yogin (yogin) + puṅgava (foremost)",
-        "type": "Appositional honorific",
-        "meaning": "Foremost yogin."
+        "type": "Genitive dependent compound",
+        "meaning": "Foremost yogin.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "yogināṃ puṅgavaḥ"
       }
     ],
     "sandhi": [],
@@ -9909,8 +10157,10 @@
       {
         "form": "gurūpadiṣṭa-mārga",
         "split": "guruṇā upadiṣṭaḥ mārgaḥ",
-        "type": "Nested compound",
-        "meaning": "Path taught by the guru."
+        "type": "Descriptive/appositional compound; internally: Instrumental dependent compound",
+        "meaning": "Path taught by the guru.",
+        "typeSanskrit": "karmadhārayaḥ; antaḥ tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "guruṇā upadiṣṭaḥ mārgaḥ"
       },
       {
         "form": "dhauti-karma",
@@ -11507,14 +11757,18 @@
       {
         "form": "prāṇa-saṃyāma",
         "split": "prāṇasya saṃyāmaḥ",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Restraint of breath."
+        "type": "Genitive dependent compound",
+        "meaning": "Restraint of breath.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "prāṇasya saṃyāmaḥ"
       },
       {
         "form": "nāḍī-cakra",
         "split": "nāḍīnām cakram",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Network of channels."
+        "type": "Genitive dependent compound",
+        "meaning": "Network of channels.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍīnāṃ cakram"
       },
       {
         "form": "suṣumṇā-vadana",
@@ -12717,7 +12971,7 @@
   "2.54": {
     "translation": "One should make a hissing sound at the mouth and exhale through the nose. Through this practice one becomes like a second god of love.",
     "anvaya": "vaktre sītkāṃ kuryāt, tathā ghrāṇena eva vijṛmbhikām [kuryāt]; evam abhyāsa-yogena dvitīyakaḥ kāma-devaḥ [bhavet].",
-    "meaning": "One should produce a hissing sound in the mouth and draw through the nose; through this practice one becomes like a second god of love.",
+    "meaning": "Corrected the earlier draft’s “draw through the nose”: Sinh explicitly interprets the nasal action as expulsion. The critical edition discusses this as sītkārī at 2.54, with a different first half-verse.",
     "words": [
       {
         "form": "sītkām",
@@ -12758,8 +13012,8 @@
       {
         "form": "vijṛmbhikām",
         "lemma": "vijṛmbhikā",
-        "meaning": "opening/expansion, interpreted as breath action",
-        "grammar": "Feminine accusative singular; exact direction/action uncertain."
+        "meaning": "opening or expansion; nasal exhalation in Sinh’s interpretation",
+        "grammar": "Feminine accusative singular; the exact breath action is interpretive."
       },
       {
         "form": "evam",
@@ -12790,14 +13044,18 @@
       {
         "form": "abhyāsa-yoga",
         "split": "abhyāsa (practice) + yoga (application)",
-        "type": "Genitive/appositional relation",
-        "meaning": "Application of practice."
+        "type": "Genitive dependent compound",
+        "meaning": "Application of practice.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "abhyāsasya yogaḥ"
       },
       {
         "form": "kāma-deva",
         "split": "kāma (love/desire) + deva (god)",
-        "type": "Traditional name",
-        "meaning": "The god Kāma."
+        "type": "Genitive dependent compound",
+        "meaning": "The god Kāma.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kāmasya devaḥ"
       }
     ],
     "sandhi": [
@@ -12982,8 +13240,10 @@
       {
         "form": "yogīndra",
         "split": "yogin + indra (lord)",
-        "type": "Honorific compound",
-        "meaning": "Foremost yogin."
+        "type": "Genitive dependent compound",
+        "meaning": "Foremost yogin.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "yoginām indraḥ"
       },
       {
         "form": "bhūmi-maṇḍala",
@@ -13279,8 +13539,10 @@
       {
         "form": "pāda-tala",
         "split": "pādasya talam",
-        "type": "Genitive tatpuruṣa",
-        "meaning": "Sole of a foot."
+        "type": "Genitive dependent compound",
+        "meaning": "Sole of a foot.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "pādasya talam"
       },
       {
         "form": "sarva-pāpa-praṇāśana",
@@ -14195,8 +14457,10 @@
       {
         "form": "abhyāsa-yoga",
         "split": "abhyāsa (practice) + yoga (application)",
-        "type": "Genitive/appositional relation",
-        "meaning": "Application of practice."
+        "type": "Genitive dependent compound",
+        "meaning": "Application of practice.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "abhyāsasya yogaḥ"
       },
       {
         "form": "ānanda-līlā",
@@ -14682,8 +14946,10 @@
       {
         "form": "kevala-kumbhaka",
         "split": "kevala (alone) + kumbhaka (retention)",
-        "type": "Karmadhāraya",
-        "meaning": "Unaccompanied retention."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Unaccompanied retention.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "kevalaḥ kumbhakaḥ"
       },
       {
         "form": "reca-pūraka-varjita",
@@ -15612,8 +15878,10 @@
       {
         "form": "madhya-mārga",
         "split": "madhya + mārga",
-        "type": "Karmadhāraya",
-        "meaning": "Middle path: madhya middle, mārga path."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Middle path: madhya middle, mārga path.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "madhyaḥ mārgaḥ"
       },
       {
         "form": "mahāpatha",
@@ -15789,14 +16057,18 @@
       {
         "form": "mahāmudrā",
         "split": "mahat + mudrā",
-        "type": "Karmadhāraya",
-        "meaning": "Great seal: mahat great, mudrā seal."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Great seal: mahat great, mudrā seal.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mahatī mudrā"
       },
       {
         "form": "mūlabandha",
         "split": "mūla + bandha",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Binding at the root: mūla root, bandha lock."
+        "type": "Genitive dependent compound",
+        "meaning": "Binding at the root: mūla root, bandha lock.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "mūlasya bandhaḥ"
       },
       {
         "form": "jālandharābhidha",
@@ -16093,7 +16365,7 @@
       {
         "form": "yonim",
         "lemma": "yoni",
-        "meaning": "perineal locus, source",
+        "meaning": "the perineal place",
         "grammar": "Feminine accusative singular"
       },
       {
@@ -16169,7 +16441,7 @@
   "3.11": {
     "translation": "Having applied a lock at the throat, one should hold the wind upward. Just as a snake struck with a stick takes the shape of a stick—",
     "anvaya": "kaṇṭhe bandham samāropya vāyum ūrdhvataḥ dhārayet; yathā daṇḍa-hataḥ sarpaḥ daṇḍākāraḥ prajāyate.",
-    "meaning": "The description uses a struck serpent becoming straight as a comparison continued in the next verse.",
+    "meaning": "The historical English’s “carried down” reverses ūrdhvataḥ, “upward”. The snake comparison continues into 3.12; the draft now follows the Sanskrit verse boundary.",
     "words": [
       {
         "form": "kaṇṭhe",
@@ -16272,7 +16544,7 @@
   "3.12": {
     "translation": "—so the power Kuṇḍalī suddenly becomes straight. Then she, resting in the two passages, enters a state like death.",
     "anvaya": "tathā kuṇḍalī śaktiḥ sahasā ṛjvībhūtā bhavet; tadā dvipuṭāśrayā sā maraṇāvasthā jāyate.",
-    "meaning": "The serpent comparison describes Kuṇḍalī becoming straight. The following “death condition” concerns the two passages in traditional interpretation.",
+    "meaning": "Rendered separately from 3.11. The identification of the “two passages” with iḍā and piṅgalā is interpretive; the Sanskrit here does not explicitly say “leaves”.",
     "words": [
       {
         "form": "ṛjvībhūtā",
@@ -16382,7 +16654,7 @@
   "3.13": {
     "translation": "Then one should exhale very slowly, never forcefully. The foremost wise call this very technique mahāmudrā.",
     "anvaya": "tataḥ śanaiḥ śanaiḥ eva recayet, na eva vegataḥ; tena eva vibudhottamāḥ [imām] mahā-mudrām vadanti.",
-    "meaning": "The breath is released slowly. This verse overlaps with the naming explanation repeated in the next verse.",
+    "meaning": "Removed a sentence belonging to the beginning of 3.14 that the historical English joins to its preceding verse.",
     "words": [
       {
         "form": "tataḥ",
@@ -16478,8 +16750,10 @@
       {
         "form": "mahā-mudrā",
         "split": "mahat + mudrā",
-        "type": "Karmadhāraya",
-        "meaning": "Great seal."
+        "type": "Descriptive/appositional compound",
+        "meaning": "Great seal.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mahatī mudrā"
       }
     ],
     "notes": [
@@ -16490,7 +16764,7 @@
   "3.14": {
     "translation": "This mahāmudrā was demonstrated by the great adepts. Afflictions beginning with the great troubles and death diminish; for that very reason the foremost wise call it mahāmudrā.",
     "anvaya": "iyam khalu mahāmudrā mahā-siddhaiḥ pradarśitā; mahā-kleśādayaḥ maraṇādayaḥ doṣāḥ kṣīyante; tena eva vibudhottamāḥ mahā-mudrām vadanti.",
-    "meaning": "A praise and naming explanation: the mudrā is said to remove major afflictions and death.",
+    "meaning": "Restored the opening clause and preserved the repeated mahāmudrā formula in this GRETIL verse. Other editions segment this passage differently.",
     "words": [
       {
         "form": "iyam",
@@ -16617,7 +16891,7 @@
   "3.15": {
     "translation": "Having practised on the moon side, one should practise again on the sun side. When the counts on both sides are equal, one should release the mudrā.",
     "anvaya": "candrāṅge samabhyasya sūryāṅge punaḥ abhyaset; yāvat saṅkhyā tulyā bhavet, tataḥ mudrām visarjayet.",
-    "meaning": "The two sides receive equal practice. Moon and sun identify the left and right sides in this context.",
+    "meaning": "Replaced the historical English’s nostril-specific wording: candrāṅga and sūryāṅga describe sides or limbs in this posture context; nostrils are not specified.",
     "words": [
       {
         "form": "candrāṅge",
@@ -17399,8 +17673,10 @@
       {
         "form": "kaṇṭha-bandha",
         "split": "kaṇṭha + bandha",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Binding of the throat."
+        "type": "Genitive dependent compound",
+        "meaning": "Binding of the throat.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kaṇṭhasya bandhaḥ"
       },
       {
         "form": "rāja-danta-stha-jihvā",
@@ -17732,20 +18008,26 @@
       {
         "form": "mahā-bandha-sthita",
         "split": "mahābandhe sthita",
-        "type": "Saptamī-tatpuruṣa",
-        "meaning": "Situated in the great lock."
+        "type": "Locative dependent compound",
+        "meaning": "Situated in the great lock.",
+        "typeSanskrit": "saptamī-tatpuruṣaḥ",
+        "vigraha": "mahābandhe sthitaḥ"
       },
       {
         "form": "eka-dhī",
         "split": "ekā dhīḥ yasya",
-        "type": "Bahuvrīhi",
-        "meaning": "Whose thought is one: eka one, dhī thought."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Whose thought is one: eka one, dhī thought.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "ekā dhīḥ yasya saḥ"
       },
       {
         "form": "kaṇṭha-mudrā",
         "split": "kaṇṭha + mudrā",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Seal of the throat."
+        "type": "Genitive dependent compound",
+        "meaning": "Seal of the throat.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "kaṇṭhasya mudrā"
       }
     ],
     "notes": [
@@ -17836,14 +18118,18 @@
       {
         "form": "puṭa-dvaya",
         "split": "puṭa + dvaya",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Pair of cavities/passages."
+        "type": "Genitive dependent compound",
+        "meaning": "Pair of cavities/passages.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "puṭayoḥ dvayam"
       },
       {
         "form": "madhyaga",
         "split": "madhye gacchati",
-        "type": "Upapada-tatpuruṣa",
-        "meaning": "Going in the middle."
+        "type": "Compound with a verbal final member",
+        "meaning": "Going in the middle.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "madhye gacchati iti madhyagaḥ"
       }
     ],
     "notes": [
@@ -17934,14 +18220,18 @@
       {
         "form": "soma-sūryāgni-sambandha",
         "split": "soma + sūrya + agni + sambandha",
-        "type": "Dvandva within ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Union of moon, sun and fire."
+        "type": "Genitive dependent compound; internally: Coordinative compound",
+        "meaning": "Union of moon, sun and fire.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ itaretara-dvandvaḥ",
+        "vigraha": "somaḥ ca sūryaḥ ca agniḥ ca; teṣāṃ sambandhaḥ"
       },
       {
         "form": "mṛtāvasthā",
         "split": "mṛta + avasthā",
-        "type": "Karmadhāraya",
-        "meaning": "State resembling death."
+        "type": "Descriptive/appositional compound",
+        "meaning": "State resembling death.",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "mṛtā avasthā"
       }
     ],
     "notes": [
@@ -18117,7 +18407,7 @@
   "3.31": {
     "translation": "This is performed eight times in each watch, day after day, always bringing a store of merit and breaking the mass of wrongdoing. For those properly instructed, this is a modest initial practice.",
     "anvaya": "[etat] yāme yāme dine dine aṣṭadhā kriyate, puṇya-saṃbhāra-sandhāya [sic], sadā pāpaugha-bhiduram; samyak-śikṣāvatām evam svalpam prathama-sādhanam.",
-    "meaning": "An account of repeated practice concludes the triad. The compound ending sandhāya is syntactically uncertain in this transcription.",
+    "meaning": "Sanskrit Documents writes prathamasādhanam continuously where GRETIL has prathama-sādhanam; the anusvāra/m difference is a word-final spelling distinction. The critical edition has a differently segmented passage at 3.30–31. The older English “in 8 ways, daily and hourly” obscures the count and time unit. A yāma is a watch, conventionally about three hours, rather than one hour; the critical edition segments the concluding material differently.",
     "words": [
       {
         "form": "aṣṭadhā",
@@ -19582,8 +19872,10 @@
       {
         "form": "yoga-vid",
         "split": "yoga + vid",
-        "type": "Upapada-tatpuruṣa",
-        "meaning": "Knowing yoga."
+        "type": "Compound with a verbal final member",
+        "meaning": "Knowing yoga.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "yogaṃ vetti iti yogavit"
       }
     ],
     "notes": [
@@ -19911,7 +20203,7 @@
   "3.48": {
     "translation": "The word go denotes the tongue; its insertion into the palate is “eating cow flesh”, which is said to destroy great wrongdoing.",
     "anvaya": "go-śabdena jihvā uditā; tat tāluni praveśaḥ [sic], tat tu mahā-pātaka-nāśanam go-māṃsa-bhakṣaṇam.",
-    "meaning": "The text explains its coded term “cow flesh” as the tongue’s insertion at the palate. The printed tat praveśaḥ is syntactically compressed.",
+    "meaning": "Corrected the mirror’s गी to the Sanskrit go and retained tālu as palate; “gullet” is an interpretive expansion in the historical English.",
     "words": [
       {
         "form": "go-śabdena",
@@ -20272,7 +20564,7 @@
   "3.51": {
     "translation": "With the face turned upward, restraining the tongue in the cavity and contemplating the supreme power, the yogin who drinks the clear, billowing stream from the sixteen-petalled lotus of the head, obtained forcefully through prāṇa, lives long, free from disease and with a body soft as a lotus stalk.",
     "anvaya": "yaḥ ūrdvhāsyaḥ [sic] vivare rasanām niyamya parām śaktim cintayan mūrdhnaḥ ṣoḍaśa-patra-padma-galitam prāṇāt haṭhāt avāptam vimalaṃ dhārāmayam utkallola-kalā-jalam pibet, saḥ nirvyādhiḥ mṛṇāla-komala-vapuḥ yogī ciram jīvati.",
-    "meaning": "A long image of drinking a stream from a sixteen-petalled lotus presents the subtle body in symbolic physiology.",
+    "meaning": "Corrected the historical English’s relocation of the sixteen-petalled lotus to the heart. The Sanskrit locates the falling stream at the head. The source’s ūrdvhāsyo is an apparent transposition; interpret as ūrdhvāsyo. This remains a draft of a difficult long stanza.",
     "words": [
       {
         "form": "mūrdhnaḥ",
@@ -20435,8 +20727,10 @@
       {
         "form": "ṣoḍaśa-patra-padma-galita",
         "split": "ṣoḍaśa + patra + padma + galita",
-        "type": "Nested bahuvrīhi and pañcamī-tatpuruṣa",
-        "meaning": "Flowing from a lotus with sixteen petals."
+        "type": "Ablative dependent compound; internally: Possessive/exocentric compound",
+        "meaning": "Flowing from a lotus with sixteen petals.",
+        "typeSanskrit": "pañcamī-tatpuruṣaḥ; antaḥ bahuvrīhiḥ",
+        "vigraha": "ṣoḍaśa patrāṇi yasya tat padmam; tasmāt padmāt galitam"
       },
       {
         "form": "utkallola-kalā-jala",
@@ -20447,8 +20741,10 @@
       {
         "form": "mṛṇāla-komala-vapus",
         "split": "mṛṇāla + komala + vapus",
-        "type": "Bahuvrīhi with comparison",
-        "meaning": "Whose body is tender like lotus fibre."
+        "type": "Possessive/exocentric compound; internally: Descriptive compound with comparison",
+        "meaning": "Whose body is tender like lotus fibre.",
+        "typeSanskrit": "bahuvrīhiḥ; antaḥ upamāna-karmadhārayaḥ",
+        "vigraha": "mṛṇālam iva komalaṃ vapuḥ yasya saḥ"
       }
     ],
     "notes": [
@@ -21498,7 +21794,7 @@
       {
         "form": "yonim",
         "lemma": "yoni",
-        "meaning": "perineal locus, source",
+        "meaning": "the perineal place",
         "grammar": "Feminine accusative singular"
       },
       {
@@ -21566,8 +21862,10 @@
       {
         "form": "mūla-bandha",
         "split": "mūla + bandha",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Binding at the root."
+        "type": "Genitive dependent compound",
+        "meaning": "Binding at the root.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "mūlasya bandhaḥ"
       }
     ],
     "notes": [
@@ -21875,14 +22173,18 @@
       {
         "form": "prāṇāpāna",
         "split": "prāṇa + apāna",
-        "type": "Itaretara-dvandva",
-        "meaning": "Two vital breaths."
+        "type": "Coordinative compound",
+        "meaning": "Two vital breaths.",
+        "typeSanskrit": "itaretara-dvandvaḥ",
+        "vigraha": "prāṇaḥ ca apānaḥ ca"
       },
       {
         "form": "nāda-bindu",
         "split": "nāda + bindu",
-        "type": "Itaretara-dvandva",
-        "meaning": "Sound and drop/essence."
+        "type": "Coordinative compound",
+        "meaning": "Sound and drop/essence.",
+        "typeSanskrit": "itaretara-dvandvaḥ",
+        "vigraha": "nādaḥ ca binduḥ ca"
       }
     ],
     "notes": [
@@ -21894,7 +22196,7 @@
   "3.65": {
     "translation": "Through the union of apāna and prāṇa, urine and feces diminish. Through constant mūlabandha even an old person becomes young.",
     "anvaya": "mūla-bandhanāt apāna-prāṇayoḥ aikyam, mūtra-purīṣayoḥ kṣayaḥ [bhavati]; vṛddhaḥ api satatam yuvā bhavati.",
-    "meaning": "The text associates root locking with united breaths, reduced excretion and rejuvenation.",
+    "meaning": "Aikya means union or oneness, not purification as in the historical English. The physiological effects are claims of the source text.",
     "words": [
       {
         "form": "apāna-prāṇayoḥ",
@@ -22217,7 +22519,7 @@
   "3.68": {
     "translation": "Heated by that, the sleeping Kuṇḍalinī awakens; hissing like a she-serpent struck with a stick, she becomes straight.",
     "anvaya": "tena santaptā suptā kuṇḍalinī samprabudhyate; daṇḍāhatā bhujaṅgī iva niśvasya ṛjutām vrajet.",
-    "meaning": "The coiled serpent is awakened by heat and compared to a struck snake straightening after a breath.",
+    "meaning": "The historical English’s “struck dead” adds death to the simile and omits niśvasya, breathing or hissing. The Sanskrit says struck, not killed.",
     "words": [
       {
         "form": "tena",
@@ -22406,14 +22708,18 @@
       {
         "form": "brahma-nāḍī",
         "split": "brahman + nāḍī",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Channel of brahman; source segmentation is corrupt here."
+        "type": "Genitive dependent compound",
+        "meaning": "Channel of brahman; source segmentation is corrupt here.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "brahmaṇaḥ nāḍī"
       },
       {
         "form": "mūla-bandha",
         "split": "mūla + bandha",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Root lock."
+        "type": "Genitive dependent compound",
+        "meaning": "Root lock.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "mūlasya bandhaḥ"
       }
     ],
     "notes": [
@@ -23106,8 +23412,10 @@
       {
         "form": "bandha-traya",
         "split": "bandha + traya",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Triad of locks."
+        "type": "Genitive dependent compound",
+        "meaning": "Triad of locks.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "bandhānāṃ trayam"
       },
       {
         "form": "haṭha-tantra",
@@ -23348,7 +23656,7 @@
   "3.79": {
     "translation": "With the navel above and the palate below—the sun above and the moon below—the technique called viparītakaraṇī is learned from the teacher’s words.",
     "anvaya": "[yasya] nābheḥ ūrdhvam bhānuḥ [bhavati], tāloḥ adhaḥ śaśī [bhavati], [sā] viparītākhā [sic] karaṇī guru-vākyena labhyate.",
-    "meaning": "Inversion reverses the relative orientation of the sun and moon. The printed first compound ūrdhva-nābheḥ is compressed and the name has an apparent typo.",
+    "meaning": "The historical wording obscures the inversion: this verse describes the navel/sun above the palate/moon, rather than their ordinary positions. Viparītākhā is a defective source spelling of the technique’s name.",
     "words": [
       {
         "form": "ūrdhva-nābheḥ",
@@ -23427,8 +23735,10 @@
       {
         "form": "guru-vākya",
         "split": "guru + vākya",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Teacher’s statement."
+        "type": "Genitive dependent compound",
+        "meaning": "Teacher’s statement.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "guroḥ vākyam"
       }
     ],
     "notes": [
@@ -23440,7 +23750,7 @@
   "3.80": {
     "translation": "For one continually engaged in practice it increases the digestive fire; abundant food should therefore be provided for that practitioner.",
     "anvaya": "nityam abhyāsa-yuktasya [sā] jaṭharāgni-vivardhanī; tasya sādhakasya bahulaḥ āhāraḥ sampādyaḥ.",
-    "meaning": "Increased digestive fire is given as the reason for abundant food in the text.",
+    "meaning": "Sanskrit Documents has jaṭharāgnivivardhinī against GRETIL jaṭharāgni-vivardhanī. The Sinh English 79–81 divides this passage differently from GRETIL 3.80–82. The old English includes the warning about scant food from the next Sanskrit verse. The draft now follows GRETIL’s boundary.",
     "words": [
       {
         "form": "nityam",
@@ -23531,7 +23841,7 @@
   "3.81": {
     "translation": "If food is scant, the fire burns at once. On the first day one should be head downward and feet upward for a moment.",
     "anvaya": "yadi alpāhāraḥ bhavet, agniḥ tat-kṣaṇāt dahati; prathame dine adhaḥ-śirāḥ ūrdhva-pādaḥ ca kṣaṇam syāt.",
-    "meaning": "The text warns about insufficient food and then begins a duration schedule for inversion.",
+    "meaning": "Restored the warning from the first half of this verse; the instruction to increase the duration belongs to 3.82. Kṣaṇa is rendered “moment”, without equating it to a modern second.",
     "words": [
       {
         "form": "alpāhāraḥ",
@@ -23652,7 +23962,7 @@
   "3.82": {
     "translation": "One should practise a little longer than a moment each day. After six months wrinkles and grey hair are no longer seen. Whoever practises daily for a watch is said to conquer time.",
     "anvaya": "kṣaṇāt kiṃcit adhikam dine dine abhyaset; ṣaṇmāsa-ūrdhvam valitam palitam ca na dṛśyate; yaḥ nityam yāma-mātram abhyaset, saḥ kālajit.",
-    "meaning": "A progressive duration is followed by claims about grey hair, wrinkles and conquering Time.",
+    "meaning": "Restored the first half-line omitted by the historical English at this boundary. Yāma is a watch, conventionally about three hours; the historical English’s “two hours” is not adopted.",
     "words": [
       {
         "form": "kṣaṇāt",
@@ -25011,7 +25321,7 @@
   "3.95": {
     "translation": "This yoga succeeds for the meritorious, steadfast, truth-seeing, and unenvious, but not for those filled with envy.",
     "anvaya": "ayam yogaḥ puṇyavatām dhīrāṇām tattva-darśinām nirmatsarāṇām sidhyet, matsara-śālinām tu na.",
-    "meaning": "Successful practice is attributed to merit, steadiness, insight and absence of envy. Sinh’s “sloth” is not a literal rendering of matsara.",
+    "meaning": "Corrected “free from sloth ... slothful”: nirmatsara and matsara concern freedom from envy and envy, not laziness.",
     "words": [
       {
         "form": "ayam",
@@ -25091,14 +25401,18 @@
       {
         "form": "tattva-darśin",
         "split": "tattva + darśin",
-        "type": "Upapada-tatpuruṣa",
-        "meaning": "Seeing reality."
+        "type": "Compound with a verbal final member",
+        "meaning": "Seeing reality.",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "tattvaṃ paśyati iti tattvadarśī"
       },
       {
         "form": "nir-matsara",
         "split": "nis + matsara",
-        "type": "Privative bahuvrīhi",
-        "meaning": "Free from envy."
+        "type": "Possessive/exocentric compound",
+        "meaning": "Free from envy.",
+        "typeSanskrit": "bahuvrīhiḥ",
+        "vigraha": "nirgataḥ matsaraḥ yasya saḥ"
       },
       {
         "form": "matsara-śālin",
@@ -27980,8 +28294,10 @@
       {
         "form": "mala-śodhana",
         "split": "mala + śodhana",
-        "type": "Ṣaṣṭhī-tatpuruṣa",
-        "meaning": "Purification of impurities."
+        "type": "Genitive dependent compound",
+        "meaning": "Purification of impurities.",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "malasya śodhanam"
       },
       {
         "form": "prakṣālanopāya",
@@ -29437,8 +29753,10 @@
       {
         "form": "guru-vākya",
         "split": "guru + vākya",
-        "type": "genitive tatpuruṣa",
-        "meaning": "guru: teacher; vākya: statement"
+        "type": "Genitive dependent compound",
+        "meaning": "guru: teacher; vākya: statement",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "guroḥ vākyam"
       }
     ],
     "notes": [
@@ -29517,8 +29835,10 @@
       {
         "form": "viṣaya-tyāga",
         "split": "viṣaya + tyāga",
-        "type": "object-dependent tatpuruṣa",
-        "meaning": "viṣaya: sense object; tyāga: abandonment"
+        "type": "Genitive dependent compound",
+        "meaning": "viṣaya: sense object; tyāga: abandonment",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "viṣayāṇāṃ tyāgaḥ"
       },
       {
         "form": "tattva-darśana",
@@ -29788,8 +30108,10 @@
       {
         "form": "yoga-vid",
         "split": "yoga + vid",
-        "type": "object-dependent compound",
-        "meaning": "yoga: yoga; vid: knowing"
+        "type": "Compound with a verbal final member",
+        "meaning": "yoga: yoga; vid: knowing",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "yogaṃ vetti iti yogavit"
       }
     ],
     "notes": [
@@ -30252,14 +30574,18 @@
       {
         "form": "madhyaga",
         "split": "madhya + ga",
-        "type": "dependent compound",
-        "meaning": "madhya: middle; ga: going"
+        "type": "Compound with a verbal final member",
+        "meaning": "madhya: middle; ga: going",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "madhye gacchati iti madhyagaḥ"
       },
       {
         "form": "brahma-randhra",
         "split": "brahman + randhra",
-        "type": "genitive tatpuruṣa",
-        "meaning": "brahman: brahman; randhra: opening"
+        "type": "Genitive dependent compound",
+        "meaning": "brahman: brahman; randhra: opening",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "brahmaṇaḥ randhram"
       }
     ],
     "notes": [
@@ -30437,8 +30763,10 @@
       {
         "form": "nāḍī-dvāra",
         "split": "nāḍī + dvāra",
-        "type": "genitive tatpuruṣa",
-        "meaning": "nāḍī: channel; dvāra: opening"
+        "type": "Genitive dependent compound",
+        "meaning": "nāḍī: channel; dvāra: opening",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nāḍyāḥ dvāram"
       }
     ],
     "notes": [
@@ -31101,8 +31429,10 @@
       {
         "form": "indriya-varga-vṛtti",
         "split": "indriya + varga + vṛtti",
-        "type": "nested genitive tatpuruṣa",
-        "meaning": "indriya: sense; varga: group; vṛtti: functioning"
+        "type": "Genitive dependent compound",
+        "meaning": "indriya: sense; varga: group; vṛtti: functioning",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "indriyāṇāṃ vargaḥ; tasya vṛttiḥ"
       },
       {
         "form": "mokṣa-pada",
@@ -31934,8 +32264,10 @@
       {
         "form": "jīva-bhūta",
         "split": "jīva + bhūta",
-        "type": "descriptive compound",
-        "meaning": "jīva: living; bhūta: being"
+        "type": "Descriptive/appositional compound",
+        "meaning": "jīva: living; bhūta: being",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "jīvaḥ bhūtaḥ"
       }
     ],
     "notes": [
@@ -35853,8 +36185,10 @@
       {
         "form": "madhyaga",
         "split": "madhya + ga",
-        "type": "dependent compound",
-        "meaning": "madhya: middle; ga: going"
+        "type": "Compound with a verbal final member",
+        "meaning": "madhya: middle; ga: going",
+        "typeSanskrit": "upapada-tatpuruṣaḥ",
+        "vigraha": "madhye gacchati iti madhyagaḥ"
       },
       {
         "form": "dṛḍhāsana",
@@ -38619,8 +38953,10 @@
       {
         "form": "nāda-rūpa",
         "split": "nāda + rūpa",
-        "type": "descriptive compound",
-        "meaning": "nāda: sound; rūpa: form"
+        "type": "Genitive dependent compound",
+        "meaning": "nāda: sound; rūpa: form",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nādasya rūpam"
       },
       {
         "form": "tattvānta",
@@ -38867,8 +39203,10 @@
       {
         "form": "nādānusandhāna",
         "split": "nāda + anusandhāna",
-        "type": "object-dependent tatpuruṣa",
-        "meaning": "nāda: sound; anusandhāna: attention"
+        "type": "Genitive dependent compound",
+        "meaning": "nāda: sound; anusandhāna: attention",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ",
+        "vigraha": "nādasya anusandhānam"
       },
       {
         "form": "pāpa-saṃcaya",
@@ -39058,8 +39396,10 @@
       {
         "form": "sarva-cintā-vivarjita",
         "split": "sarva + cintā + vivarjita",
-        "type": "dependent compound",
-        "meaning": "sarva: all; cintā: thought; vivarjita: free of"
+        "type": "Instrumental dependent compound",
+        "meaning": "sarva: all; cintā: thought; vivarjita: free of",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "sarvābhiḥ cintābhiḥ vivarjitaḥ"
       }
     ],
     "notes": [
@@ -39440,8 +39780,8 @@
       {
         "form": "upamānam",
         "lemma": "upamāna",
-        "meaning": "source says comparison, intended dishonor uncertain",
-        "grammar": "acc. sg. n."
+        "meaning": "comparison as written; “dishonour” would require the reading apamānam",
+        "grammar": "Neuter accusative singular; the transmitted reading is uncertain in context."
       },
       {
         "form": "ca",
@@ -39829,20 +40169,26 @@
       {
         "form": "madhya-mārga",
         "split": "madhya + mārga",
-        "type": "karmadhāraya",
-        "meaning": "madhya: central; mārga: path"
+        "type": "Descriptive/appositional compound",
+        "meaning": "madhya: central; mārga: path",
+        "typeSanskrit": "karmadhārayaḥ",
+        "vigraha": "madhyaḥ mārgaḥ"
       },
       {
         "form": "prāṇa-vāta-prabandha",
         "split": "prāṇa + vāta + prabandha",
-        "type": "nested dependent compound",
-        "meaning": "prāṇa: vital; vāta: wind; prabandha: binding"
+        "type": "Genitive dependent compound; internally: Descriptive/appositional compound",
+        "meaning": "prāṇa: vital; vāta: wind; prabandha: binding",
+        "typeSanskrit": "ṣaṣṭhī-tatpuruṣaḥ; antaḥ karmadhārayaḥ",
+        "vigraha": "prāṇarūpasya vātasya prabandhaḥ"
       },
       {
         "form": "sahaja-sadṛśa",
         "split": "sahaja + sadṛśa",
-        "type": "comparative tatpuruṣa",
-        "meaning": "sahaja: innate state; sadṛśa: resembling"
+        "type": "Instrumental dependent compound",
+        "meaning": "sahaja: innate state; sadṛśa: resembling",
+        "typeSanskrit": "tṛtīyā-tatpuruṣaḥ",
+        "vigraha": "sahajena sadṛśam"
       },
       {
         "form": "dambha-mithyā-pralāpa",

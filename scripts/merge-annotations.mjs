@@ -8,6 +8,7 @@ for(const name of ['annotations.json','annotations-12.json','annotations-3.json'
 const sorted=Object.fromEntries(Object.entries(merged).sort(([a],[b])=>{const ac=a.split('.').map(Number),bc=b.split('.').map(Number);return ac[0]-bc[0]||ac[1]-bc[1]}));
 const corpus=JSON.parse(fs.readFileSync(new URL('corpus.json',directory),'utf8'));
 const curation=JSON.parse(fs.readFileSync(new URL('curation.json',directory),'utf8'));
+const grammarCuration=JSON.parse(fs.readFileSync(new URL('grammar-curation.json',directory),'utf8'));
 for(const verse of corpus){
  const annotation=sorted[verse.id];
  if(!annotation)continue;
@@ -20,7 +21,16 @@ for(const verse of corpus){
  const correction=curation.verses[verse.id];
  if(correction?.draftTranslation){
   annotation.translation=correction.draftTranslation;
+  annotation.meaning=correction.notes.join(' ');
   annotation.translationAuthor='Study Atlas editorial rendering (unreviewed)';
+ }
+ for(const word of annotation.words){
+  const edit=grammarCuration.words[verse.id]?.[word.form];
+  if(edit)Object.assign(word,edit);
+ }
+ for(const compound of annotation.compounds){
+  const edit=grammarCuration.compounds[compound.form];
+  if(edit)Object.assign(compound,edit);
  }
 }
 const target=new URL('study-annotations.json',directory),temporary=new URL('study-annotations.tmp',directory);

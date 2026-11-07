@@ -1,0 +1,88 @@
+// Run against a headless Chrome CDP endpoint; see README for the command.
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const output=process.env.QA_OUTPUT_DIR||'/tmp/pradipika-browser-qa';fs.mkdirSync(output,{recursive:true});
+const base=process.env.APP_URL||'http://127.0.0.1:8787';
+const targets=await fetch((process.env.BROWSER_DEBUG_URL||'http://127.0.0.1:9223')+'/json').then(r=>r.json());
+const ws=new WebSocket(targets.find(t=>t.type==='page').webSocketDebuggerUrl);
+await new Promise(r=>ws.addEventListener('open',r,{once:true}));
+let serial=0;const pending=new Map();const errors=[];
+ws.addEventListener('message',event=>{const m=JSON.parse(event.data);if(m.id){const p=pending.get(m.id);pending.delete(m.id);m.error?p.reject(m.error):p.resolve(m.result);}if(m.method==='Runtime.exceptionThrown')errors.push(m.params.exceptionDetails);});
+const call=(method,params={})=>new Promise((resolve,reject)=>{const id=++serial;pending.set(id,{resolve,reject});ws.send(JSON.stringify({id,method,params}));});
+const evaluate=async expression=>{const r=await call('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(r.exceptionDetails)throw new Error(JSON.stringify(r.exceptionDetails));return r.result.value;};
+const until=async expression=>{for(let i=0;i<80;i++){if(await evaluate(`Boolean(${expression})`))return;await new Promise(r=>setTimeout(r,150));}throw new Error('Timed out: '+expression);};
+const choose=async value=>{await evaluate(`document.querySelector('[aria-label="Use ${value[0].toUpperCase()+value.slice(1)} theme"]').click()`);await until(`localStorage.getItem('hpa-theme')===${JSON.stringify(value)}`);};
+await call('Runtime.enable');await call('Page.enable');
+await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
+await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-color-scheme',value:'light'}]});
+await call('Page.navigate',{url:base});
+await until(`document.querySelector('[aria-label="Reading theme"]') && document.querySelector('.graph')`);
+await until(`document.querySelector('.theme-control')?.dataset.ready==='true'`);await choose('dark');await until(`document.documentElement.dataset.theme==='dark'`);
+assert.equal(await evaluate(`getComputedStyle(document.body).backgroundColor`),'rgb(17, 26, 35)');
+await call('Page.reload');await until(`document.querySelector('[aria-label="Reading theme"]')?.value==='2' && document.querySelector('.graph')`);
+assert.equal(await evaluate(`document.documentElement.dataset.theme`),'dark');
+fs.writeFileSync(output+'/dark-desktop.png',Buffer.from((await call('Page.captureScreenshot')).data,'base64'));
+await evaluate(`document.querySelector('[aria-label="Reading theme"]').focus()`);await call('Input.dispatchKeyEvent',{type:'keyDown',key:'Home',code:'Home',windowsVirtualKeyCode:36});await call('Input.dispatchKeyEvent',{type:'keyUp',key:'Home',code:'Home',windowsVirtualKeyCode:36});await until(`localStorage.getItem('hpa-theme')==='light'`);await choose('light');await until(`document.documentElement.dataset.theme==='light'`);
+assert.equal(await evaluate(`getComputedStyle(document.body).backgroundColor`),'rgb(248, 245, 238)');
+await choose('system');
+await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-color-scheme',value:'dark'}]});await until(`document.documentElement.dataset.theme==='dark'`);
+await call('Emulation.setEmulatedMedia',{features:[{name:'prefers-color-scheme',value:'light'}]});await until(`document.documentElement.dataset.theme==='light'`);
+await choose('dark');
+await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+await call('Page.reload');await until(`document.querySelector('.mobile-nav') && document.querySelector('[aria-label="Reading theme"]')?.value==='2'`);
+assert.ok(await evaluate(`document.documentElement.scrollWidth<=innerWidth`),'Mobile horizontal overflow');
+assert.ok(await evaluate(`(()=>{const r=document.querySelector('[aria-label="Reading theme"]').getBoundingClientRect();return r.x>=0&&r.right<=innerWidth&&r.width>0})()`),'Theme control must remain visible on mobile');
+fs.writeFileSync(output+'/dark-mobile.png',Buffer.from((await call('Page.captureScreenshot')).data,'base64'));
+await call('Emulation.setDeviceMetricsOverride',{width:320,height:780,deviceScaleFactor:1,mobile:true});
+assert.ok(await evaluate(`document.documentElement.scrollWidth<=innerWidth`),'320px phone must not overflow');
+await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
+await call('Page.navigate',{url:base+'/?check=historical#3.4'});await until(`document.querySelector('.theme-control')?.dataset.ready==='true' && document.querySelector('.hero-number')?.textContent==='3.4'`);
+assert.equal(await evaluate(`document.querySelector('.detail-body .mini-label').textContent`),'PANCHAM SINH · HISTORICAL TRANSLATION');
+await call('Page.navigate',{url:base+'/?check=editorial#3.11'});await until(`document.querySelector('.theme-control')?.dataset.ready==='true' && document.querySelector('.hero-number')?.textContent==='3.11'`);
+assert.match(await evaluate(`document.querySelector('.translation').textContent`),/upward/);
+assert.match(await evaluate(`document.querySelector('.detail-body .mini-label').textContent`),/DRAFT/);
+await evaluate(`Array.from(document.querySelectorAll('button')).find(b=>b.textContent==='Sources & coverage').click()`);
+await until(`document.querySelector('.sources-content')`);
+assert.match(await evaluate(`document.querySelector('.sources-content').textContent`),/16 draft translations were corrected/);
+fs.writeFileSync(output+'/sources-dark.png',Buffer.from((await call('Page.captureScreenshot')).data,'base64'));
+
+await call('Page.navigate',{url:base+'/?check=grammar#1.1'});await until(`location.search==='?check=grammar' && document.querySelector('.theme-control')?.dataset.ready==='true' && document.querySelector('.hero-number')?.textContent==='1.1'`);
+await evaluate(`Array.from(document.querySelectorAll('[role="tab"]')).find(b=>b.textContent==='Words').click()`);
+await until(`document.querySelector('.word-grammar-sa')`);
+assert.match(await evaluate(`document.querySelector('.word-grammar-sa').textContent`),/caturthī.*ekavacanam/);
+assert.ok(await evaluate(`Boolean(document.querySelector('.word-compounds'))`));
+await evaluate(`document.querySelector('.word-compounds').open=true`);
+assert.match(await evaluate(`document.querySelector('.word-compounds').textContent`),/samās|Syntactic expansion/i);
+await evaluate(`document.querySelector('.detail-panel').scrollTop=650`);
+fs.writeFileSync(output+'/words-dark.png',Buffer.from((await call('Page.captureScreenshot')).data,'base64'));
+
+const contrast=await evaluate(`(()=>{
+ const rgb=s=>{const m=s.match(/rgba?\\(([^)]+)\\)/);return m?m[1].split(',').slice(0,3).map(Number):null};
+ const lum=c=>c.map(n=>n/255).map(v=>v<=.04045?v/12.92:((v+.055)/1.055)**2.4).reduce((sum,v,i)=>sum+v*[.2126,.7152,.0722][i],0);
+ const failures=[];let count=0,minimum=100;
+ for(const el of document.querySelectorAll('.word-grammar-sa,.grammar-english,.word-entry strong,.analysis-card p,.vigraha,.translation,.concept-label,.node-title,.node-dev,.mini-label,.theme-stops button,.topnav button')){
+  const rect=el.getBoundingClientRect();if(!rect.width||!rect.height||el.closest('[disabled]'))continue;
+  const style=getComputedStyle(el);const foreground=rgb(el instanceof SVGElement?style.fill:style.color);if(!foreground)continue;
+  let ancestor=el,background=null;
+  if(el.matches('.node-title,.node-dev'))background=[35,60,80];
+  while(ancestor&&!background){const color=getComputedStyle(ancestor).backgroundColor;if(color!=='rgba(0, 0, 0, 0)'&&color!=='transparent')background=rgb(color);ancestor=ancestor.parentElement;}
+  if(!background)continue;const a=lum(foreground),b=lum(background);const ratio=(Math.max(a,b)+.05)/(Math.min(a,b)+.05);count++;minimum=Math.min(minimum,ratio);if(ratio<4.5)failures.push({text:el.textContent.slice(0,60),ratio,foreground,background});
+ }
+ return {count,minimum,failures};
+})()`);
+fs.writeFileSync(output+'/contrast.json',JSON.stringify(contrast,null,2));
+assert.ok(contrast.count>20,'Contrast test must inspect actual text');
+assert.deepEqual(contrast.failures,[],'Text contrast must reach 4.5:1');
+console.log('Dark-mode text contrast:',contrast.count,'elements; minimum',contrast.minimum.toFixed(2)+':1');
+for(const passage of ['2.28','2.34','4.33','4.114']){
+ await call('Page.navigate',{url:base+'/?check=word-layout-'+passage+'#'+passage});
+ await until(`document.querySelector('.theme-control')?.dataset.ready==='true' && document.querySelector('.hero-number')?.textContent===${JSON.stringify(passage)}`);
+ await evaluate(`Array.from(document.querySelectorAll('[role="tab"]')).find(b=>b.textContent==='Words').click()`);
+ await until(`document.querySelector('.word-grammar-sa')`);
+ assert.ok(await evaluate(`(()=>{const p=document.querySelector('.detail-panel');return p.scrollWidth<=p.clientWidth+1})()`),'Word panel overflow at '+passage);
+}
+assert.deepEqual(errors,[],'Browser runtime errors');
+console.log('PASS: light/dark/system, live OS changes, reload persistence, mobile fit, historical attribution, corrected draft, source audit; no browser exceptions.');
+
+
+ws.close();
