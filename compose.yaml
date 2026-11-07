@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    ports:
+      - "127.0.0.1:${PORT:-8787}:8787"
+    init: true
+    restart: unless-stopped
+    volumes:
+      - worker-state:/app/.wrangler/state
+
+volumes:
+  worker-state:

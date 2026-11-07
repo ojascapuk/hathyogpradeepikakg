@@ -13,6 +13,36 @@ npm run dev
 
 Use the local address printed by the development server. To build, run `npm run build`. The supplied Sites runtime integration is retained for deployment. The site is private by default on Sites.
 
+## Run with Docker
+
+Install Docker with the Compose plugin, then run:
+
+```sh
+docker compose up --build -d
+```
+
+Open http://localhost:8787. Set a different host port with, for example,
+`PORT=8080 docker compose up --build -d`. View logs with `docker compose logs -f`
+and stop the app with `docker compose down`.
+
+The multi-stage image builds the app with Node 22 and serves the compiled Vinext
+Worker through Wrangler's local runtime as a non-root user. No Cloudflare account
+is required. Compose binds the port to the local machine. Sites hosting privacy,
+ChatGPT sign-in, and hosted connector services are not provided by this container;
+configure access control separately if exposing it beyond your machine.
+See the [Wrangler runtime documentation](https://developers.cloudflare.com/workers/wrangler/commands/workers/).
+
+Worker state persists in a Docker volume. Reading notes and bookmarks remain in
+your browser's local storage, scoped to the address and port you use. Rebuild
+after changing source files; this setup serves a built app without hot reload.
+
+To use Docker without Compose:
+
+```sh
+docker build -t pradipika-atlas .
+docker run --rm --init -p 127.0.0.1:8787:8787 pradipika-atlas
+```
+
 ## Read and explore
 
 - Select chapter, concept, or verse nodes; use the zoom buttons and drag the graph background to pan. Every verse is accessible in the library and by search.
