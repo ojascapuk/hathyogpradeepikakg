@@ -81,8 +81,24 @@ for(const passage of ['2.28','2.34','4.33','4.114']){
  await until(`document.querySelector('.word-grammar-sa')`);
  assert.ok(await evaluate(`(()=>{const p=document.querySelector('.detail-panel');return p.scrollWidth<=p.clientWidth+1})()`),'Word panel overflow at '+passage);
 }
+await call('Page.navigate',{url:base+'/?check=compound#1.41'});
+await until(`document.querySelector('.theme-control')?.dataset.ready==='true' && document.querySelector('.hero-number')?.textContent==='1.41'`);
+await evaluate(`Array.from(document.querySelectorAll('[role="tab"]')).find(b=>b.textContent==='Sandhi').click()`);
+await until(`document.querySelector('.compound-form')`);
+assert.match(await evaluate(`document.querySelector('.compound-form').textContent`),/चतुरशीति.*पीठ/);
+assert.match(await evaluate(`document.querySelector('.compound-part-script').textContent`),/चतुरशीति.*caturaśīti.*84/);
+assert.match(await evaluate(`document.querySelector('.sandhi-parts').textContent`),/सदा.*अभ्यसेत्.*sadā.*abhyaset/);
+await call('Page.navigate',{url:base+'/?check=wikipedia'});
+await until(`document.querySelector('.theme-control')?.dataset.ready==='true'`);
+await evaluate(`document.querySelector('.concept-index summary').click()`);
+for(const concept of ['Bhrāmarī','Bhastrikā','Neti']){
+ await evaluate(`Array.from(document.querySelectorAll('.concept-index button')).find(b=>b.textContent.includes(${JSON.stringify(concept)})).click()`);
+ await until(`document.querySelector('.wikipedia-link')?.textContent.includes(${JSON.stringify(concept)})`);
+ assert.ok((await evaluate(`document.querySelector('.wikipedia-link').href`)).includes('en.wikipedia.org/w/index.php?search='));
+ assert.ok((await evaluate(`new URL(document.querySelector('.wikipedia-link').href).searchParams.get('search')`)).includes(concept));
+}
 assert.deepEqual(errors,[],'Browser runtime errors');
-console.log('PASS: light/dark/system, live OS changes, reload persistence, mobile fit, historical attribution, corrected draft, source audit; no browser exceptions.');
+console.log('PASS: light/dark/system, live OS changes, reload persistence, mobile fit, historical attribution, corrected draft, source audit, Devanagari-first sandhi/samasa, concept Wikipedia links; no browser exceptions.');
 
 
 ws.close();

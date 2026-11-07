@@ -57,7 +57,8 @@ and citations live in `lib/curation.json` and survive corpus re-imports.
 
 - Select chapter, concept, or verse nodes; use the zoom buttons and drag the graph background to pan. Every verse is accessible in the library and by search.
 - Search in Devanāgarī or Roman letters, with or without IAST diacritics. Verse references work too. Press `/` to focus search and Escape to close the passage panel.
-- Use Meaning, Words, Sandhi, and Notes in the passage panel. Word entries show Sanskrit grammatical terms in Devanāgarī and IAST before their English explanations. Matching compound analyses can be expanded directly under a word. Explicit Sanskrit vigrahas are distinguished from component lists; uncertain readings remain qualified. The Sounds button opens the Sanskrit companion; it does not generate authoritative recitation audio.
+- Use Meaning, Words, Sandhi, and Notes in the passage panel. Word entries show Sanskrit grammatical terms in Devanāgarī and IAST before their English explanations. Sandhi forms, split parts, compound forms, and compound components prioritize Devanāgarī, with IAST and glosses alongside them. Matching compound analyses can be expanded directly under a word. Explicit Sanskrit vigrahas are distinguished from component lists; uncertain readings remain qualified. The Sounds button opens the Sanskrit companion; it does not generate authoritative recitation audio.
+- Open any concept in the knowledge graph or concept index to find a Wikipedia search link based on its name and Sanskrit terms.
 - Switch between Devanāgarī, IAST, and both using the script control.
 - Save passages and add notes. Notes remain in browser local storage on that device. Export the notebook for a portable copy.
 - The concordance indexes exact source tokens plus components at editorial hyphens. It is not a morphological lemma index.

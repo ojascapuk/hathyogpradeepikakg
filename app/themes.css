@@ -68,6 +68,20 @@
 .word-entry .grammar-english { margin-top:4px; }
 .compound-type { margin:14px 0; }
 .compound-type b { margin-bottom:6px; }
+.analysis-card .compound-form,.sandhi-card>strong { font-family:'Noto Serif Devanagari',serif; font-size:21px; line-height:1.7; color:var(--ink); }
+.analysis-card .compound-iast,.sandhi-card .sandhi-iast { font-size:12px; margin:3px 0 10px; }
+.compound-parts { display:flex; flex-wrap:wrap; align-items:flex-start; gap:5px; margin:8px 0; }
+.compound-part { display:flex!important; align-items:center; gap:5px; margin:0!important; }
+.compound-part-script { display:flex; flex-direction:column; gap:2px; }
+.compound-part-script [lang="sa"] { font-family:'Noto Serif Devanagari',serif; font-size:16px; line-height:1.7; color:var(--ink); }
+.compound-part-script [lang="sa-Latn"] { font-size:11px; color:var(--muted); }
+.compound-part-script small { font-size:10px; color:var(--muted); }
+.compound-separator { font-size:13px!important; margin:0!important; color:var(--muted)!important; }
+.sandhi-parts { margin:8px 0; }
+.sandhi-parts span:first-child { font-family:'Noto Serif Devanagari',serif; font-size:17px; line-height:1.8; color:var(--ink); }
+.sandhi-parts span+span { font-size:11px; margin:2px 0 0; color:var(--muted); }
+.wikipedia-link { width:fit-content; }
+[data-theme="dark"] .analysis-card .compound-form,[data-theme="dark"] .sandhi-card>strong,[data-theme="dark"] .compound-part-script [lang="sa"],[data-theme="dark"] .sandhi-parts span:first-child { color:var(--ink); }
 @media (max-width:370px) {
   .theme-control { width:95px; }
   .top-actions { gap:6px; }

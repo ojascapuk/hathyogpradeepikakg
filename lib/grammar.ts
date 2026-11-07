@@ -73,3 +73,10 @@ export function sanskritCompoundType(type:string):string {
   // A descriptive English relation is not sufficient to assign a formal type.
   return kinds.join(' / ');
 }
+
+export function splitCompoundParts(split:string):Array<{form:string;gloss?:string}> {
+  return split.split(/\s+\+\s+/).map(part=>{
+    const match=part.match(/^(.+?)\s+\(([^()]*)\)$/);
+    return match?{form:match[1],gloss:match[2]}:{form:part};
+  });
+}

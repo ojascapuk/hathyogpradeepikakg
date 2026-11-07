@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {sanskritGrammar,compoundMatches,sanskritCompoundType} from '../lib/grammar.ts';
+import {sanskritGrammar,compoundMatches,sanskritCompoundType,splitCompoundParts} from '../lib/grammar.ts';
+import {devanagari} from '../lib/sanskrit.ts';
 
 assert.equal(sanskritGrammar('Masculine nominative singular.'),'prathamā vibhaktiḥ · ekavacanam · puṃliṅgam');
 assert.equal(sanskritGrammar('Feminine accusative plural.'),'dvitīyā vibhaktiḥ · bahuvacanam · strīliṅgam');
@@ -17,6 +18,10 @@ assert.ok(compoundMatches({form:'nāsāgre',lemma:'nāsāgra'},{form:'nāsāgra'
 assert.ok(!compoundMatches({form:'yogī',lemma:'yogin'},{form:'yoga-siddhi'}));
 assert.equal(sanskritCompoundType('Genitive tatpuruṣa'),'ṣaṣṭhī-tatpuruṣaḥ');
 assert.equal(sanskritCompoundType('Traditional name'),'');
+const seatParts=splitCompoundParts('caturaśīti (84) + pīṭha (seat)');
+assert.deepEqual(seatParts,[{form:'caturaśīti',gloss:'84'},{form:'pīṭha',gloss:'seat'}]);
+assert.equal(devanagari(seatParts[0].form),'चतुरशीति');
+assert.equal(devanagari(seatParts[1].form),'पीठ');
 
 const annotations=JSON.parse(fs.readFileSync(new URL('../lib/study-annotations.json',import.meta.url),'utf8'));
 const curation=JSON.parse(fs.readFileSync(new URL('../lib/grammar-curation.json',import.meta.url),'utf8'));
