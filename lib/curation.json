@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-07",
+  "policy": "Preserve the named GRETIL transcription; correct import artifacts, attribution, and demonstrated draft errors. Comparisons do not constitute independent scholarly certification.",
+  "verses": {
+    "1.16": {
+      "notes": [
+        "The critical edition 1.16 has a substantially different list, including contentment and realization of truth. Correcting the isolated sandhi of the older transcription does not establish the critical reading. These edition differences must not be conflated."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp01_016"
+      ]
+    },
+    "1.18": {
+      "notes": [
+        "The draft’s “recitation” interprets a reading japo, supported by the critical edition’s appended verse 1.16_2, against the repeated tapo in this transcription. This is an editorial interpretation, not a literal rendering of every transmitted syllable."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp01_016_2"
+      ]
+    },
+    "1.21": {
+      "notes": [
+        "Sinh’s English says “hands”; the Sanskrit pāda-tale ubhe means “both soles”. The editorial draft follows the Sanskrit. The historical wording is retained with attribution."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp01_019"
+      ]
+    },
+    "1.22": {
+      "notes": [
+        "Sanskrit Documents has gulkaṃ where GRETIL has gulphaṃ (ankle). This is a transcription difference; the atlas retains its named GRETIL base."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "1.50": {
+      "notes": [
+        "Sanskrit Documents has padmamāsanaṃ against GRETIL padmāsanaṃ. The extra syllable is not imported into the base text."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "1.52": {
+      "notes": [
+        "Sanskrit Documents has sīvantyāḥ against GRETIL sīvanyāḥ; compare the same difference at 1.55. Both displays need to be distinguished from independent manuscript evidence."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "1.53": {
+      "notes": [
+        "Sanskrit Documents has vyātta-vakto where GRETIL has vyātta-vaktro (with mouth open). The atlas retains the GRETIL reading."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "1.55": {
+      "notes": [
+        "Sanskrit Documents has sīvantyāḥ against GRETIL sīvanyāḥ. The Sinh English 55–57 crosses the Sanskrit 55–57 boundaries; shared text is repeated with its full English reference numbers."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "1.59": {
+      "notes": [
+        "Sanskrit Documents has bhavedsiddho against GRETIL bhavet siddho. This is a consonant-sandhi/spelling difference; the named GRETIL source is preserved."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "2.40": {
+      "notes": [
+        "Sanskrit Documents has kāla-bhayaṃ śrutaḥ where GRETIL has kāla-bhayaṃ kutaḥ. The latter gives the rhetorical question “whence fear of death?”; the alternative is recorded, not silently substituted."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "2.54": {
+      "notes": [
+        "Corrected the earlier draft’s “draw through the nose”: Sinh explicitly interprets the nasal action as expulsion. The critical edition discusses this as sītkārī at 2.54, with a different first half-verse."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp04.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp02_054"
+      ],
+      "draftTranslation": "One should make a hissing sound at the mouth and exhale through the nose. Through this practice one becomes like a second god of love."
+    },
+    "2.68": {
+      "notes": [
+        "Sanskrit Documents and the critical edition (2.69) support yogīndrāṇām against GRETIL’s corrupt yogīndrāṇī̀am. The draft uses that supported genitive plural; the source display remains diplomatic."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html"
+      ]
+    },
+    "3.11": {
+      "notes": [
+        "The historical English’s “carried down” reverses ūrdhvataḥ, “upward”. The snake comparison continues into 3.12; the draft now follows the Sanskrit verse boundary."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp03_011"
+      ],
+      "draftTranslation": "Having applied a lock at the throat, one should hold the wind upward. Just as a snake struck with a stick takes the shape of a stick—"
+    },
+    "3.12": {
+      "notes": [
+        "Rendered separately from 3.11. The identification of the “two passages” with iḍā and piṅgalā is interpretive; the Sanskrit here does not explicitly say “leaves”."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "—so the power Kuṇḍalī suddenly becomes straight. Then she, resting in the two passages, enters a state like death."
+    },
+    "3.13": {
+      "notes": [
+        "Removed a sentence belonging to the beginning of 3.14 that the historical English joins to its preceding verse."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "Then one should exhale very slowly, never forcefully. The foremost wise call this very technique mahāmudrā."
+    },
+    "3.14": {
+      "notes": [
+        "Restored the opening clause and preserved the repeated mahāmudrā formula in this GRETIL verse. Other editions segment this passage differently."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "This mahāmudrā was demonstrated by the great adepts. Afflictions beginning with the great troubles and death diminish; for that very reason the foremost wise call it mahāmudrā."
+    },
+    "3.15": {
+      "notes": [
+        "Replaced the historical English’s nostril-specific wording: candrāṅga and sūryāṅga describe sides or limbs in this posture context; nostrils are not specified."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp03_015"
+      ],
+      "draftTranslation": "Having practised on the moon side, one should practise again on the sun side. When the counts on both sides are equal, one should release the mudrā."
+    },
+    "3.31": {
+      "notes": [
+        "Sanskrit Documents writes prathamasādhanam continuously where GRETIL has prathama-sādhanam; the anusvāra/m difference is a word-final spelling distinction. The critical edition has a differently segmented passage at 3.30–31.",
+        "The older English “in 8 ways, daily and hourly” obscures the count and time unit. A yāma is a watch, conventionally about three hours, rather than one hour; the critical edition segments the concluding material differently."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp03_030"
+      ],
+      "draftTranslation": "This is performed eight times in each watch, day after day, always bringing a store of merit and breaking the mass of wrongdoing. For those properly instructed, this is a modest initial practice."
+    },
+    "3.48": {
+      "notes": [
+        "Corrected the mirror’s गी to the Sanskrit go and retained tālu as palate; “gullet” is an interpretive expansion in the historical English."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp03_044"
+      ],
+      "draftTranslation": "The word go denotes the tongue; its insertion into the palate is “eating cow flesh”, which is said to destroy great wrongdoing."
+    },
+    "3.51": {
+      "notes": [
+        "Corrected the historical English’s relocation of the sixteen-petalled lotus to the heart. The Sanskrit locates the falling stream at the head. The source’s ūrdvhāsyo is an apparent transposition; interpret as ūrdhvāsyo. This remains a draft of a difficult long stanza."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp03_046"
+      ],
+      "draftTranslation": "With the face turned upward, restraining the tongue in the cavity and contemplating the supreme power, the yogin who drinks the clear, billowing stream from the sixteen-petalled lotus of the head, obtained forcefully through prāṇa, lives long, free from disease and with a body soft as a lotus stalk."
+    },
+    "3.61": {
+      "notes": [
+        "An English subsection heading (“The Mûla Bandha”) has been removed from the verse translation; it is not part of the translated verse."
+      ],
+      "sources": [
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ]
+    },
+    "3.65": {
+      "notes": [
+        "Aikya means union or oneness, not purification as in the historical English. The physiological effects are claims of the source text."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "Through the union of apāna and prāṇa, urine and feces diminish. Through constant mūlabandha even an old person becomes young."
+    },
+    "3.68": {
+      "notes": [
+        "The historical English’s “struck dead” adds death to the simile and omits niśvasya, breathing or hissing. The Sanskrit says struck, not killed."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "Heated by that, the sleeping Kuṇḍalinī awakens; hissing like a she-serpent struck with a stick, she becomes straight."
+    },
+    "3.79": {
+      "notes": [
+        "The historical wording obscures the inversion: this verse describes the navel/sun above the palate/moon, rather than their ordinary positions. Viparītākhā is a defective source spelling of the technique’s name."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "With the navel above and the palate below—the sun above and the moon below—the technique called viparītakaraṇī is learned from the teacher’s words."
+    },
+    "3.80": {
+      "notes": [
+        "Sanskrit Documents has jaṭharāgnivivardhinī against GRETIL jaṭharāgni-vivardhanī. The Sinh English 79–81 divides this passage differently from GRETIL 3.80–82.",
+        "The old English includes the warning about scant food from the next Sanskrit verse. The draft now follows GRETIL’s boundary."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://sanskritdocuments.org/doc_yoga/hyp.html",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "For one continually engaged in practice it increases the digestive fire; abundant food should therefore be provided for that practitioner."
+    },
+    "3.81": {
+      "notes": [
+        "Restored the warning from the first half of this verse; the instruction to increase the duration belongs to 3.82. Kṣaṇa is rendered “moment”, without equating it to a modern second."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "If food is scant, the fire burns at once. On the first day one should be head downward and feet upward for a moment."
+    },
+    "3.82": {
+      "notes": [
+        "Restored the first half-line omitted by the historical English at this boundary. Yāma is a watch, conventionally about three hours; the historical English’s “two hours” is not adopted."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "One should practise a little longer than a moment each day. After six months wrinkles and grey hair are no longer seen. Whoever practises daily for a watch is said to conquer time."
+    },
+    "3.95": {
+      "notes": [
+        "Corrected “free from sloth ... slothful”: nirmatsara and matsara concern freedom from envy and envy, not laziness."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ],
+      "draftTranslation": "This yoga succeeds for the meritorious, steadfast, truth-seeing, and unenvious, but not for those filled with envy."
+    },
+    "3.114": {
+      "notes": [
+        "English III.107 occurs twice verbatim in the mirror. It is imported only once; duplication is a digitization artifact, not two Sanskrit verses."
+      ],
+      "sources": [
+        "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm"
+      ]
+    },
+    "4.33": {
+      "notes": [
+        "The critical edition has a related but materially different verse at 4.4 (also represented in its alternative fourth chapter). It does not license a word-for-word reconstruction of this difficult GRETIL reading. The provisional draft remains qualified, and no Sinh translation is invented."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp04_004"
+      ]
+    },
+    "4.45": {
+      "notes": [
+        "The source’s sūrcyā- is anomalous. The surrounding sun/moon context and the critical edition’s related appended verse 4.11_9 support the draft’s interpretation; the source spelling is preserved."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp04_011_9"
+      ]
+    },
+    "4.114": {
+      "notes": [
+        "The critical edition 4.57 supports bindur (binduḥ before na) where this transcription has vidur, but also differs elsewhere in the stanza. The draft’s bindu is an explicitly signalled editorial interpretation."
+      ],
+      "sources": [
+        "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
+        "https://yoga.ames.ox.ac.uk/hp/reader/edition/#hp04_057"
+      ]
+    }
+  }
+}

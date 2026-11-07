@@ -1,36 +1,88 @@
-# Haṭhayogapradīpikā corpus import
+# Corpus audit · 7 November 2026
 
-## Coverage
+The atlas retains 392 contiguous GRETIL IDs (70 / 78 / 130 / 114).
+`lib/corpus-audit.json` records each comparison, source snapshot SHA-256 hashes,
+English crosswalk, and candidate critical-edition references.
+`lib/curation.json` records the actual editorial decisions and their sources.
 
-392 unique, contiguous Sanskrit verse IDs from the GRETIL Unicode transcription:
+## What was checked
 
-- Chapter 1: 70
-- Chapter 2: 78
-- Chapter 3: 130
-- Chapter 4: 114
+- Rebuilt every source record from downloaded GRETIL and all four preserved Sinh
+  chapters, and compared every imported field with the checked-in corpus.
+- Compared all 392 Sanskrit records against Sanskrit Documents’ ITRANS text,
+  converting ITRANS to IAST and ignoring spacing, punctuation, compound hyphens
+  and apostrophes. Ten records differ: 1.22, 1.50, 1.52, 1.53, 1.55, 1.59,
+  2.40, 2.68, 3.31, 3.80. Letter and accent differences remain significant.
+- Inspected the Oxford–Marburg critical edition and generated content-based
+  candidate references across its different numbering and appended material.
+  These are discovery aids, not certified verse equivalences. Low similarity is
+  marked unresolved. No modern English translation or apparatus is republished.
+- Read the current draft renderings alongside the Sanskrit throughout all four
+  chapters; corrected demonstrated errors and recorded high-risk readings. This
+  editorial pass is not independent expert verification of every grammatical
+  analysis, interpretation or manuscript reading.
 
-Source: https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm
+## Corrections
 
-The supplied GRETIL header does not identify its inputter or printed base edition. This is a reference transcription, not a critical edition. The site should not identify it as a critically verified text.
+The historical importer now deduplicates English III.107 (atlas 3.114), removes
+an imported Mūlabandha subsection heading (3.61), preserves every English number
+for shared translations, and maps English I.57 across atlas 1.56–57.
 
-`lib/corpus.json` is an array, ordered by chapter and number. Each object contains `id`, `chapter`, `number`, `iast`, `devanagari`, `section`, `english`, `englishNumber`, `translationAuthor`, `translationNote`, `sourceNotes`, `sourceUrl`, `translationSource`.
+Chapter 3 annotations had inherited 119 historical Sinh translations but were
+labelled original editorial drafts. The merge now assigns their actual author;
+new editorial replacements have their own draft attribution. Seven original
+supplements remain separately attributed. Comparison controls no longer describe
+an original supplement as a historical translation.
 
-## Sanskrit policy
+New drafts correct direction (3.11), verse boundaries (3.12–14, 3.80–82), side versus
+nostril (3.15), watch versus hour (3.31, 3.82), palate and go (3.48), location of the
+lotus (3.51), union versus purification (3.65), struck versus killed (3.68),
+inversion (3.79), envy versus sloth (3.95), and nasal exhalation (2.54).
+Each decision has a verse-level explanation and source links in `curation.json`.
 
-IAST is imported diplomatically. Headers and reference labels are excluded, verse linebreaks preserved. Devanāgarī is derived mechanically from the IAST and consequently preserves its source errors; it is not independently collated. Compound hyphens and spaces are retained for study. Final consonants at word boundaries receive explicit virāma.
+## Limits and unresolved readings
 
-Known source anomalies carry verse-level notes: 1.16, 1.34, 2.1, 2.2, 2.68, 4.114. This is not an exhaustive error inventory. The incomplete stray `HYP_2.` label in 2.2 is removed as an editorial reference artifact.
+GRETIL does not identify a printed base edition or named inputter. Sanskrit
+Documents names Jan Brzezinski and Ulrich Stiehl. Shared distinctive errors in
+these transcriptions and the Sinh Sanskrit display mean their agreement is not
+independent manuscript corroboration. Mirrors of Sinh are the same translation,
+not additional independent translators.
 
-## English policy
+The GRETIL IAST remains diplomatic, including known defects. Generated
+Devanāgarī is a reading aid, not a second witness. Proposed readings belong in
+notes; the atlas does not silently reconstruct a critical text. In particular,
+1.16 and 1.18 differ materially from critical-edition readings; 2.68 is corrupt;
+4.33 has uncertain syntax and no aligned Sinh English; 4.45 has a defective
+sun/moon form; 4.114 has vidur where bindur is supported elsewhere. Their draft
+interpretations remain qualified. The seven original supplements at 3.43, 3.91,
+3.99–103 are not historical Sinh translations.
 
-Pancham Sinh historical public-domain translation, digitized at https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm (chapters hyp03–hyp06). The English edition contains numbering, placement, wording and digitization problems. An explicit crosswalk corrects numbering by verse content rather than pairing equal numbers blindly. Original English spelling and claims are preserved; these should be presented as historical text, not modern medical or anatomical claims.
+Historical spelling, interpretive additions and textual medical claims remain
+attributed historical material, not endorsed modern scientific conclusions.
+Word analyses, sandhi, prose rearrangements and semantic interpretations still
+require scholarly review. Structural validation is not linguistic certification.
 
-Seven verses absent from the imported English have original literal study renderings labeled as unreviewed: 3.43, 3.91, 3.99–103. These are not Pancham Sinh translations.
+## Reproduce
 
-4.33 has no translation in the imported English and its syntax requires textual review. Its `english` field is empty and `translationNote` explains why. Do not present a missing English field as a loading error or fabricate a translation.
+Requires Python 3 and BeautifulSoup (`python3-bs4` or `beautifulsoup4`). Download
+these UTF-8 snapshots into a directory outside the repository:
 
-Some historical translations span multiple Sanskrit verses and are repeated with a shared-translation note (e.g. 1.28–29, 1.55–56, 2.7–8, 3.11–12, 4.3–4). Some translations contain interpretive additions not literally present in Sanskrit. These cannot substitute for an independently reviewed word-by-word analysis.
+| Filename | Source |
+| --- | --- |
+| `gretil.html` | https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm |
+| `hyp.itx` | https://sanskritdocuments.org/doc_yoga/hyp.itx |
+| `sinh1.html`–`sinh4.html` | https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm through `hyp06.htm` |
+| `oxford.html` | https://yoga.ames.ox.ac.uk/hp/reader/edition/ |
 
-## Verification
+```sh
+python3 scripts/import-corpus.py --source-dir /path/to/snapshots
+node scripts/merge-annotations.mjs
+python3 scripts/audit-corpus.py --source-dir /path/to/snapshots
+node tests/check-data.mjs
+```
 
-Checked uniqueness, counts, contiguous chapter numbering, source marker removal, no exceptionally long English blocks (which exposed and removed an inserted 21-verse commentary at 2.50), and selected alignment anomalies in chapters 1, 3, 4. Full Sanskrit textual collation and full English proofreading remain outstanding.
+Imports apply source notes from `curation.json`; merges apply its draft
+translations. Re-importing cannot silently erase this curatorial layer. The audit
+never writes the corpus, aborts if reconstruction differs, and emits metadata
+rather than copies of comparison editions. Inspect changed snapshot hashes when
+rerunning against newer source files.

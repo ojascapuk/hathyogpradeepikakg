@@ -235,7 +235,8 @@
     "englishNumber": "16",
     "translationNote": "",
     "sourceNotes": [
-      "Source reads tattva-jñānāś; expected sandhi in context is tattva-jñānāc (tattva-jñānāt + ca). No silent correction has been made."
+      "Source reads tattva-jñānāś; expected sandhi in context is tattva-jñānāc (tattva-jñānāt + ca). No silent correction has been made.",
+      "The critical edition 1.16 has a substantially different list, including contentment and realization of truth. Correcting the isolated sandhi of the older transcription does not establish the critical reading. These edition differences must not be conflated."
     ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
@@ -266,7 +267,9 @@
     "english": "The ten niyamas mentioned by those proficient in the knowledge of yoga are: Tapa, patience, belief in God, charity, adoration of God, hearing discourses on the principles of religion, shame, intellect, Tapa and Yajña.",
     "englishNumber": "18",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The draft’s “recitation” interprets a reading japo, supported by the critical edition’s appended verse 1.16_2, against the repeated tapo in this transcription. This is an editorial interpretation, not a literal rendering of every transmitted syllable."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -311,7 +314,9 @@
     "english": "Having kept both the hands under both the thighs, with the body straight, when one sits calmly in this posture, it is called Swastika.",
     "englishNumber": "21",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sinh’s English says “hands”; the Sanskrit pāda-tale ubhe means “both soles”. The editorial draft follows the Sanskrit. The historical wording is retained with attribution."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -326,7 +331,9 @@
     "english": "Placing the right ankle on the left side and the left ankle on the right side, makes Gomukha-âsana, having the appearance of a cow.",
     "englishNumber": "22",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has gulkaṃ where GRETIL has gulphaṃ (ankle). This is a transcription difference; the atlas retains its named GRETIL base."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -748,7 +755,9 @@
     "english": "Having kept both the hands together in the lap, performing the Padmâsana firmly, keeping the chin Fixed to the chest and contemplating on Him in the mind, by drawing the apâna-vâyû up (performing Mûla Bandha) and pushing down the air after inhaling it, joining thus the prâṇa and apâna in the navel, one gets the highest intelligence by awakening the śakti (kundalinî) thus.",
     "englishNumber": "50",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has padmamāsanaṃ against GRETIL padmāsanaṃ. The extra syllable is not imported into the base text."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -778,7 +787,9 @@
     "english": "Press the heels on both sides of the seam of Perineum, in such a way that the left heel touches the right side and the right heel touches the left side of it.",
     "englishNumber": "52",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has sīvantyāḥ against GRETIL sīvanyāḥ; compare the same difference at 1.55. Both displays need to be distinguished from independent manuscript evidence."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -793,7 +804,9 @@
     "english": "Place the hands on the thighs, with stretched fingers, and keeping the mouth open and the mind collected, gaze on the tip of the nose.",
     "englishNumber": "53",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has vyātta-vakto where GRETIL has vyātta-vaktro (with mouth open). The atlas retains the GRETIL reading."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -823,7 +836,9 @@
     "english": "Place the heels on either side of the seam of the Perineum, keeping the left heel on the left side and the right one on the right side, hold the feet firmly joined to one another with both the hands. This Bhadrâsana is the destroyer of all the diseases.",
     "englishNumber": "55,56",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has sīvantyāḥ against GRETIL sīvanyāḥ. The Sinh English 55–57 crosses the Sanskrit 55–57 boundaries; shared text is repeated with its full English reference numbers."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -836,7 +851,7 @@
     "devanagari": "पार्श्व-पादौ च पाणिभ्यां दृढं बद्ध्वा सुनिश्चलम्  ।\nभद्रासनं भवेद् एतत् सर्व-व्याधि-विनाशनम्  ।\nगोरक्षासनम् इत्य् आहुर् इदं वै सिद्ध-योगिनः",
     "section": "atha bhadrāsanam",
     "english": "Place the heels on either side of the seam of the Perineum, keeping the left heel on the left side and the right one on the right side, hold the feet firmly joined to one another with both the hands. This Bhadrâsana is the destroyer of all the diseases. The expert Yogîs call this Gorakśa âsana. By sitting with this âsana, the Yogî gets rid of fatigue",
-    "englishNumber": "57",
+    "englishNumber": "55,56,57",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
     "sourceNotes": [],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
@@ -850,8 +865,8 @@
     "iast": "evam āsana-bandheṣu yogīndro vigata-śramaḥ  /\nabhyasen nāḍikā-śuddhiṃ mudrādi-pavanī-kriyām",
     "devanagari": "एवम् आसन-बन्धेषु योगीन्द्रो विगत-श्रमः  ।\nअभ्यसेन् नाडिका-शुद्धिं मुद्रादि-पवनी-क्रियाम्",
     "section": "atha bhadrāsanam",
-    "english": "The Nâdis should be cleansed of their impurities by performing the mudrâs, etc., (which are the practices relating to the air) Âsanas, Kumbhakas and various curious mûdrâs.",
-    "englishNumber": "58",
+    "english": "The expert Yogîs call this Gorakśa âsana. By sitting with this âsana, the Yogî gets rid of fatigue The Nâdis should be cleansed of their impurities by performing the mudrâs, etc., (which are the practices relating to the air) Âsanas, Kumbhakas and various curious mûdrâs.",
+    "englishNumber": "57,58",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
     "sourceNotes": [],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
@@ -883,7 +898,9 @@
     "english": "By regular and close attention to Nâda (anâhata nâda) in Haṭha Yoga, a Brahmachari, sparing in diet, unattached to objects of enjoyment, and devoted to Yoga, gains success, no doubt, within a year.",
     "englishNumber": "59",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has bhavedsiddho against GRETIL bhavet siddho. This is a consonant-sandhi/spelling difference; the named GRETIL source is preserved."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp03.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -1652,7 +1669,9 @@
     "english": "So long as the breath is restrained in the body, so long as the mind is undisturbed, and so long as the gaze is fixed between the eyebrows, there is no fear from Death.",
     "englishNumber": "40",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has kāla-bhayaṃ śrutaḥ where GRETIL has kāla-bhayaṃ kutaḥ. The latter gives the rhetorical question “whence fear of death?”; the alternative is recorded, not silently substituted."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp04.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -1862,7 +1881,9 @@
     "english": "Sîtkârî is performed by drawing in the air through the mouth, keeping the tongue between the lips. The air thus drawn in should not be expelled through the mouth. By practising in this way, one becomes next to the God of Love in beauty.",
     "englishNumber": "54",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Corrected the earlier draft’s “draw through the nose”: Sinh explicitly interprets the nasal action as expulsion. The critical edition discusses this as sītkārī at 2.54, with a different first half-verse."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp04.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2073,7 +2094,8 @@
     "englishNumber": "68",
     "translationNote": "",
     "sourceNotes": [
-      "Source reads yogīndrāṇī̀am, an anomalous form with a combining grave accent; compare yogīndrāṇām. The source spelling is preserved."
+      "Source reads yogīndrāṇī̀am, an anomalous form with a combining grave accent; compare yogīndrāṇām. The source spelling is preserved.",
+      "Sanskrit Documents and the critical edition (2.69) support yogīndrāṇām against GRETIL’s corrupt yogīndrāṇī̀am. The draft uses that supported genitive plural; the source display remains diplomatic."
     ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp04.htm",
@@ -2389,7 +2411,9 @@
     "english": "By stopping the throat (by Jâlandhara Bandha) the air is drawn in from the outside and carried down. Just as a snake struck with a stick becomes straight like a stick, in the same way, śakti (suṣumnâ) becomes straight at once. Then the Kuṇḍalinî, becoming as it were dead, and, leaving both the Idâ and the Pingalâ, enters the suṣumnâ (the middle passage).",
     "englishNumber": "11,12",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The historical English’s “carried down” reverses ūrdhvataḥ, “upward”. The snake comparison continues into 3.12; the draft now follows the Sanskrit verse boundary."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2404,7 +2428,9 @@
     "english": "By stopping the throat (by Jâlandhara Bandha) the air is drawn in from the outside and carried down. Just as a snake struck with a stick becomes straight like a stick, in the same way, śakti (suṣumnâ) becomes straight at once. Then the Kuṇḍalinî, becoming as it were dead, and, leaving both the Idâ and the Pingalâ, enters the suṣumnâ (the middle passage).",
     "englishNumber": "11,12",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Rendered separately from 3.11. The identification of the “two passages” with iḍā and piṅgalā is interpretive; the Sanskrit here does not explicitly say “leaves”."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2419,7 +2445,9 @@
     "english": "It should be expelled then, slowly only and not violently. For this very reason, the best of the wise men call it the Mahâ Mudrâ. This Mahâ Mudrâ has been propounded by great masters.",
     "englishNumber": "13",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Removed a sentence belonging to the beginning of 3.14 that the historical English joins to its preceding verse."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2434,7 +2462,9 @@
     "english": "Great evils and pains, like death, are destroyed by it, and for this reason wise men call it the Mahâ Mudrâ.",
     "englishNumber": "14",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Restored the opening clause and preserved the repeated mahāmudrā formula in this GRETIL verse. Other editions segment this passage differently."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2449,7 +2479,9 @@
     "english": "Having practised with the left nostril, it should be practised with the right one; and, when the number on both sides becomes equal, then the mudrâ should be discontinued.",
     "englishNumber": "15",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Replaced the historical English’s nostril-specific wording: candrāṅga and sūryāṅga describe sides or limbs in this posture context; nostrils are not specified."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2689,7 +2721,10 @@
     "english": "They should, be practised in 8 ways, daily and hourly. They increase collection of good actions and lessen the evil ones. People, instructed well, should begin their practice, little by little, first.",
     "englishNumber": "31",
     "translationNote": "",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents writes prathamasādhanam continuously where GRETIL has prathama-sādhanam; the anusvāra/m difference is a word-final spelling distinction. The critical edition has a differently segmented passage at 3.30–31.",
+      "The older English “in 8 ways, daily and hourly” obscures the count and time unit. A yāma is a watch, conventionally about three hours, rather than one hour; the critical edition segments the concluding material differently."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -2945,7 +2980,8 @@
     "englishNumber": "47",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
     "sourceNotes": [
-      "The imported English digitization prints गी for the word discussed. The Sanskrit reads go (गो); this appears to be a digitization error in the translation."
+      "The imported English digitization prints गी for the word discussed. The Sanskrit reads go (गो); this appears to be a digitization error in the translation.",
+      "Corrected the mirror’s गी to the Sanskrit go and retained tālu as palate; “gullet” is an interpretive expansion in the historical English."
     ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
@@ -2991,7 +3027,9 @@
     "english": "He who drinks the clear stream of liquor of the moon (soma) falling from the brain to the sixteen-petalled lotus (in the heart), obtained by means of Prâṇa, by applying the tongue to the hole of the pendant in the palate, and by meditating on the great power (Kuṇḍalinî), becomes free from disease and tender in body, like the stalk of a lotus, and the Yogî lives a very long life.",
     "englishNumber": "50",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Corrected the historical English’s relocation of the sixteen-petalled lotus to the heart. The Sanskrit locates the falling stream at the head. The source’s ūrdvhāsyo is an apparent transposition; interpret as ūrdhvāsyo. This remains a draft of a difficult long stanza."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3138,10 +3176,12 @@
     "iast": "pārṣṇi-bhāgena sampīḍya yonim ākuñcayed gudam  /\napānam ūrdhvam ākṛṣya mūla-bandho'bhidhīyate",
     "devanagari": "पार्ष्णि-भागेन सम्पीड्य योनिम् आकुञ्चयेद् गुदम्  ।\nअपानम् ऊर्ध्वम् आकृष्य मूल-बन्धोऽभिधीयते",
     "section": "atha mūla-bandhaḥ",
-    "english": "The Mûla Bandha . Pressing Yoni (perineum) with the heel, contract up the anus. By drawing the Apâna thus, Mûla Bandha is made.",
+    "english": "Pressing Yoni (perineum) with the heel, contract up the anus. By drawing the Apâna thus, Mûla Bandha is made.",
     "englishNumber": "60",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "An English subsection heading (“The Mûla Bandha”) has been removed from the verse translation; it is not part of the translated verse."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3201,7 +3241,9 @@
     "english": "By the purification of Prâṇa, and Apâna, urine and excrements decrease. Even an old man becomes young by constantly practising Mûla Bandha.",
     "englishNumber": "64",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Aikya means union or oneness, not purification as in the historical English. The physiological effects are claims of the source text."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3246,7 +3288,9 @@
     "english": "The Kuṇḍalinî, which has been sleeping all this time, becomes well heated by this means and awakens well. It becomes straight like a serpent, struck dead with a stick.",
     "englishNumber": "67",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The historical English’s “struck dead” adds death to the simile and omits niśvasya, breathing or hissing. The Sanskrit says struck, not killed."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3411,7 +3455,9 @@
     "english": "Above the navel and below the palate respectively, are the Sûrya and the Chandra. The exercise, called the Viparîta Karaṇî, is learnt from the guru's instructions.",
     "englishNumber": "78",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The historical wording obscures the inversion: this verse describes the navel/sun above the palate/moon, rather than their ordinary positions. Viparītākhā is a defective source spelling of the technique’s name."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3426,7 +3472,10 @@
     "english": "This exercise increases the appetite; and, therefore, one who practises it, should obtain a good supply of food. If the food be scanty, it will burn him at once.",
     "englishNumber": "79",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Sanskrit Documents has jaṭharāgnivivardhinī against GRETIL jaṭharāgni-vivardhanī. The Sinh English 79–81 divides this passage differently from GRETIL 3.80–82.",
+      "The old English includes the warning about scant food from the next Sanskrit verse. The draft now follows GRETIL’s boundary."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3441,7 +3490,9 @@
     "english": "Place the head on the ground and the feet up into the sky, for a second only the first day, and increase this time daily.",
     "englishNumber": "80",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Restored the warning from the first half of this verse; the instruction to increase the duration belongs to 3.82. Kṣaṇa is rendered “moment”, without equating it to a modern second."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3456,7 +3507,9 @@
     "english": "After six months, the wrinkles and grey hair are not seen. He who practises it daily, even for two hours, conquers death.",
     "englishNumber": "81",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Restored the first half-line omitted by the historical English at this boundary. Yāma is a watch, conventionally about three hours; the historical English’s “two hours” is not adopted."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3651,7 +3704,9 @@
     "english": "This Yoga is achieved by courageous wise men, who are free from sloth, and cannot he accomplished by the slothful.",
     "englishNumber": "93",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "Corrected “free from sloth ... slothful”: nirmatsara and matsara concern freedom from envy and envy, not laziness."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -3933,10 +3988,12 @@
     "iast": "sati vajrāsane pādau karābhyāṃ dhārayed dṛḍham  /\ngulpha-deśa-samīpe ca kandaṃ tatra prapīḍayet",
     "devanagari": "सति वज्रासने पादौ कराभ्यां धारयेद् दृढम्  ।\nगुल्फ-देश-समीपे च कन्दं तत्र प्रपीडयेत्",
     "section": "atha śakti-cālanam",
-    "english": "Keeping the feet in Vajra-âsana (Padma-âsana), hold them firmly with the hands. The position of the bulb then will be near the ankle joint, where it should be pressed. Keeping the feet in Vajra-âsana (Padma-âsana), hold them firmly with the hands. The position of the bulb then will be near the ankle joint, where it should be pressed.",
+    "english": "Keeping the feet in Vajra-âsana (Padma-âsana), hold them firmly with the hands. The position of the bulb then will be near the ankle joint, where it should be pressed.",
     "englishNumber": "107",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "English III.107 occurs twice verbatim in the mirror. It is imported only once; duplication is a digitization artifact, not two Sanskrit verses."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp05.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -4671,7 +4728,9 @@
     "english": "",
     "englishNumber": "",
     "translationNote": "No corresponding English translation occurs in the imported Sinh text. The Sanskrit of this verse requires textual and syntactic review; an uncertain translation has not been supplied.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The critical edition has a related but materially different verse at 4.4 (also represented in its alternative fourth chapter). It does not license a word-for-word reconstruction of this difficult GRETIL reading. The provisional draft remains qualified, and no Sinh translation is invented."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp06.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -4851,7 +4910,9 @@
     "english": "That Mudrâ is called Khecharî which is performed in the supportless space between the Sûrya and the Chandra (the Idâ and the Pingalâ) and called the Vyoma Chakra.",
     "englishNumber": "44",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
-    "sourceNotes": [],
+    "sourceNotes": [
+      "The source’s sūrcyā- is anomalous. The surrounding sun/moon context and the critical edition’s related appended verse 4.11_9 support the draft’s interpretation; the source spelling is preserved."
+    ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp06.htm",
     "translationAuthor": "Pancham Sinh (1914/1915 digitized edition)"
@@ -5887,7 +5948,8 @@
     "englishNumber": "113",
     "translationNote": "English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.",
     "sourceNotes": [
-      "The GRETIL transcription reads vidur in the second pāda; compare editions reading binduḥ. The Sinh digitization omits the first pāda in its romanized display; GRETIL preserves it."
+      "The GRETIL transcription reads vidur in the second pāda; compare editions reading binduḥ. The Sinh digitization omits the first pāda in its romanized display; GRETIL preserves it.",
+      "The critical edition 4.57 supports bindur (binduḥ before na) where this transcription has vidur, but also differs elsewhere in the stanza. The draft’s bindu is an explicitly signalled editorial interpretation."
     ],
     "sourceUrl": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm",
     "translationSource": "https://spiritmaji.com/sacredtext/hin/hyp/hyp06.htm",

@@ -43,6 +43,16 @@ docker build -t pradipika-atlas .
 docker run --rm --init -p 127.0.0.1:8787:8787 pradipika-atlas
 ```
 
+## Theme and source audit
+
+Choose Light, Dark, or System in the header. System follows your device’s colour
+scheme, including changes while the app is open. Your choice is saved locally.
+
+The Sources & coverage screen includes the downloadable verse-by-verse audit.
+The [corpus audit report](scripts/CORPUS-REPORT.md) documents the comparisons,
+corrections, source dependencies and unresolved readings. Curatorial decisions
+and citations live in `lib/curation.json` and survive corpus re-imports.
+
 ## Read and explore
 
 - Select chapter, concept, or verse nodes; use the zoom buttons and drag the graph background to pan. Every verse is accessible in the library and by search.

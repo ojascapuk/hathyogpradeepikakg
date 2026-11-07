@@ -1,8 +1,12 @@
 from bs4 import BeautifulSoup
-import re,json,unicodedata
+import re,json,unicodedata,argparse
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-WORK=ROOT.parent
+parser=argparse.ArgumentParser(description='Import the named GRETIL and Sinh snapshots without changing their Sanskrit readings.')
+parser.add_argument('--source-dir',type=Path,default=ROOT.parent)
+parser.add_argument('--output',type=Path,default=ROOT/'lib/corpus.json')
+args=parser.parse_args()
+WORK=args.source_dir
 SOURCE='https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/hathyopu.htm'
 # Transliteration preserves the source's spaces, compound hyphens and line breaks.
 # Consonants receive a virama unless followed by a vowel token.
@@ -66,13 +70,14 @@ for ch in range(1,5):
    if any(x.startswith(('Note','NḄ','N.B.','Translation:')) for x in [text]):continue
    entries.append((ns,text))
   else:pending.append(t)
- translations[ch]=entries
+ # Some mirror paragraphs are duplicated verbatim (notably English III.107).
+ translations[ch]=list(dict.fromkeys((tuple(ns),text) for ns,text in entries))
 # Explicit crosswalk for this historical edition. Sanskrit and English numbers diverge.
 def targets(ch,ns):
  n=ns[0]
  if ch==1:
   if len(ns)>1:return ns
-  if n==57:return [56]
+  if n==57:return [56,57]
   if n==58:return [57,58]
   if n==62:return [62,63]
   if n>=63:return [n+1]
@@ -94,7 +99,7 @@ for ch,entries in translations.items():
    v=byid[key]
    if v['english']:v['english']+=' '+text
    else:v['english']=text
-   v['englishNumber']=','.join(map(str,ns))
+   v['englishNumber']=','.join(dict.fromkeys(v['englishNumber'].split(',')+list(map(str,ns)))).strip(',')
    if n not in ns or len(targets(ch,ns))>1:v['translationNote']='English and Sanskrit numbering/segmentation differ in the Sinh digitization; the translation is cross-referenced by content. A shared translation may cover more than one verse.'
 # Flag transcription anomalies, preserving the imported text verbatim.
 notes={'1.16':'Source reads tattva-jñānāś; expected sandhi in context is tattva-jñānāc (tattva-jñānāt + ca). No silent correction has been made.', '1.34':'Source reads śabavad; the expected reading is śavavad (śava-vat, like a corpse). The diplomatic source spelling is retained.', '2.68':'Source reads yogīndrāṇī̀am, an anomalous form with a combining grave accent; compare yogīndrāṇām. The source spelling is preserved.', '2.2':'A stray incomplete HYP_2. reference label in the source has been removed from the verse display.', '2.1':'Source reads dṛdhe; expected dṛḍhe. The diplomatic source spelling is retained.', '4.114':'The GRETIL transcription reads vidur in the second pāda; compare editions reading binduḥ. The Sinh digitization omits the first pāda in its romanized display; GRETIL preserves it.'}
@@ -119,7 +124,13 @@ for v in verses:
  v.setdefault('translationAuthor','Pancham Sinh (1914/1915 digitized edition)')
  # Strip imported English subsection headings when they precede a translation.
  v['english']=re.sub(r'^The Uḍḍiyâna Bandha \. ', '', v['english'])
-(ROOT/'lib/corpus.json').write_text(json.dumps(verses,ensure_ascii=False,indent=2))
+ v['english']=re.sub(r'^The Mûla Bandha \. ', '', v['english'])
+# Curatorial notes are kept separately so re-importing cannot erase them.
+curation_path=ROOT/'lib/curation.json'
+if curation_path.exists():
+ for key,entry in json.loads(curation_path.read_text()).get('verses',{}).items():
+  byid[key]['sourceNotes'].extend(entry.get('notes',[]))
+args.output.write_text(json.dumps(verses,ensure_ascii=False,indent=2))
 print('Counts',len(verses),{c:sum(v['chapter']==c for v in verses) for c in range(1,5)})
 print('Missing translations',[v['id'] for v in verses if not v['english']])
 print('First',verses[0])
