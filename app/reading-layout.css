@@ -1,0 +1,131 @@
+:root { --phi:1.618034; --space-xs:8px; --space-sm:13px; --space-md:21px; --space-lg:34px; --nav-width:clamp(180px,15vw,232px); }
+body { font-size:14px; line-height:1.618; }
+small { font-size:12px; }
+.topbar { min-height:96px; height:auto; padding:21px 34px; gap:21px; }
+.topnav { gap:21px; align-self:stretch; }
+.top-actions { gap:21px; }
+.brand small,.edition,.eyebrow,.side-label,.mini-label,h4 { font-size:12px; letter-spacing:.08em; }
+.brand { min-width:0; }
+.shell { display:grid; grid-template-columns:var(--nav-width) minmax(0,1fr); align-items:start; }
+.shell:has(>.detail-panel) { grid-template-columns:var(--nav-width) minmax(0,1.618034fr) minmax(340px,1fr); }
+.sidebar { width:auto; min-width:0; padding:34px 13px; align-self:stretch; }
+.nav-item,.chapter-link { font-size:13px; line-height:1.618; min-height:44px; padding:13px 8px; }
+.chapter-link small,.chapter-link .count { font-size:12px; }
+.main { width:auto; min-width:0; padding:34px 34px 0; }
+h1 { font-size:clamp(32px,3vw,52px); line-height:1.2; }
+.heading-row p,.prose,.source-card p,.guide-section p,.editorial-note,.glossary-entry p { font-size:14px; line-height:1.75; }
+.page-head { margin-bottom:34px; }
+.search-row { gap:13px; flex-wrap:wrap; }
+.search-box { flex-basis:200px; }
+.search-box input,.script-button { font-size:13px; }
+.detail-panel { width:auto; min-width:0; height:100dvh; top:0; }
+.detail-hero,.detail-body { padding:34px 21px; }
+.detail-top,.verse-navigation { padding-left:21px; padding-right:21px; }
+.detail-tabs { padding:0 13px; }
+.detail-tabs button { font-size:13px; min-height:48px; }
+.translation { font-size:23px; line-height:1.618; }
+.devanagari { font-size:22px; line-height:1.9; }
+.iast { font-size:16px; line-height:1.8; }
+.verse-text.small .devanagari { font-size:21px; }
+.verse-text.small .iast { font-size:16px; }
+.card-english { font-size:17px; }
+.verse-card { scroll-margin-top:21px; padding:21px; margin-bottom:21px; }
+.verse-card.selected { box-shadow:inset 3px 0 var(--accent); }
+.verse-ref,.open-analysis,.verse-tools,.source-note,.text-link { font-size:12px; }
+.verse-tools button { min-height:36px; }
+.source-note p,.analysis-card p,.word-entry p,.word-entry strong { font-size:13px; line-height:1.75; }
+.word-grammar-sa { font-size:14px; }
+.word-entry { padding:21px 0; }
+.paths { grid-template-columns:repeat(2,minmax(0,1fr)); gap:13px; }
+.paths button { padding:21px; }
+.paths small { font-size:12px; }
+.workspace-bar { flex-wrap:wrap; gap:13px; font-size:12px; }
+.workspace-bar>div { flex-wrap:wrap; gap:13px; }
+.below-graph { flex-wrap:wrap; font-size:12px; }
+.graph-caption { font-size:12px!important; letter-spacing:.03em; }
+.legend { font-size:12px!important; }
+.graph-caption .caption-right { display:none; }
+.graph-bottom { align-items:flex-end; }
+.concept-label { font-size:var(--graph-font,20px); }
+.node-title { font-size:var(--graph-font,20px); }
+.node-dev,.node-number,.verse-number,.center-label { font-size:var(--graph-font,20px)!important; }
+.center-dev { font-size:calc(var(--graph-font,20px)*1.3); }
+.glossary-filter { display:block; font-size:14px; }
+.glossary-filter input { margin-top:8px; }
+.glossary-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:21px; }
+.glossary-entry { border:1px solid var(--line); border-radius:8px; padding:21px; background:var(--paper); overflow-wrap:anywhere; }
+.glossary-entry h2 { font-family:'Noto Serif Devanagari',serif; font-size:23px; line-height:1.618; }
+.glossary-entry h3 { font-family:Georgia,serif; font-size:20px; margin:8px 0; }
+.glossary-entry .glossary-meaning { color:var(--accent); margin-bottom:13px; font-weight:500; }
+.glossary-entry h4 { margin:21px 0 8px; }
+.glossary-entry details,.textual-notes { margin-top:21px; }
+.glossary-entry summary,.textual-notes summary { cursor:pointer; font-size:13px; line-height:1.618; }
+.textual-notes .editorial-note { margin-top:13px; }
+.glossary-section-title { font-size:32px; margin:34px 0 21px; }
+.verse-sources a { line-height:1.618; padding:5px 0; }
+.source-card { padding:21px; margin:21px 0; }
+@media(max-width:1100px) {
+ .shell,.shell:has(>.detail-panel) { grid-template-columns:minmax(0,1.618034fr) minmax(320px,1fr); }
+ .shell:not(:has(>.detail-panel)) { grid-template-columns:minmax(0,1fr); }
+ .sidebar { display:none; }
+ .main { padding:34px 21px 0; }
+ .topbar { padding:21px; }
+ .edition { display:none; }
+ .topnav { display:none; }
+ .mobile-nav { display:flex; position:relative; top:auto; height:auto; padding:13px 21px; gap:21px; border-bottom:1px solid var(--line); overflow-x:auto; }
+ .mobile-nav button { font-size:12px; white-space:nowrap; min-height:32px; }
+}
+@media(max-width:900px) {
+ .shell,.shell:has(>.detail-panel) { display:block; }
+ .main { width:100%; }
+ .main.with-drawer { opacity:1; pointer-events:auto; }
+ .detail-panel { position:fixed; inset:0 0 0 auto; width:min(618px,100vw); height:100dvh; z-index:30; box-shadow:-13px 0 34px #0005; }
+ .detail-top { position:sticky; top:0; z-index:2; background:var(--paper); }
+ .topnav { display:none; }
+ .topbar { min-height:84px; padding:13px 21px; }
+ .mobile-chapter-select { display:block; font-size:13px; }
+}
+@media(max-width:650px) {
+ .topbar { position:relative; top:auto; gap:13px; }
+ .brand { font-size:15px; letter-spacing:1px; gap:8px; }
+ .brand small { font-size:12px; letter-spacing:0; }
+ .top-actions { gap:13px; }
+ .theme-control { width:132px; }
+ .theme-stops button { font-size:12px; }
+ .main { padding:21px 13px 0; }
+ .heading-row { gap:8px; }
+ .head-flower { display:none; }
+ .mobile-nav { position:relative; top:auto; padding:8px 13px; gap:21px; }
+ .graph-caption { top:13px; left:13px; right:13px; }
+ .graph-caption .live-dot { display:none; }
+ .concept-label { display:none; }
+ .concept-node:is(:hover,:focus-visible,.active) .concept-label { display:block; }
+ .graph-bottom { left:13px; right:13px; bottom:13px; }
+ .legend { display:none; }
+ .glossary-grid,.phonetic-grid,.coverage-grid { grid-template-columns:minmax(0,1fr); }
+ .glossary-entry { padding:21px; }
+ .detail-hero,.detail-body { padding:21px; }
+ .main-footer { flex-wrap:wrap; font-size:12px; }
+ .main-footer>span { max-width:none; }
+ .result-row { gap:13px; padding:21px 0; }
+ .result-row>span { width:42px; font-size:13px; }
+ .result-row strong { font-size:16px; }
+ .result-row p { font-size:14px; }
+ .result-row>div { min-width:0; overflow-wrap:anywhere; }
+ .search-row .script-button { padding:8px 13px; }
+ .theme-control input { height:24px; }
+}
+@media(max-width:370px) {
+ .topbar { padding:13px; gap:8px; }
+ .brand-mark { display:none; }
+ .brand { font-size:14px; }
+ .theme-control { width:124px; }
+ .top-actions>button[aria-label="Toggle graph animation"] { display:none; }
+}
+
+.graph-wrap[data-compact="true"] :is(.node-number,.node-dev,.center-label) { display:none; }
+/* Saṃhitā reading follows the continuous printed verse, while word analyses
+   retain their pedagogical separators. Keep the verse number with its daṇḍas. */
+.verse-text .verse-line { display:block; white-space:normal; overflow-wrap:anywhere; }
+.verse-text .verse-ending { white-space:nowrap; display:inline-block; }
+.verse-text .samhita { font-weight:500; letter-spacing:normal; word-spacing:.05em; line-height:1.9; }

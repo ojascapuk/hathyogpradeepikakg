@@ -1,7 +1,7 @@
 :root { color-scheme: light; }
 .theme-control { display:flex; flex-direction:column; gap:3px; width:132px; flex-shrink:0; }
 .theme-stops { display:flex; justify-content:space-between; }
-.theme-stops button { display:flex; flex-direction:column; align-items:center; gap:2px; font-size:9px; padding:2px; color:var(--muted); }
+.theme-stops button { display:flex; flex-direction:column; align-items:center; gap:2px; font-size:12px; padding:2px; color:var(--muted); }
 .theme-stops button[aria-pressed="true"] { color:var(--ink); font-weight:700; }
 .theme-control input { width:100%; margin:0; height:18px; accent-color:var(--wine); cursor:pointer; }
 .theme-control input:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
@@ -35,7 +35,7 @@
 @media (max-width:650px) {
   .top-actions { gap:10px; }
   .theme-control { width:110px; }
-  .theme-stops button { font-size:8px; }
+  .theme-stops button { font-size:12px; }
   .topbar { gap:10px; }
   .brand { font-size:13px; letter-spacing:1px; }
   .notebook-top b { display:none; }
@@ -55,14 +55,14 @@
 [data-theme="dark"] .case-table td b { color:#cfdeeb; }
 .word-grammar-sa { color:var(--ink); font-size:12px; font-weight:500; line-height:1.9; }
 .word-compounds { margin-top:14px; border-left:2px solid var(--accent); padding-left:12px; }
-.word-compounds summary { font-size:11px; line-height:1.8; cursor:pointer; }
+.word-compounds summary { font-size:12px; line-height:1.8; cursor:pointer; }
 .vigraha { font-family:Georgia,serif; font-size:16px; line-height:1.9; color:var(--ink); white-space:pre-line; }
-.analysis-status { font-size:10px; line-height:1.8; color:var(--muted); }
+.analysis-status { font-size:12px; line-height:1.8; color:var(--muted); }
 
 [data-theme="dark"] { --reading-text-secondary:#d1dbe5; }
-[data-theme="dark"] .graph-caption { font-size:8px; }
-[data-theme="dark"] .legend { font-size:9px; }
-[data-theme="dark"] .node-number { font-size:10px; }
+[data-theme="dark"] .graph-caption { font-size:12px; }
+[data-theme="dark"] .legend { font-size:12px; }
+[data-theme="dark"] .node-number { font-size:12px; }
 [data-theme="dark"] .node-dev { font-size:12px; }
 .meaning-label { font:inherit !important; color:inherit !important; }
 .word-entry .grammar-english { margin-top:4px; }
@@ -74,12 +74,12 @@
 .compound-part { display:flex!important; align-items:center; gap:5px; margin:0!important; }
 .compound-part-script { display:flex; flex-direction:column; gap:2px; }
 .compound-part-script [lang="sa"] { font-family:'Noto Serif Devanagari',serif; font-size:16px; line-height:1.7; color:var(--ink); }
-.compound-part-script [lang="sa-Latn"] { font-size:11px; color:var(--muted); }
-.compound-part-script small { font-size:10px; color:var(--muted); }
+.compound-part-script [lang="sa-Latn"] { font-size:12px; color:var(--muted); }
+.compound-part-script small { font-size:12px; color:var(--muted); }
 .compound-separator { font-size:13px!important; margin:0!important; color:var(--muted)!important; }
 .sandhi-parts { margin:8px 0; }
 .sandhi-parts span:first-child { font-family:'Noto Serif Devanagari',serif; font-size:17px; line-height:1.8; color:var(--ink); }
-.sandhi-parts span+span { font-size:11px; margin:2px 0 0; color:var(--muted); }
+.sandhi-parts span+span { font-size:12px; margin:2px 0 0; color:var(--muted); }
 .wikipedia-link { width:fit-content; }
 [data-theme="dark"] .analysis-card .compound-form,[data-theme="dark"] .sandhi-card>strong,[data-theme="dark"] .compound-part-script [lang="sa"],[data-theme="dark"] .sandhi-parts span:first-child { color:var(--ink); }
 @media (max-width:370px) {

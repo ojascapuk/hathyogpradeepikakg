@@ -1,6 +1,6 @@
 # Pradīpikā · The Study Atlas
 
-A React/Vinext study website for one four-chapter GRETIL transcription of Svātmārāma’s Haṭhayogapradīpikā. It contains 392 Sanskrit verse records, IAST, mechanically generated Devanāgarī, historical and original draft English renderings, an editorial concept graph, contextual Sanskrit draft analyses, a phonetic spelling aid, and local reading tools.
+A React/Vinext study website for one four-chapter GRETIL transcription of Svātmārāma’s Haṭhayogapradīpikā. It contains 392 Sanskrit verse records, IAST, mechanically generated Devanāgarī, historical and original draft English renderings, an editorial concept graph, contextual Sanskrit draft analyses, a phonetic spelling aid, and linked reading tools.
 
 ## Run
 
@@ -32,8 +32,7 @@ ChatGPT sign-in, and hosted connector services are not provided by this containe
 configure access control separately if exposing it beyond your machine.
 See the [Wrangler runtime documentation](https://developers.cloudflare.com/workers/wrangler/commands/workers/).
 
-Worker state persists in a Docker volume. Reading notes and bookmarks remain in
-your browser's local storage, scoped to the address and port you use. Rebuild
+Worker state persists in a Docker volume. Rebuild
 after changing source files; this setup serves a built app without hot reload.
 
 To use Docker without Compose:
@@ -43,12 +42,19 @@ docker build -t pradipika-atlas .
 docker run --rm --init -p 127.0.0.1:8787:8787 pradipika-atlas
 ```
 
-## Theme and source audit
+## Reading layout, theme and sources
 
 Use the three-position theme slider (Light / System / Dark) in the header. System follows your device’s colour
 scheme, including changes while the app is open. Your choice is saved locally.
 
-The Sources & coverage screen includes the downloadable verse-by-verse audit.
+The interface uses a 12px minimum text size, larger reading text, and a golden-ratio
+main/detail split on wide screens. Phones use a single column with an overlay
+passage reader. Personal notebook tools and recurring draft notifications are
+removed; edition details remain in Sources. Searches such as `2.54` and `२.५४`
+return that exact verse and scroll its highlighted card into view. Press Enter
+to open the first result.
+
+Sources & references includes the downloadable verse-by-verse audit.
 The [corpus audit report](scripts/CORPUS-REPORT.md) documents the comparisons,
 corrections, source dependencies and unresolved readings. Curatorial decisions
 and citations live in `lib/curation.json` and survive corpus re-imports.
@@ -57,10 +63,12 @@ and citations live in `lib/curation.json` and survive corpus re-imports.
 
 - Select chapter, concept, or verse nodes; use the zoom buttons and drag the graph background to pan. Every verse is accessible in the library and by search.
 - Search in Devanāgarī or Roman letters, with or without IAST diacritics. Verse references work too. Press `/` to focus search and Escape to close the passage panel.
-- Use Meaning, Words, Sandhi, and Notes in the passage panel. Word entries show Sanskrit grammatical terms in Devanāgarī and IAST before their English explanations. Sandhi forms, split parts, compound forms, and compound components prioritize Devanāgarī, with IAST and glosses alongside them. Matching compound analyses can be expanded directly under a word. Explicit Sanskrit vigrahas are distinguished from component lists; uncertain readings remain qualified. The Sounds button opens the Sanskrit companion; it does not generate authoritative recitation audio.
-- Open any concept in the knowledge graph or concept index to find a Wikipedia search link based on its name and Sanskrit terms.
+- Use Meaning, Words, Sandhi, and Sources in the passage panel. Word entries show Sanskrit grammatical terms in Devanāgarī and IAST before their English explanations. Sandhi forms, split parts, compound forms, and compound components prioritize Devanāgarī, with IAST and glosses alongside them. Matching compound analyses can be expanded directly under a word. Explicit Sanskrit vigrahas are distinguished from component lists; uncertain readings remain qualified. The Sounds button opens the Sanskrit companion; it does not generate authoritative recitation audio.
+- Open any concept in the knowledge graph or concept index to find a named, related Wikipedia article.
+- Verse reading uses continuous saṃhitā spelling, without editorial compound hyphens, with single daṇḍas at half-verse boundaries and a closing double daṇḍa plus verse number. Devanāgarī verse numbers use Devanāgarī digits. Copied verses use the same reading form. Word analyses retain their separated forms; Sources includes the original GRETIL transcription.
+- These print conventions follow the supplied Adyar Library edition with Brahmānanda’s Jyotsnā commentary. This is a presentation change: the atlas keeps its existing GRETIL readings and verse IDs, which differ from the book in places.
 - Switch between Devanāgarī, IAST, and both using the script control.
-- Save passages and add notes. Notes remain in browser local storage on that device. Export the notebook for a portable copy.
+- Open the Glossary for 72 text topics and 14 grammar terms, with definitions, verse links, text sources, and related Wikipedia articles.
 - The concordance indexes exact source tokens plus components at editorial hyphens. It is not a morphological lemma index.
 - Export study data to obtain the full source corpus, concept descriptions, draft analyses and a typed property graph containing chapter, verse, concept, source-form and parsed-word nodes.
 
@@ -80,6 +88,8 @@ The Pancham Sinh translation is the public-domain historical translation, recove
 - `lib/annotations-12.json`, `lib/annotations-3.json`, `lib/annotations-4.json`: chapter extensions.
 - `lib/study-annotations.json`: merged app dataset. Run `node scripts/merge-annotations.mjs` after editing source annotations.
 - `lib/guide.json`: Sanskrit reading companion.
+- `lib/source-locations.json`: preserved source anchors and Sanskrit text-fragment targets; regenerate with `python3 scripts/build-source-locations.py --source-dir /path/to/snapshots`.
+- `lib/glossary.ts`: grammar definitions and named Wikipedia references.
 - `lib/sanskrit.ts`: deterministic Devanāgarī and broad segmental IPA spelling conversions; no inferred accent or recitation tradition.
 - `lib/knowledge-graph.ts`: typed graph export generator.
 - `scripts/import-corpus.py`: reproducible base-text importer. It requires BeautifulSoup and source HTML files in the project’s parent folder; download the linked GRETIL file as `gretil.html` and mirror chapter files as `sinh1.html`–`sinh4.html` in that parent folder before re-importing. The application itself runs entirely from the included JSON data.
@@ -90,6 +100,8 @@ The Pancham Sinh translation is the public-domain historical translation, recove
 node scripts/merge-annotations.mjs
 node tests/check-data.mjs
 node --experimental-strip-types tests/check-grammar.mjs
+node --experimental-strip-types tests/check-reading.mjs
+node --experimental-strip-types tests/check-verse-format.mjs
 npx tsc --noEmit
 npm run build
 ```
@@ -104,11 +116,12 @@ With the Docker app running, run `node tests/check-browser.mjs`. The check cover
 theme slider keyboard control, all three modes, persistence, live system changes,
 320px and 390px layouts, translation attribution, Sanskrit grammar, compound
 expansions and sampled text contrast. It saves screenshots and contrast results to
-`/tmp/pradipika-browser-qa`. `APP_URL`, `BROWSER_DEBUG_URL` and `QA_OUTPUT_DIR` can
+`/tmp/pradipika-browser-qa`. The checks also verify the 12px minimum, golden-ratio
+panels, linked glossary, and exact verse scrolling. `APP_URL`, `BROWSER_DEBUG_URL` and `QA_OUTPUT_DIR` can
 override the defaults. Use the sandbox-disabling flag only for this temporary
 headless test profile when required by your environment.
 
-The integrity check confirms verse IDs/counts, topic coverage, valid links, schema completeness and known import regressions. Browser QA covers navigation, script display, Devanāgarī search, notebook persistence and mobile layout. None of these checks constitutes independent verification of Sanskrit interpretation.
+The integrity check confirms verse IDs/counts, topic coverage, valid links, schema completeness and known import regressions. Browser QA covers navigation, script display, Devanāgarī search, exact verse navigation and mobile layout. None of these checks constitutes independent verification of Sanskrit interpretation.
 
 ## Sources
 
