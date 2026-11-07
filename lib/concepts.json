@@ -1,0 +1,2059 @@
+[
+  {
+    "id": "purpose",
+    "title": "Haṭha–rājayoga",
+    "devanagari": "हठ–राजयोग",
+    "english": "The purpose of haṭha",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        1,
+        4
+      ],
+      [
+        1,
+        70,
+        70
+      ],
+      [
+        2,
+        75,
+        77
+      ],
+      [
+        3,
+        126,
+        127
+      ],
+      [
+        4,
+        79,
+        80
+      ],
+      [
+        4,
+        103,
+        104
+      ]
+    ],
+    "terms": [
+      "haṭha",
+      "rāja-yoga"
+    ],
+    "description": "The opening presents haṭha knowledge as a stairway to rājayoga. Later passages repeatedly insist that bodily and breath disciplines serve this contemplative goal.",
+    "related": [
+      "lineage",
+      "practice",
+      "samadhi"
+    ]
+  },
+  {
+    "id": "lineage",
+    "title": "Guru-paramparā",
+    "devanagari": "गुरुपरम्परा",
+    "english": "Teachers and transmission",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        4,
+        9
+      ],
+      [
+        3,
+        128,
+        130
+      ],
+      [
+        4,
+        8,
+        9
+      ]
+    ],
+    "terms": [
+      "guru",
+      "matsyendra",
+      "gorakṣa"
+    ],
+    "description": "The text names siddhas and places its teaching within a received tradition. The names form a roster of authoritative masters; their order here should not be read as a documented teacher-to-student genealogy.",
+    "related": [
+      "purpose",
+      "secrecy",
+      "khecari"
+    ]
+  },
+  {
+    "id": "secrecy",
+    "title": "Gopyā vidyā",
+    "devanagari": "गोप्या विद्या",
+    "english": "Secrecy and authority",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        10,
+        11
+      ],
+      [
+        3,
+        8,
+        9
+      ]
+    ],
+    "terms": [
+      "gopyā",
+      "gopanīya"
+    ],
+    "description": "Haṭha is compared to a protective shelter and a supporting tortoise. Its secrecy is a recurrent literary and initiatory theme, also expressed through jewel-box and household analogies.",
+    "related": [
+      "lineage",
+      "mudra"
+    ]
+  },
+  {
+    "id": "setting",
+    "title": "Yoga-maṭha",
+    "devanagari": "योगमठ",
+    "english": "The place of study and practice",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        12,
+        14
+      ]
+    ],
+    "terms": [
+      "maṭha",
+      "maṭhikā"
+    ],
+    "description": "A secluded dwelling, a suitable region, and freedom from anxieties frame the text’s practice setting. The architectural description belongs to its historical ascetic environment.",
+    "related": [
+      "practice",
+      "diet"
+    ]
+  },
+  {
+    "id": "obstacles",
+    "title": "Ṣaḍ-bādhakāḥ",
+    "devanagari": "षड्बाधकाः",
+    "english": "Six obstacles",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        15,
+        15
+      ]
+    ],
+    "terms": [
+      "atyāhāra",
+      "prajalpa",
+      "laulya"
+    ],
+    "description": "Excessive eating, exertion, talk, problematic adherence to rules, social attachment, and fickleness are presented as destructive of yoga. Niyamāgraha is interpreted differently across commentarial traditions; it should not be reduced to a single English slogan.",
+    "related": [
+      "supports",
+      "diet",
+      "practice"
+    ]
+  },
+  {
+    "id": "supports",
+    "title": "Ṣaṭ-sādhakāḥ",
+    "devanagari": "षट्साधकाः",
+    "english": "Six supports",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        16,
+        16
+      ]
+    ],
+    "terms": [
+      "utsāha",
+      "dhairya",
+      "niścaya"
+    ],
+    "description": "Enthusiasm, courage, patience, insight into truth, resolve, and withdrawal from distracting company support yoga. The GRETIL transcription’s tattva-jñānāś is a reading to inspect rather than silently normalize.",
+    "related": [
+      "obstacles",
+      "practice",
+      "ethics"
+    ]
+  },
+  {
+    "id": "ethics",
+    "title": "Yama–niyama",
+    "devanagari": "यम–नियम",
+    "english": "Ethical observances",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        17,
+        18
+      ]
+    ],
+    "terms": [
+      "ahiṃsā",
+      "niyamā",
+      "yamā"
+    ],
+    "description": "This recension lists ten yamas and ten niyamas, including non-harming, truthfulness, moderate eating, contentment, and devotion. The list and numbering vary among editions, and 1.18 has a visibly difficult transmitted reading.",
+    "related": [
+      "supports",
+      "diet",
+      "lineage"
+    ]
+  },
+  {
+    "id": "asana",
+    "title": "Āsana",
+    "devanagari": "आसन",
+    "english": "Posture as a foundation",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        19,
+        20
+      ],
+      [
+        1,
+        35,
+        36
+      ]
+    ],
+    "terms": [
+      "āsana",
+      "pīṭha"
+    ],
+    "description": "Āsana is introduced as haṭha’s first limb, associated with steadiness, health, and lightness. The author selects a small number of postures and then privileges four seated forms.",
+    "related": [
+      "siddha",
+      "padma",
+      "practice"
+    ]
+  },
+  {
+    "id": "seats",
+    "title": "Svastika–gomukha–vīra",
+    "devanagari": "स्वस्तिक–गोमुख–वीर",
+    "english": "Early seated postures",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        21,
+        23
+      ]
+    ],
+    "terms": [
+      "svastika",
+      "gomukha",
+      "vīrāsana"
+    ],
+    "description": "The first descriptions concern svastika, gomukha, and vīra. These names should be understood through the verses themselves rather than automatically equated with every modern posture bearing the same name.",
+    "related": [
+      "asana",
+      "siddha",
+      "bhadra"
+    ]
+  },
+  {
+    "id": "balances",
+    "title": "Kūrma–kukkuṭa–dhanus",
+    "devanagari": "कूर्म–कुक्कुट–धनुस्",
+    "english": "Tortoise, cock, and bow",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        24,
+        27
+      ]
+    ],
+    "terms": [
+      "kūrmāsana",
+      "kukkuṭāsana",
+      "dhanur"
+    ],
+    "description": "This group describes kūrma, kukkuṭa, uttāna-kūrmaka, and dhanurāsana. Animal and object names are evocative labels; the exact configuration must be read from the Sanskrit description.",
+    "related": [
+      "asana",
+      "mayura"
+    ]
+  },
+  {
+    "id": "matsyendra",
+    "title": "Matsyendrāsana",
+    "devanagari": "मत्स्येन्द्रासन",
+    "english": "Matsyendra’s seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        28,
+        29
+      ]
+    ],
+    "terms": [
+      "matsyendra",
+      "matysana"
+    ],
+    "description": "The twisting seat is attributed to Matsyendra and connected to digestive fire, kuṇḍalinī, and the moon. These benefits express the text’s yogic physiology and traditional claims.",
+    "related": [
+      "lineage",
+      "asana",
+      "kundalini"
+    ]
+  },
+  {
+    "id": "pascima",
+    "title": "Paścimatāna",
+    "devanagari": "पश्चिमतान",
+    "english": "The posterior stretch",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        30,
+        31
+      ]
+    ],
+    "terms": [
+      "paścima",
+      "paścimatāna"
+    ],
+    "description": "The described forward stretch is linked to breath moving along the posterior or central route. Paścima can mean west or the back; its contextual yogic sense matters.",
+    "related": [
+      "asana",
+      "susumna",
+      "fire"
+    ]
+  },
+  {
+    "id": "mayura",
+    "title": "Mayūrāsana",
+    "devanagari": "मयूरासन",
+    "english": "The peacock seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        32,
+        33
+      ]
+    ],
+    "terms": [
+      "māyūra",
+      "mayūra"
+    ],
+    "description": "A raised balancing posture is followed by expansive claims about digestion, disease, and poison. The poison claim is part of the historical praise of the posture, not evidence that poison is safe.",
+    "related": [
+      "asana",
+      "fire",
+      "balances"
+    ]
+  },
+  {
+    "id": "sava",
+    "title": "Śavāsana",
+    "devanagari": "शवासन",
+    "english": "Rest in the corpse posture",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        34,
+        34
+      ]
+    ],
+    "terms": [
+      "śavāsana",
+      "śrānti"
+    ],
+    "description": "Lying supine like a corpse is described as removing fatigue and bringing repose to the mind. The GRETIL first half has śabavad, a transcription reading that merits comparison with śavavat in other texts.",
+    "related": [
+      "asana",
+      "mind"
+    ]
+  },
+  {
+    "id": "siddha",
+    "title": "Siddhāsana",
+    "devanagari": "सिद्धासन",
+    "english": "The accomplished seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        37,
+        45
+      ]
+    ],
+    "terms": [
+      "siddhāsana",
+      "siddha-sadṛśa"
+    ],
+    "description": "Siddhāsana receives extended praise and several alternative names. It links seated steadiness with channel purification, spontaneous bandhas, kevala-kumbhaka, and unmanī.",
+    "related": [
+      "asana",
+      "bandhas",
+      "kevala",
+      "unmani"
+    ]
+  },
+  {
+    "id": "padma",
+    "title": "Padmāsana",
+    "devanagari": "पद्मासन",
+    "english": "The lotus seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        46,
+        51
+      ]
+    ],
+    "terms": [
+      "padmāsana",
+      "padma"
+    ],
+    "description": "Several related arrangements and contemplative actions appear under padmāsana. Read the sequence across verses: individual lines can depend syntactically on the next numbered verse.",
+    "related": [
+      "asana",
+      "prana",
+      "kundalini"
+    ]
+  },
+  {
+    "id": "simha",
+    "title": "Siṃhāsana",
+    "devanagari": "सिंहासन",
+    "english": "The lion seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        52,
+        54
+      ]
+    ],
+    "terms": [
+      "siṃhāsana"
+    ],
+    "description": "The lion seat includes a distinctive leg arrangement, spread fingers, open mouth, and directed gaze. The text associates it with coordinating the three bandhas.",
+    "related": [
+      "asana",
+      "bandhas",
+      "gaze"
+    ]
+  },
+  {
+    "id": "bhadra",
+    "title": "Bhadrāsana",
+    "devanagari": "भद्रासन",
+    "english": "The auspicious seat",
+    "chapter": 1,
+    "category": "posture",
+    "ranges": [
+      [
+        1,
+        55,
+        56
+      ]
+    ],
+    "terms": [
+      "bhadrāsana",
+      "gorakṣāsana"
+    ],
+    "description": "Bhadrāsana is described as a steady bound seat and also called gorakṣāsana. Its traditional disease-removing praise belongs to the text’s account of practice benefits.",
+    "related": [
+      "asana",
+      "lineage",
+      "practice"
+    ]
+  },
+  {
+    "id": "practice",
+    "title": "Abhyāsa-krama",
+    "devanagari": "अभ्यासक्रम",
+    "english": "Sequence and sustained practice",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        57,
+        59
+      ],
+      [
+        1,
+        67,
+        69
+      ]
+    ],
+    "terms": [
+      "abhyāsa",
+      "kriyā",
+      "śāstra-pāṭha"
+    ],
+    "description": "Posture, kumbhaka, mudrā, and attention to inner sound form an explicit practice sequence. The closing verses stress doing the discipline rather than relying on costume, discussion, or textual recitation alone.",
+    "related": [
+      "purpose",
+      "asana",
+      "kumbhaka",
+      "mudra",
+      "nada"
+    ]
+  },
+  {
+    "id": "diet",
+    "title": "Mitāhāra",
+    "devanagari": "मिताहार",
+    "english": "Moderation and food",
+    "chapter": 1,
+    "category": "foundation",
+    "ranges": [
+      [
+        1,
+        60,
+        66
+      ]
+    ],
+    "terms": [
+      "mitāhāra",
+      "āhāra",
+      "bhojana"
+    ],
+    "description": "The chapter defines moderate eating and lists foods and habits it accepts or rejects. These are prescriptions within a historical ascetic regimen, not a universal modern nutritional plan.",
+    "related": [
+      "ethics",
+      "obstacles",
+      "setting"
+    ]
+  },
+  {
+    "id": "prana",
+    "title": "Prāṇāyāma",
+    "devanagari": "प्राणायाम",
+    "english": "Breath and vital wind",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        1,
+        6
+      ],
+      [
+        2,
+        39,
+        43
+      ]
+    ],
+    "terms": [
+      "prāṇāyāma",
+      "vāyu",
+      "māruta"
+    ],
+    "description": "Breath discipline follows steadiness in posture and a suitable regimen. Prāṇa, vāyu, māruta, and pavana overlap as words for vital wind; their use is broader than a simple modern anatomical account of respiration.",
+    "related": [
+      "mind",
+      "nadis",
+      "kumbhaka",
+      "unmani"
+    ]
+  },
+  {
+    "id": "nadis",
+    "title": "Nāḍī-śodhana",
+    "devanagari": "नाडीशोधन",
+    "english": "Purification of channels",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        7,
+        14
+      ],
+      [
+        2,
+        19,
+        20
+      ]
+    ],
+    "terms": [
+      "nāḍī",
+      "iḍā",
+      "piṅgalā"
+    ],
+    "description": "Alternating lunar and solar pathways is described as purifying the channel system. The text gives practice schedules and signs within its own physiology; channel language should not be silently translated into modern nerves or blood vessels.",
+    "related": [
+      "prana",
+      "susumna",
+      "cleansings"
+    ]
+  },
+  {
+    "id": "care",
+    "title": "Yukta-abhyāsa",
+    "devanagari": "युक्ताभ्यास",
+    "english": "Gradual and appropriate practice",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        15,
+        18
+      ]
+    ],
+    "terms": [
+      "yukta",
+      "śanaiḥ",
+      "prakopa"
+    ],
+    "description": "The comparison with gradually taming a lion, elephant, or tiger emphasizes measured training. The text itself warns that improperly handled breath can produce illness and harm the practitioner.",
+    "related": [
+      "prana",
+      "kumbhaka",
+      "practice"
+    ]
+  },
+  {
+    "id": "cleansings",
+    "title": "Ṣaṭ-karman",
+    "devanagari": "षट्कर्मन्",
+    "english": "The six cleansing actions",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        21,
+        23
+      ],
+      [
+        2,
+        36,
+        38
+      ]
+    ],
+    "terms": [
+      "ṣaṭ-karma",
+      "gaja-karaṇī"
+    ],
+    "description": "Six cleansing actions are prescribed for particular bodily conditions, and the text notes that some teachers consider breath practice sufficient. Gaja-karaṇī is discussed separately after the six; this distinction is easy to miss.",
+    "related": [
+      "dhauti",
+      "basti",
+      "neti",
+      "trataka",
+      "nauli",
+      "kapalabhati"
+    ]
+  },
+  {
+    "id": "dhauti",
+    "title": "Dhauti",
+    "devanagari": "धौति",
+    "english": "Cloth cleansing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        24,
+        25
+      ]
+    ],
+    "terms": [
+      "dhauti"
+    ],
+    "description": "Dhauti is described here through swallowing and withdrawing a wetted cloth under a teacher’s instruction. Its strong medical claims and invasive technique are historical textual content, not a self-guided exercise.",
+    "related": [
+      "cleansings",
+      "lineage"
+    ]
+  },
+  {
+    "id": "basti",
+    "title": "Basti",
+    "devanagari": "बस्ति",
+    "english": "Water cleansing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        26,
+        28
+      ]
+    ],
+    "terms": [
+      "basti"
+    ],
+    "description": "The basti passage describes water cleansing and praises its effects on doṣas, digestion, and clarity. Doṣa terminology belongs to the text’s traditional bodily model.",
+    "related": [
+      "cleansings",
+      "fire"
+    ]
+  },
+  {
+    "id": "neti",
+    "title": "Neti",
+    "devanagari": "नेति",
+    "english": "Thread cleansing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        29,
+        30
+      ]
+    ],
+    "terms": [
+      "neti"
+    ],
+    "description": "Neti in these verses involves a smooth thread through the nasal passage and mouth. This is a specific historical technique, not a description of every modern use of the name neti.",
+    "related": [
+      "cleansings",
+      "trataka"
+    ]
+  },
+  {
+    "id": "trataka",
+    "title": "Trāṭaka",
+    "devanagari": "त्राटक",
+    "english": "Steady gazing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        31,
+        32
+      ]
+    ],
+    "terms": [
+      "trāṭaka"
+    ],
+    "description": "Concentrated gazing at a small target until tears arise is called trāṭaka. The accompanying praise and injunction to secrecy form part of its presentation.",
+    "related": [
+      "cleansings",
+      "gaze",
+      "mind"
+    ]
+  },
+  {
+    "id": "nauli",
+    "title": "Nauli",
+    "devanagari": "नौलि",
+    "english": "Abdominal churning",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        33,
+        34
+      ]
+    ],
+    "terms": [
+      "nauli"
+    ],
+    "description": "Nauli is described through a forceful circling movement of the abdomen. The text celebrates it as foremost among haṭha actions and links it to digestive fire.",
+    "related": [
+      "cleansings",
+      "fire",
+      "uddiyana"
+    ]
+  },
+  {
+    "id": "kapalabhati",
+    "title": "Kapālabhāti",
+    "devanagari": "कपालभाति",
+    "english": "Skull-shining cleansing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        35,
+        35
+      ]
+    ],
+    "terms": [
+      "kapālabhāti"
+    ],
+    "description": "Rapid exhalation and inhalation are compared to a smith’s bellows. Here kapālabhāti appears among cleansing actions; bhastrikā is separately listed among the eight kumbhakas.",
+    "related": [
+      "cleansings",
+      "bhastrika"
+    ]
+  },
+  {
+    "id": "kumbhaka",
+    "title": "Kumbhaka",
+    "devanagari": "कुम्भक",
+    "english": "Retention and its eight forms",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        44,
+        47
+      ],
+      [
+        2,
+        71,
+        71
+      ]
+    ],
+    "terms": [
+      "kumbhaka",
+      "pūraka",
+      "recaka"
+    ],
+    "description": "The text lists eight named kumbhakas and coordinates breathing phases with bandhas. Pūraka is filling, recaka is releasing, and kumbhaka is holding; the technical word can also designate a whole named procedure.",
+    "related": [
+      "suryabheda",
+      "ujjayi",
+      "cooling",
+      "bhastrika",
+      "bhramari",
+      "murccha",
+      "plavini",
+      "kevala",
+      "bandhas"
+    ]
+  },
+  {
+    "id": "suryabheda",
+    "title": "Sūryabhedana",
+    "devanagari": "सूर्यभेदन",
+    "english": "Piercing the solar pathway",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        48,
+        50
+      ]
+    ],
+    "terms": [
+      "sūrya-bhedana"
+    ],
+    "description": "A solar-side inhalation, retention, and lunar-side exhalation are described. The passage frames benefits in terms of purification and traditional doṣa theory.",
+    "related": [
+      "kumbhaka",
+      "nadis"
+    ]
+  },
+  {
+    "id": "ujjayi",
+    "title": "Ujjāyī",
+    "devanagari": "उज्जायी",
+    "english": "The sounding breath",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        51,
+        53
+      ]
+    ],
+    "terms": [
+      "ujjāyī",
+      "ujjāyy"
+    ],
+    "description": "Ujjāyī is described with a closed mouth and audible movement felt through the throat and chest. Its description includes retention and release through iḍā, so it is more specific than simply making a throat sound.",
+    "related": [
+      "kumbhaka",
+      "prana"
+    ]
+  },
+  {
+    "id": "cooling",
+    "title": "Sītkārī–śītalī",
+    "devanagari": "सीत्कारी–शीतली",
+    "english": "Two cooling forms",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        54,
+        58
+      ]
+    ],
+    "terms": [
+      "sītkārī",
+      "śītalī"
+    ],
+    "description": "Sītkārī and śītalī are distinct entries in the eightfold list. Their mouth or tongue actions differ, and the verses attach traditional claims about thirst, hunger, heat, and bodily afflictions.",
+    "related": [
+      "kumbhaka",
+      "diet"
+    ]
+  },
+  {
+    "id": "bhastrika",
+    "title": "Bhastrikā",
+    "devanagari": "भस्त्रिका",
+    "english": "The bellows",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        59,
+        67
+      ],
+      [
+        3,
+        115,
+        115
+      ],
+      [
+        3,
+        122,
+        122
+      ]
+    ],
+    "terms": [
+      "bhastrikā",
+      "bhastrā"
+    ],
+    "description": "Bellows imagery describes repeated vigorous movement of breath followed by retention. The text links this form to digestive fire, the central channel, kuṇḍalinī, and the three knots.",
+    "related": [
+      "kapalabhati",
+      "kumbhaka",
+      "kundalini",
+      "granthi"
+    ]
+  },
+  {
+    "id": "bhramari",
+    "title": "Bhrāmarī",
+    "devanagari": "भ्रामरी",
+    "english": "The bee-like sound",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        68,
+        68
+      ]
+    ],
+    "terms": [
+      "bhrāmarī",
+      "bhṛṅga"
+    ],
+    "description": "Male and female bee sounds characterize inhalation and exhalation in this verse. The result is described as a play of joy in the mind, linking breath sound to the book’s later interest in nāda.",
+    "related": [
+      "kumbhaka",
+      "nada"
+    ]
+  },
+  {
+    "id": "murccha",
+    "title": "Mūrcchā",
+    "devanagari": "मूर्च्छा",
+    "english": "Swooning or absorption",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        69,
+        69
+      ]
+    ],
+    "terms": [
+      "mūrcchā"
+    ],
+    "description": "Mūrcchā is connected with a strong jālandhara bandha and a pleasurable subsiding of mind. The technical name should not be treated as encouragement to induce loss of consciousness.",
+    "related": [
+      "kumbhaka",
+      "jalandhara",
+      "mind"
+    ]
+  },
+  {
+    "id": "plavini",
+    "title": "Plāvinī",
+    "devanagari": "प्लाविनी",
+    "english": "The floating form",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        70,
+        70
+      ]
+    ],
+    "terms": [
+      "plāvinī",
+      "plavate"
+    ],
+    "description": "The passage describes filling the abdomen with air and floating like a lotus leaf. This is the eighth named kumbhaka in the chapter’s list.",
+    "related": [
+      "kumbhaka"
+    ]
+  },
+  {
+    "id": "kevala",
+    "title": "Kevala-kumbhaka",
+    "devanagari": "केवलकुम्भक",
+    "english": "Retention beyond filling and releasing",
+    "chapter": 2,
+    "category": "breath",
+    "ranges": [
+      [
+        2,
+        72,
+        78
+      ]
+    ],
+    "terms": [
+      "kevala",
+      "sahita"
+    ],
+    "description": "Sahita retention is practiced until kevala is accomplished; kevala is described as holding apart from inhalation and exhalation. The discussion culminates in rājayoga and lists signs of haṭha accomplishment.",
+    "related": [
+      "kumbhaka",
+      "siddha",
+      "purpose",
+      "unmani"
+    ]
+  },
+  {
+    "id": "kundalini",
+    "title": "Kuṇḍalinī",
+    "devanagari": "कुण्डलिनी",
+    "english": "The coiled power",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        1,
+        5
+      ],
+      [
+        3,
+        104,
+        110
+      ]
+    ],
+    "terms": [
+      "kuṇḍalinī",
+      "kuṇḍalī",
+      "śakti"
+    ],
+    "description": "Kuṇḍalinī is presented as the support of yoga and as a sleeping power at the entrance to the central way. Serpent, goddess, and river imagery express a yogic subtle-body model rather than a modern anatomical structure.",
+    "related": [
+      "susumna",
+      "granthi",
+      "mudra",
+      "sakticalana"
+    ]
+  },
+  {
+    "id": "mudra",
+    "title": "Daśa-mudrā",
+    "devanagari": "दशमुद्रा",
+    "english": "The ten seals",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        6,
+        9
+      ]
+    ],
+    "terms": [
+      "mudrā",
+      "mudrā-daśaka"
+    ],
+    "description": "The tenfold list includes mahāmudrā, mahābandha, mahāvedha, khecarī, three bandhas, viparītakaraṇī, vajrolī, and śakticālana. Mudrā here covers several types of embodied and contemplative procedure, not only hand gestures.",
+    "related": [
+      "mahamudra",
+      "mahabandha",
+      "mahavedha",
+      "khecari",
+      "bandhas",
+      "viparita",
+      "vajroli",
+      "sakticalana"
+    ]
+  },
+  {
+    "id": "mahamudra",
+    "title": "Mahāmudrā",
+    "devanagari": "महामुद्रा",
+    "english": "The great seal",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        10,
+        18
+      ]
+    ],
+    "terms": [
+      "mahā-mudrā",
+      "mahāmudrā"
+    ],
+    "description": "An asymmetrical seated arrangement, a throat lock, and breath holding are associated with straightening the coiled power. The text praises this seal in expansive therapeutic and death-conquering terms.",
+    "related": [
+      "mudra",
+      "mahabandha",
+      "mahavedha",
+      "kundalini"
+    ]
+  },
+  {
+    "id": "mahabandha",
+    "title": "Mahābandha",
+    "devanagari": "महाबन्ध",
+    "english": "The great lock",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        19,
+        25
+      ]
+    ],
+    "terms": [
+      "mahā-bandha",
+      "mahābandha"
+    ],
+    "description": "Mahābandha coordinates a seated arrangement, breath, and mental placement. Verse 3.22 explicitly reports disagreement about the throat lock, preserving diversity within the teaching tradition.",
+    "related": [
+      "mudra",
+      "mahamudra",
+      "mahavedha",
+      "bandhas"
+    ]
+  },
+  {
+    "id": "mahavedha",
+    "title": "Mahāvedha",
+    "devanagari": "महावेध",
+    "english": "The great piercing",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        26,
+        31
+      ]
+    ],
+    "terms": [
+      "mahā-vedha",
+      "mahāvedha"
+    ],
+    "description": "Mahāvedha is presented as completing mahāmudrā and mahābandha. The three are grouped as a particularly secret set and connected with central movement of vital wind.",
+    "related": [
+      "mudra",
+      "mahamudra",
+      "mahabandha",
+      "susumna"
+    ]
+  },
+  {
+    "id": "khecari",
+    "title": "Khecarī",
+    "devanagari": "खेचरी",
+    "english": "The sky-moving seal",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        32,
+        54
+      ],
+      [
+        4,
+        43,
+        49
+      ]
+    ],
+    "terms": [
+      "khecarī",
+      "khecary"
+    ],
+    "description": "The third chapter gives bodily procedures and symbolic explanations of khecarī, including tongue manipulation, nectar, and bindu. The fourth chapter returns to it in a contemplative setting; the historical cutting instructions are preserved as text, not offered as a practice tutorial.",
+    "related": [
+      "mudra",
+      "nectar",
+      "bindu",
+      "unmani",
+      "sambhavi"
+    ]
+  },
+  {
+    "id": "uddiyana",
+    "title": "Uḍḍīyāna-bandha",
+    "devanagari": "उड्डीयानबन्ध",
+    "english": "The upward-flying lock",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        55,
+        60
+      ]
+    ],
+    "terms": [
+      "uḍḍīyāna",
+      "uḍḍiyāna"
+    ],
+    "description": "An abdominal drawing back and upward is explained through the image of vital wind flying in suṣumṇā. The passage presents this lock as especially important among bandhas.",
+    "related": [
+      "bandhas",
+      "susumna",
+      "nauli"
+    ]
+  },
+  {
+    "id": "mula",
+    "title": "Mūla-bandha",
+    "devanagari": "मूलबन्ध",
+    "english": "The root lock",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        61,
+        69
+      ]
+    ],
+    "terms": [
+      "mūla-bandha"
+    ],
+    "description": "Mūlabandha is associated with drawing apāna upward and uniting currents, sound, and bindu. The ensuing heat and serpent imagery connects it to the awakening of kuṇḍalinī.",
+    "related": [
+      "bandhas",
+      "kundalini",
+      "fire",
+      "bindu"
+    ]
+  },
+  {
+    "id": "jalandhara",
+    "title": "Jālandhara-bandha",
+    "devanagari": "जालन्धरबन्ध",
+    "english": "The throat lock",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        70,
+        73
+      ]
+    ],
+    "terms": [
+      "jālandhara",
+      "jalandhara"
+    ],
+    "description": "Contraction at the throat and placement of the chin are linked to restraining a descending fluid. The explanation belongs to the text’s model of nectar, channels, and internal fire.",
+    "related": [
+      "bandhas",
+      "nectar",
+      "murccha"
+    ]
+  },
+  {
+    "id": "bandhas",
+    "title": "Bandha-traya",
+    "devanagari": "बन्धत्रय",
+    "english": "The three locks together",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        74,
+        76
+      ],
+      [
+        2,
+        45,
+        47
+      ]
+    ],
+    "terms": [
+      "bandha-traya",
+      "bandha-tritaya"
+    ],
+    "description": "The three bandhas are coordinated to guide the wind into the posterior or central pathway. This node connects their separate descriptions and their role during kumbhaka.",
+    "related": [
+      "uddiyana",
+      "mula",
+      "jalandhara",
+      "kumbhaka",
+      "susumna"
+    ]
+  },
+  {
+    "id": "viparita",
+    "title": "Viparīta-karaṇī",
+    "devanagari": "विपरीतकरणी",
+    "english": "The reversed action",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        77,
+        82
+      ]
+    ],
+    "terms": [
+      "viparīta",
+      "viparītā"
+    ],
+    "description": "The reversed action is explained through the relation between a lunar source of nectar and a consuming sun. Its orientation and gradual schedule are part of the historical description and should not be replaced with assumptions from modern restorative yoga.",
+    "related": [
+      "mudra",
+      "nectar",
+      "fire"
+    ]
+  },
+  {
+    "id": "vajroli",
+    "title": "Vajrolī",
+    "devanagari": "वज्रोली",
+    "english": "Retention and reproductive fluids",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        83,
+        91
+      ],
+      [
+        3,
+        99,
+        103
+      ]
+    ],
+    "terms": [
+      "vajrolī",
+      "śukra",
+      "rajas"
+    ],
+    "description": "Vajrolī concerns retention and upward drawing of reproductive fluids and includes discussion of both male and female practitioners. Its physiology and liberation claims are the text’s own; modern readers should distinguish description from endorsement.",
+    "related": [
+      "mudra",
+      "bindu",
+      "sahajoli",
+      "amaroli"
+    ]
+  },
+  {
+    "id": "sahajoli",
+    "title": "Sahajolī",
+    "devanagari": "सहजोली",
+    "english": "A related embodied rite",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        92,
+        95
+      ]
+    ],
+    "terms": [
+      "sahajoli",
+      "sahajolī"
+    ],
+    "description": "Sahajolī is presented as a variant related to vajrolī and situated after sexual union. The text explicitly connects enjoyment and liberation in its account.",
+    "related": [
+      "vajroli",
+      "amaroli",
+      "bindu"
+    ]
+  },
+  {
+    "id": "amaroli",
+    "title": "Amarolī",
+    "devanagari": "अमरोली",
+    "english": "The Kāpālika-associated procedure",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        96,
+        98
+      ]
+    ],
+    "terms": [
+      "amarolī",
+      "amaroli"
+    ],
+    "description": "Amarolī is associated here with a Kāpālika teaching and the middle stream of bodily fluid. These verses preserve a historical practice and its claimed effects rather than establish medical benefit.",
+    "related": [
+      "vajroli",
+      "sahajoli"
+    ]
+  },
+  {
+    "id": "sakticalana",
+    "title": "Śakti-cālana",
+    "devanagari": "शक्तिचालन",
+    "english": "Moving the power",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        111,
+        125
+      ]
+    ],
+    "terms": [
+      "cālana",
+      "cālay",
+      "kanda"
+    ],
+    "description": "The final major technique centers on awakening and moving kuṇḍalinī, with references to the kanda, breath, and bhastrikā. It closes by reconnecting bodily methods with concentration and samādhi.",
+    "related": [
+      "kundalini",
+      "bhastrika",
+      "susumna",
+      "samadhi"
+    ]
+  },
+  {
+    "id": "samadhi",
+    "title": "Samādhi",
+    "devanagari": "समाधि",
+    "english": "Absorption and unity",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        1,
+        14
+      ]
+    ],
+    "terms": [
+      "samādhi",
+      "samarasa",
+      "aikya"
+    ],
+    "description": "The chapter defines samādhi through union and dissolution, including the analogy of salt dissolving in water. A series of names—rājayoga, unmanī, laya, nonduality, and liberation while living—are presented as referring to one culminating state in this text.",
+    "related": [
+      "purpose",
+      "unmani",
+      "laya",
+      "liberation"
+    ]
+  },
+  {
+    "id": "susumna",
+    "title": "Suṣumṇā",
+    "devanagari": "सुषुम्णा",
+    "english": "The central way",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        3,
+        3,
+        4
+      ],
+      [
+        4,
+        15,
+        20
+      ]
+    ],
+    "terms": [
+      "suṣumṇā",
+      "suṣumnā",
+      "madhya-mārga"
+    ],
+    "description": "Suṣumṇā is the privileged central pathway whose entry is connected with dissolution of mind and transcendence of ordinary time. Chapter 3 supplies several alternative names, including śūnyapadavī and madhyamārga.",
+    "related": [
+      "nadis",
+      "kundalini",
+      "prana",
+      "unmani"
+    ]
+  },
+  {
+    "id": "mind",
+    "title": "Citta–prāṇa",
+    "devanagari": "चित्त–प्राण",
+    "english": "Mind and vital wind",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        2,
+        2,
+        3
+      ],
+      [
+        4,
+        21,
+        28
+      ]
+    ],
+    "terms": [
+      "citta",
+      "manas",
+      "mānasa",
+      "pavana"
+    ],
+    "description": "Mind and vital wind are presented as mutually dependent, like milk and water mixed together. Their calming or dissolution is also connected with stabilizing bindu.",
+    "related": [
+      "prana",
+      "bindu",
+      "laya"
+    ]
+  },
+  {
+    "id": "laya",
+    "title": "Laya",
+    "devanagari": "लय",
+    "english": "Dissolution",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        29,
+        34
+      ]
+    ],
+    "terms": [
+      "laya",
+      "vilīy"
+    ],
+    "description": "Laya denotes a settling or dissolution that the text says lies beyond ordinary description. Its definition includes freedom from renewed latent tendencies and from grasping sensory objects.",
+    "related": [
+      "mind",
+      "nada",
+      "samadhi"
+    ]
+  },
+  {
+    "id": "sambhavi",
+    "title": "Śāmbhavī",
+    "devanagari": "शाम्भवी",
+    "english": "Inner aim and outward gaze",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        35,
+        42
+      ]
+    ],
+    "terms": [
+      "śāmbhavī",
+      "śāmbhavyā"
+    ],
+    "description": "Śāmbhavī is described through an inward aim and an outward, steady gaze. The text contrasts it with merely intellectual engagement in scriptures and argument and emphasizes a teacher’s grace.",
+    "related": [
+      "gaze",
+      "khecari",
+      "lineage",
+      "unmani"
+    ]
+  },
+  {
+    "id": "contemplation",
+    "title": "Śūnya–pūrṇa",
+    "devanagari": "शून्य–पूर्ण",
+    "english": "Emptiness, fullness, and thought",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        50,
+        64
+      ]
+    ],
+    "terms": [
+      "śūnya",
+      "pūrṇa",
+      "saṅkalpa",
+      "nirvikalpa"
+    ],
+    "description": "Images of a jar in space and a jar in the ocean illuminate emptiness and fullness. The sequence then considers thought, the relation of knower and known, dissolution of mind, and the state remaining when duality falls away.",
+    "related": [
+      "laya",
+      "samadhi",
+      "unmani"
+    ]
+  },
+  {
+    "id": "nada",
+    "title": "Nādānusandhāna",
+    "devanagari": "नादानुसन्धान",
+    "english": "Attending to inner sound",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        65,
+        69
+      ],
+      [
+        4,
+        78,
+        83
+      ]
+    ],
+    "terms": [
+      "nāda",
+      "nādānusandhāna"
+    ],
+    "description": "Inner-sound attention is praised as a foremost means of laya and linked with Gorakṣanātha. The verses describe focused listening and introduce four stages of accomplishment.",
+    "related": [
+      "practice",
+      "laya",
+      "stages",
+      "sounds"
+    ]
+  },
+  {
+    "id": "stages",
+    "title": "Avasthā-catuṣṭaya",
+    "devanagari": "अवस्थाचतुष्टय",
+    "english": "Four stages",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        70,
+        77
+      ]
+    ],
+    "terms": [
+      "ārambha",
+      "ghaṭa",
+      "paricaya",
+      "niṣpatti"
+    ],
+    "description": "Ārambha, ghaṭa, paricaya, and niṣpatti organize the sound-based path. Changes in sound, space, joy, and the piercing of knots provide the text’s markers of these stages.",
+    "related": [
+      "nada",
+      "granthi",
+      "sounds",
+      "samadhi"
+    ]
+  },
+  {
+    "id": "sounds",
+    "title": "Sthūla–sūkṣma nāda",
+    "devanagari": "स्थूल–सूक्ष्म नाद",
+    "english": "From gross to subtle sounds",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        84,
+        89
+      ]
+    ],
+    "terms": [
+      "sūkṣma",
+      "bherī",
+      "vīṇā",
+      "bhramara"
+    ],
+    "description": "Thunder, drums, bells, flute, vīṇā, and bees describe changing qualities of inner sound. Attention is directed toward increasingly subtle sound without abandoning steadiness.",
+    "related": [
+      "nada",
+      "stages",
+      "metaphors"
+    ]
+  },
+  {
+    "id": "metaphors",
+    "title": "Nāda-dṛṣṭānta",
+    "devanagari": "नाददृष्टान्त",
+    "english": "Images for taming the mind",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        90,
+        99
+      ]
+    ],
+    "terms": [
+      "bhṛṅgī",
+      "gajendra",
+      "pārada",
+      "vahni"
+    ],
+    "description": "The text compares attention to a nectar-drinking bee, a hooked elephant, a snared deer, and stabilized mercury. These analogies explain how sound gathers a wandering mind and finally dissolves with it.",
+    "related": [
+      "nada",
+      "sounds",
+      "mind",
+      "laya"
+    ]
+  },
+  {
+    "id": "silence",
+    "title": "Niḥśabda-brahman",
+    "devanagari": "निःशब्दब्रह्मन्",
+    "english": "Beyond sound",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        100,
+        105
+      ]
+    ],
+    "terms": [
+      "niḥśabda",
+      "brahma",
+      "parameśvara"
+    ],
+    "description": "Sound is identified with śakti, while the formless culmination is placed beyond audible sound. The passage returns to the relation between haṭha, laya, and the attainment of rājayoga.",
+    "related": [
+      "nada",
+      "laya",
+      "purpose",
+      "liberation"
+    ]
+  },
+  {
+    "id": "liberation",
+    "title": "Jīvanmukti",
+    "devanagari": "जीवन्मुक्ति",
+    "english": "The liberated practitioner",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        4,
+        106,
+        114
+      ]
+    ],
+    "terms": [
+      "mukta",
+      "samādhinā",
+      "unmany"
+    ],
+    "description": "The closing verses portray absorption beyond ordinary sensory, temporal, and bodily conditions. Claims of invulnerability and freedom from death are religious descriptions within the text, and the final verse challenges merely verbal claims to realization.",
+    "related": [
+      "samadhi",
+      "unmani",
+      "purpose",
+      "practice"
+    ]
+  },
+  {
+    "id": "unmani",
+    "title": "Unmanī",
+    "devanagari": "उन्मनी",
+    "english": "Beyond ordinary mind",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        1,
+        43,
+        45
+      ],
+      [
+        2,
+        42,
+        43
+      ],
+      [
+        4,
+        3,
+        4
+      ],
+      [
+        4,
+        47,
+        49
+      ],
+      [
+        4,
+        61,
+        62
+      ]
+    ],
+    "terms": [
+      "unmanī",
+      "manonmanī"
+    ],
+    "description": "Unmanī and manonmanī name a state beyond ordinary mental activity in this work. It links seemingly distant discussions of posture, breath, central-channel movement, and samādhi.",
+    "related": [
+      "siddha",
+      "kevala",
+      "susumna",
+      "samadhi"
+    ]
+  },
+  {
+    "id": "nectar",
+    "title": "Amṛta–soma",
+    "devanagari": "अमृत–सोम",
+    "english": "Nectar, moon, and sun",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        44,
+        53
+      ],
+      [
+        3,
+        71,
+        72
+      ],
+      [
+        3,
+        77,
+        79
+      ]
+    ],
+    "terms": [
+      "amṛta",
+      "soma",
+      "candra",
+      "pīyūṣa"
+    ],
+    "description": "Lunar nectar and its preservation give a shared rationale for several seals and locks. Soma, amṛta, pīyūṣa, and sudhā can overlap poetically, but a translation should still attend to each local context.",
+    "related": [
+      "khecari",
+      "jalandhara",
+      "viparita"
+    ]
+  },
+  {
+    "id": "bindu",
+    "title": "Bindu–rajas",
+    "devanagari": "बिन्दु–रजस्",
+    "english": "Drop, semen, and generative fluid",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        3,
+        42,
+        43
+      ],
+      [
+        3,
+        87,
+        91
+      ],
+      [
+        3,
+        99,
+        103
+      ],
+      [
+        4,
+        26,
+        28
+      ]
+    ],
+    "terms": [
+      "bindu",
+      "rajas",
+      "śukra"
+    ],
+    "description": "Bindu literally means drop and often refers here to retained reproductive essence; rajas and śukra require contextual translation. The text connects fluid retention, mental steadiness, vitality, and its own account of liberation.",
+    "related": [
+      "vajroli",
+      "khecari",
+      "mind",
+      "mula"
+    ]
+  },
+  {
+    "id": "granthi",
+    "title": "Granthi-traya",
+    "devanagari": "ग्रन्थित्रय",
+    "english": "The three knots",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        3,
+        2,
+        2
+      ],
+      [
+        2,
+        67,
+        67
+      ],
+      [
+        4,
+        70,
+        77
+      ]
+    ],
+    "terms": [
+      "granthi"
+    ],
+    "description": "Brahmā, Viṣṇu, and Rudra knots appear in the account of successive stages of inner sound. Their piercing is part of a subtle-body and contemplative map; it is not a claim about three identifiable anatomical obstructions.",
+    "related": [
+      "kundalini",
+      "stages",
+      "bhastrika"
+    ]
+  },
+  {
+    "id": "gaze",
+    "title": "Dṛṣṭi",
+    "devanagari": "दृष्टि",
+    "english": "Gaze and attention",
+    "chapter": 4,
+    "category": "meditation",
+    "ranges": [
+      [
+        1,
+        37,
+        37
+      ],
+      [
+        1,
+        53,
+        53
+      ],
+      [
+        2,
+        31,
+        32
+      ],
+      [
+        4,
+        36,
+        41
+      ]
+    ],
+    "terms": [
+      "dṛṣṭi",
+      "nāsāgra",
+      "bhruvor"
+    ],
+    "description": "Gaze at the brow region or nose tip appears in different practices and should be read locally rather than merged into one instruction. Śāmbhavī makes especially clear that the inward aim and outward gaze are distinct aspects.",
+    "related": [
+      "sambhavi",
+      "trataka",
+      "simha",
+      "siddha"
+    ]
+  },
+  {
+    "id": "fire",
+    "title": "Jaṭharāgni",
+    "devanagari": "जठराग्नि",
+    "english": "Digestive and yogic fire",
+    "chapter": 3,
+    "category": "mudra",
+    "ranges": [
+      [
+        1,
+        29,
+        33
+      ],
+      [
+        2,
+        34,
+        34
+      ],
+      [
+        2,
+        65,
+        67
+      ],
+      [
+        3,
+        66,
+        68
+      ],
+      [
+        3,
+        77,
+        81
+      ]
+    ],
+    "terms": [
+      "agni",
+      "vahni",
+      "anala"
+    ],
+    "description": "Fire vocabulary connects digestion, cleansing, and awakening the coiled power. The same metaphorical system also presents the sun as consuming descending lunar nectar.",
+    "related": [
+      "mayura",
+      "nauli",
+      "bhastrika",
+      "mula",
+      "nectar"
+    ]
+  }
+]

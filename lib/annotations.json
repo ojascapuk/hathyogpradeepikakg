@@ -1,0 +1,2899 @@
+{
+  "1.1": {
+    "translation": "Homage be to that venerable Ādinātha by whom the knowledge of haṭhayoga was taught; it shines like a ladder for one who wishes to ascend to lofty rājayoga.",
+    "anvaya": "tasmai śrī-ādi-nāthāya namaḥ astu, yena upadiṣṭā haṭha-yoga-vidyā pronnata-rāja-yogam āroḍhum icchoḥ adhirohiṇī iva vibhrājate.",
+    "meaning": "The invocation presents haṭhayoga as a means of ascending to rājayoga. Ādinātha, the “first lord,” is the divine teacher Śiva in the tradition.",
+    "words": [
+      {
+        "form": "śrī-ādi-nāthāya",
+        "lemma": "śrī-ādinātha",
+        "meaning": "to the venerable first lord",
+        "grammar": "Masculine dative singular; recipient of homage."
+      },
+      {
+        "form": "namaḥ",
+        "lemma": "namas",
+        "meaning": "homage",
+        "grammar": "Indeclinable salutation; normally construed with the dative."
+      },
+      {
+        "form": "astu",
+        "lemma": "√as",
+        "meaning": "let there be",
+        "grammar": "Present imperative, third person singular, active."
+      },
+      {
+        "form": "tasmai",
+        "lemma": "tad",
+        "meaning": "to that one",
+        "grammar": "Masculine dative singular pronoun."
+      },
+      {
+        "form": "yena",
+        "lemma": "yad",
+        "meaning": "by whom",
+        "grammar": "Masculine instrumental singular relative pronoun."
+      },
+      {
+        "form": "upadiṣṭā",
+        "lemma": "upa-√diś",
+        "meaning": "taught",
+        "grammar": "Past passive participle, feminine nominative singular; agrees with vidyā."
+      },
+      {
+        "form": "haṭha-yoga-vidyā",
+        "lemma": "haṭhayogavidyā",
+        "meaning": "knowledge of haṭhayoga",
+        "grammar": "Feminine nominative singular; subject of vibhrājate."
+      },
+      {
+        "form": "vibhrājate",
+        "lemma": "vi-√bhrāj",
+        "meaning": "shines forth",
+        "grammar": "Present indicative, third person singular, middle."
+      },
+      {
+        "form": "pronnata-rāja-yogam",
+        "lemma": "pronnatarājayoga",
+        "meaning": "lofty rājayoga",
+        "grammar": "Masculine accusative singular; goal of ascent."
+      },
+      {
+        "form": "āroḍhum",
+        "lemma": "ā-√ruh",
+        "meaning": "to ascend",
+        "grammar": "Infinitive in -tum; irregular stem roḍh-."
+      },
+      {
+        "form": "icchoḥ",
+        "lemma": "icchu",
+        "meaning": "of one wishing",
+        "grammar": "Masculine genitive singular of the u-stem adjective icchu, “wishing; desirous.”"
+      },
+      {
+        "form": "adhirohiṇī",
+        "lemma": "adhirohiṇī",
+        "meaning": "ladder; means of ascent",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "iva",
+        "lemma": "iva",
+        "meaning": "like; as if",
+        "grammar": "Indeclinable comparison particle."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "namo'stu",
+        "split": "namaḥ + astu",
+        "rule": "Final -aḥ becomes -o before initial a; the initial a is elided, marked by avagraha."
+      },
+      {
+        "form": "yenopadiṣṭā",
+        "split": "yena + upadiṣṭā",
+        "rule": "a + u becomes o (guṇa vowel sandhi)."
+      },
+      {
+        "form": "icchor",
+        "split": "icchoḥ + adhirohiṇī",
+        "rule": "Final visarga after o becomes r before a vowel."
+      },
+      {
+        "form": "adhirohiṇīva",
+        "split": "adhirohiṇī + iva",
+        "rule": "ī + i coalesces to ī."
+      },
+      {
+        "form": "pronnata",
+        "split": "pra + unnata",
+        "rule": "a + u becomes o within the prefixed formation."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "haṭha-yoga-vidyā",
+        "split": "haṭha-yogasya vidyā",
+        "type": "Ṣaṣṭhī-tatpuruṣa (genitive relation)",
+        "meaning": "Haṭha: the technical discipline of haṭha (literally force); yoga: discipline/integration; vidyā: knowledge/teaching. The whole means “knowledge of haṭhayoga.”"
+      },
+      {
+        "form": "pronnata-rāja-yogam",
+        "split": "pronnatam rāja-yogam",
+        "type": "Karmadhāraya at the outer level",
+        "meaning": "Pronnata: elevated/lofty (pra + unnata); rāja-yoga: royal/supreme yoga. At the outer level, the compound describes rājayoga as lofty."
+      },
+      {
+        "form": "śrī-ādi-nāthāya",
+        "split": "śrī + ādi + nātha; ādiḥ nāthaḥ; dative -āya",
+        "type": "Honorific śrī- plus descriptive/karmadhāraya ādi-nātha",
+        "meaning": "Śrī: venerable/auspicious; ādi: first/original; nātha: lord/protector. The whole expression is dative singular, “to the venerable first lord.”"
+      },
+      {
+        "form": "rāja-yoga",
+        "split": "rāja- + yoga",
+        "type": "Traditional technical compound; royal/supreme qualification",
+        "meaning": "Rāja-: royal or foremost, from rājan “king”; yoga: discipline or integration. In context this is the lofty contemplative attainment to which haṭha is a means. The designation does not by itself prove identity with every later system called rājayoga."
+      }
+    ],
+    "notes": [
+      "The prose order supplied here is an interpretive rearrangement, not an additional manuscript reading.",
+      "Haṭha is a technical name here. A sun–moon interpretation is not stated in this verse."
+    ]
+  },
+  "1.2": {
+    "translation": "Having bowed to the venerable guru, the lord, the yogin Svātmārāma teaches the knowledge of haṭha solely for rājayoga.",
+    "anvaya": "śrī-guruṃ nāthaṃ praṇamya, svātmārāmeṇa yoginā haṭha-vidyā kevalaṃ rāja-yogāya upadiśyate.",
+    "meaning": "The passive construction names Svātmārāma as the teacher, and explicitly makes rājayoga the purpose of this teaching.",
+    "words": [
+      {
+        "form": "praṇamya",
+        "lemma": "pra-√nam",
+        "meaning": "having bowed",
+        "grammar": "Absolutive; prior action by the same agent as the teaching."
+      },
+      {
+        "form": "śrī-gurum",
+        "lemma": "śrīguru",
+        "meaning": "the venerable teacher",
+        "grammar": "Masculine accusative singular; object of praṇamya."
+      },
+      {
+        "form": "nātham",
+        "lemma": "nātha",
+        "meaning": "lord; protector",
+        "grammar": "Masculine accusative singular; apposition to guru."
+      },
+      {
+        "form": "svātmārāmeṇa",
+        "lemma": "svātmārāma",
+        "meaning": "by Svātmārāma",
+        "grammar": "Masculine instrumental singular; agent of the passive verb."
+      },
+      {
+        "form": "yoginā",
+        "lemma": "yogin",
+        "meaning": "by the yogin",
+        "grammar": "Masculine instrumental singular; apposition to Svātmārāma."
+      },
+      {
+        "form": "kevalam",
+        "lemma": "kevala",
+        "meaning": "solely",
+        "grammar": "Accusative neuter singular used adverbially."
+      },
+      {
+        "form": "rāja-yogāya",
+        "lemma": "rājayoga",
+        "meaning": "for rājayoga",
+        "grammar": "Masculine dative singular of purpose."
+      },
+      {
+        "form": "haṭha-vidyā",
+        "lemma": "haṭhavidyā",
+        "meaning": "knowledge of haṭha",
+        "grammar": "Feminine nominative singular; passive subject."
+      },
+      {
+        "form": "upadiśyate",
+        "lemma": "upa-√diś",
+        "meaning": "is taught",
+        "grammar": "Present indicative passive, third person singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "haṭha-vidyopadiśyate",
+        "split": "haṭha-vidyā + upadiśyate",
+        "rule": "ā + u becomes o."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "haṭha-vidyā",
+        "split": "haṭhasya vidyā",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Teaching concerning haṭha."
+      },
+      {
+        "form": "śrī-gurum",
+        "split": "śrī + guru; accusative -m",
+        "type": "Honorific/descriptive compound",
+        "meaning": "Śrī: venerable/auspicious; guru: teacher. The accusative singular is the object of praṇamya, “having bowed to the venerable teacher.”"
+      },
+      {
+        "form": "rāja-yogāya",
+        "split": "rāja- + yoga; dative -āya",
+        "type": "Traditional technical compound; dative of purpose",
+        "meaning": "Rāja-: royal/foremost; yoga: discipline or integration. The whole is “for rājayoga,” expressing the teaching’s purpose."
+      }
+    ],
+    "notes": [
+      "The English translation uses an active construction for readability; the Sanskrit is passive."
+    ]
+  },
+  "1.3": {
+    "translation": "For those who do not know rājayoga, in the darkness of many opinions caused by confusion, compassionate Svātmārāma holds forth the lamp of haṭha.",
+    "anvaya": "bhrāntyā bahumata-dhvānte rāja-yogam ajānatāṃ [kṛte] kṛpākaraḥ svātmārāmaḥ haṭha-pradīpikāṃ dhatte.",
+    "meaning": "The title is developed as a lamp metaphor: the book offers orientation amid competing teachings.",
+    "words": [
+      {
+        "form": "bhrāntyā",
+        "lemma": "bhrānti",
+        "meaning": "through confusion",
+        "grammar": "Feminine instrumental singular; cause."
+      },
+      {
+        "form": "bahumata-dhvānte",
+        "lemma": "bahumatadhvānta",
+        "meaning": "in the darkness of many opinions",
+        "grammar": "Neuter locative singular."
+      },
+      {
+        "form": "rāja-yogam",
+        "lemma": "rājayoga",
+        "meaning": "rājayoga",
+        "grammar": "Masculine accusative singular; object of ajānatām."
+      },
+      {
+        "form": "ajānatām",
+        "lemma": "a-jānat",
+        "meaning": "of those not knowing",
+        "grammar": "Genitive plural, masculine/neuter, negative present participial form of √jñā."
+      },
+      {
+        "form": "haṭha-pradīpikām",
+        "lemma": "haṭhapradīpikā",
+        "meaning": "the lamp of haṭha",
+        "grammar": "Feminine accusative singular; object of dhatte."
+      },
+      {
+        "form": "dhatte",
+        "lemma": "√dhā",
+        "meaning": "holds; sets forth",
+        "grammar": "Present indicative, third person singular, middle."
+      },
+      {
+        "form": "svātmārāmaḥ",
+        "lemma": "svātmārāma",
+        "meaning": "Svātmārāma",
+        "grammar": "Masculine nominative singular; subject."
+      },
+      {
+        "form": "kṛpākaraḥ",
+        "lemma": "kṛpākara",
+        "meaning": "a source of compassion",
+        "grammar": "Masculine nominative singular; description of the author."
+      }
+    ],
+    "sandhi": [],
+    "compounds": [
+      {
+        "form": "bahumata-dhvānta",
+        "split": "bahūni matāni; teṣāṃ dhvāntam",
+        "type": "Nested compound; genitive relation at the outer level",
+        "meaning": "Darkness associated with a multiplicity of opinions."
+      },
+      {
+        "form": "kṛpākaraḥ",
+        "split": "kṛpāyāḥ ākaraḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "A mine or source of compassion."
+      },
+      {
+        "form": "haṭha-pradīpikām",
+        "split": "haṭhasya pradīpikā; haṭha + pradīpikā; accusative -m",
+        "type": "Ṣaṣṭhī-tatpuruṣa, metaphorically understood",
+        "meaning": "Haṭha: the technical haṭha discipline; pradīpikā: little lamp/illumination. The title pictures the work as a lamp illuminating haṭha."
+      },
+      {
+        "form": "rāja-yogam",
+        "split": "rāja- + yoga; accusative -m",
+        "type": "Traditional technical compound; royal/supreme qualification",
+        "meaning": "Rāja-: royal/foremost; yoga: discipline/integration. Here it is the accusative object of the participle ajānatām, “not knowing rājayoga.”"
+      }
+    ],
+    "notes": [
+      "The word kṛte in brackets supplies the implied beneficiary relation for clarity; it is not in the verse."
+    ]
+  },
+  "1.4": {
+    "translation": "Matsyendra, Gorakṣa, and the others indeed know the knowledge of haṭha; the yogin Svātmārāma also knows it through their favour.",
+    "anvaya": "matsyendra-gorakṣa-ādyāḥ hi haṭha-vidyāṃ vijānate; athavā svātmārāmaḥ yogī tat-prasādataḥ jānīte.",
+    "meaning": "Authority is attributed to a lineage of accomplished teachers and to transmission through their favour.",
+    "words": [
+      {
+        "form": "haṭha-vidyām",
+        "lemma": "haṭhavidyā",
+        "meaning": "knowledge of haṭha",
+        "grammar": "Feminine accusative singular."
+      },
+      {
+        "form": "hi",
+        "lemma": "hi",
+        "meaning": "indeed; for",
+        "grammar": "Indeclinable explanatory or emphatic particle."
+      },
+      {
+        "form": "matsyendra-gorakṣādyāḥ",
+        "lemma": "matsyendra-gorakṣādya",
+        "meaning": "Matsyendra, Gorakṣa, and others",
+        "grammar": "Masculine nominative plural of an -ādya compound; subject of vijānate. Ādya (“first”) is an a-stem here; this is not the i-stem plural ādayaḥ of ādi."
+      },
+      {
+        "form": "vijānate",
+        "lemma": "vi-√jñā",
+        "meaning": "know",
+        "grammar": "Present indicative, third person plural, middle."
+      },
+      {
+        "form": "svātmārāmaḥ",
+        "lemma": "svātmārāma",
+        "meaning": "Svātmārāma",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "athavā",
+        "lemma": "athavā",
+        "meaning": "or; alternatively; also in this context",
+        "grammar": "Indeclinable connective."
+      },
+      {
+        "form": "yogī",
+        "lemma": "yogin",
+        "meaning": "the yogin",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "jānīte",
+        "lemma": "√jñā",
+        "meaning": "knows",
+        "grammar": "Present indicative, third person singular, middle."
+      },
+      {
+        "form": "tat-prasādataḥ",
+        "lemma": "tatprasādataḥ",
+        "meaning": "through their favour",
+        "grammar": "Compound with adverbial -tas expressing source or cause."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "svātmārāmo'thavā",
+        "split": "svātmārāmaḥ + athavā",
+        "rule": "Final -aḥ becomes -o before a; a is elided."
+      },
+      {
+        "form": "gorakṣādyā",
+        "split": "gorakṣa + ādyāḥ",
+        "rule": "a + ā becomes ā; final visarga is lost before voiced v in vijānate."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "matsyendra-gorakṣādyāḥ",
+        "split": "matsyendra-gorakṣau ādyau yeṣāṃ te",
+        "type": "Ādya-ending possessive/enumerative compound",
+        "meaning": "Matsyendra and Gorakṣa are the first named members of the group: “Matsyendra, Gorakṣa, and others.” Matsyendra and Gorakṣa are proper names; ādya means first."
+      },
+      {
+        "form": "haṭha-vidyām",
+        "split": "haṭhasya vidyā; haṭha + vidyā; accusative -m",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Haṭha: the technical discipline; vidyā: knowledge/teaching. The accusative singular names what the teachers know."
+      },
+      {
+        "form": "tat-prasādataḥ",
+        "split": "tat + prasāda + -tas",
+        "type": "Dependent nominal compound with adverbial -tas derivation",
+        "meaning": "Tat: that/those (referring here to the preceding teachers); prasāda: favor/grace; -tas: from/by reason of. Thus “through their favor.” The compound’s uninflected pronominal first member does not itself display plural case endings."
+      }
+    ],
+    "notes": [
+      "Athavā normally means “or/alternatively”; the contextual translation “also” should not obscure its literal connective force."
+    ]
+  },
+  "1.15": {
+    "translation": "Overeating, excessive exertion, idle talk, insistence on observances, association with people, and fickleness: by these six yoga is destroyed.",
+    "anvaya": "atyāhāraḥ prayāsaḥ ca prajalpaḥ niyamāgrahaḥ jana-saṅgaḥ ca laulyaṃ ca: ṣaḍbhiḥ yogaḥ vinaśyati.",
+    "meaning": "Six impediments are named. The compound niyamāgraha is interpretively important: rigid insistence on rules is a common reading, while other segmentations are possible.",
+    "words": [
+      {
+        "form": "atyāhāraḥ",
+        "lemma": "atyāhāra",
+        "meaning": "overeating; excessive intake",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "prayāsaḥ",
+        "lemma": "prayāsa",
+        "meaning": "excessive exertion",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction; occurs three times."
+      },
+      {
+        "form": "prajalpaḥ",
+        "lemma": "prajalpa",
+        "meaning": "idle or excessive talk",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "niyamāgrahaḥ",
+        "lemma": "niyamāgraha",
+        "meaning": "insistence on observances",
+        "grammar": "Masculine nominative singular; compound interpretation is debated."
+      },
+      {
+        "form": "jana-saṅgaḥ",
+        "lemma": "janasaṅga",
+        "meaning": "association with people",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "laulyam",
+        "lemma": "laulya",
+        "meaning": "fickleness; restlessness",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "ṣaḍbhiḥ",
+        "lemma": "ṣaṣ",
+        "meaning": "by six",
+        "grammar": "Instrumental plural numeral."
+      },
+      {
+        "form": "yogaḥ",
+        "lemma": "yoga",
+        "meaning": "yoga",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "vinaśyati",
+        "lemma": "vi-√naś",
+        "meaning": "is destroyed; perishes",
+        "grammar": "Present indicative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "prayāsaś ca",
+        "split": "prayāsaḥ + ca",
+        "rule": "Visarga becomes ś before palatal c."
+      },
+      {
+        "form": "prajalpo",
+        "split": "prajalpaḥ + niyamāgrahaḥ",
+        "rule": "Final -aḥ becomes -o before a voiced consonant."
+      },
+      {
+        "form": "ṣaḍbhir yogo",
+        "split": "ṣaḍbhiḥ + yogaḥ",
+        "rule": "Visarga after i becomes r before voiced y; yogaḥ becomes yogo before v."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "atyāhāraḥ",
+        "split": "ati + āhāra",
+        "type": "Prefixal compound",
+        "meaning": "Excessive intake."
+      },
+      {
+        "form": "niyamāgrahaḥ",
+        "split": "niyama + āgraha",
+        "type": "Ṣaṣṭhī-tatpuruṣa reading",
+        "meaning": "Insistence on observances."
+      },
+      {
+        "form": "jana-saṅgaḥ",
+        "split": "janaiḥ saṅgaḥ",
+        "type": "Tṛtīyā-tatpuruṣa reading",
+        "meaning": "Association with people."
+      }
+    ],
+    "notes": [
+      "The same written niyamāgraha can invite niyama + agraha (“non-observance”); translation depends on interpretation.",
+      "This is a teaching about the author’s yogic discipline, not a universal judgement on social life."
+    ]
+  },
+  "1.16": {
+    "translation": "Yoga succeeds through enthusiasm, bold effort, patience, knowledge of reality, certainty, and relinquishment of distracting association: through these six.",
+    "anvaya": "utsāhāt sāhasāt dhairyāt tattva-jñānāt ca niścayāt jana-saṅga-parityāgāt: ṣaḍbhiḥ yogaḥ prasiddhyati.",
+    "meaning": "The positive counterpart to 1.15 identifies six supports of practice.",
+    "words": [
+      {
+        "form": "utsāhāt",
+        "lemma": "utsāha",
+        "meaning": "through enthusiasm",
+        "grammar": "Masculine ablative singular of cause."
+      },
+      {
+        "form": "sāhasāt",
+        "lemma": "sāhasa",
+        "meaning": "through boldness; courageous effort",
+        "grammar": "Neuter ablative singular."
+      },
+      {
+        "form": "dhairyāt",
+        "lemma": "dhairya",
+        "meaning": "through patience; steadiness",
+        "grammar": "Neuter ablative singular."
+      },
+      {
+        "form": "tattva-jñānāt",
+        "lemma": "tattvajñāna",
+        "meaning": "through knowledge of reality",
+        "grammar": "Neuter ablative singular; normalized analysis of the problematic source reading tattva-jñānāś."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction."
+      },
+      {
+        "form": "niścayāt",
+        "lemma": "niścaya",
+        "meaning": "through certainty; resolve",
+        "grammar": "Masculine ablative singular."
+      },
+      {
+        "form": "jana-saṅga-parityāgāt",
+        "lemma": "janasaṅgaparityāga",
+        "meaning": "through giving up association with people",
+        "grammar": "Masculine ablative singular."
+      },
+      {
+        "form": "ṣaḍbhiḥ",
+        "lemma": "ṣaṣ",
+        "meaning": "by six",
+        "grammar": "Instrumental plural numeral."
+      },
+      {
+        "form": "yogaḥ",
+        "lemma": "yoga",
+        "meaning": "yoga",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "prasiddhyati",
+        "lemma": "pra-√sidh",
+        "meaning": "succeeds; reaches accomplishment",
+        "grammar": "Present indicative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "sāhasād dhairyāt",
+        "split": "sāhasāt + dhairyāt",
+        "rule": "Final t becomes voiced d before voiced dh."
+      },
+      {
+        "form": "tattva-jñānāś ca",
+        "split": "expected tattva-jñānāt + ca → tattva-jñānāc ca",
+        "rule": "GRETIL’s ś is apparently erroneous here; the regular sandhi is t + c → cc."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "tattva-jñāna",
+        "split": "tattvasya jñānam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Knowledge of reality."
+      },
+      {
+        "form": "jana-saṅga-parityāga",
+        "split": "jana-saṅgasya parityāgaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Abandonment of association with people."
+      }
+    ],
+    "notes": [
+      "GRETIL prints tattva-jñānāś. The word analysis explicitly uses the expected ablative tattva-jñānāt; this is a proposed correction, not a silently substituted source reading."
+    ]
+  },
+  "1.19": {
+    "translation": "Because posture is the first limb of haṭha, it is discussed first. That posture should produce steadiness, health, and lightness of the body.",
+    "anvaya": "haṭhasya prathama-aṅgatvāt āsanaṃ pūrvam ucyate. tat āsanaṃ sthairyam ārogyam aṅga-lāghavaṃ ca kuryāt.",
+    "meaning": "Āsana is introduced as the first practical limb. The straightforward second clause makes tat āsanam the subject of kuryāt: “that posture should produce” the listed benefits. An alternative instructional paraphrase, “one should practice that posture,” requires supplying an agent and an additional relation for the benefits.",
+    "words": [
+      {
+        "form": "haṭhasya",
+        "lemma": "haṭha",
+        "meaning": "of haṭha",
+        "grammar": "Masculine genitive singular."
+      },
+      {
+        "form": "prathamāṅgatvāt",
+        "lemma": "prathamāṅgatva",
+        "meaning": "because of being the first limb",
+        "grammar": "Neuter ablative singular; abstract noun in -tva."
+      },
+      {
+        "form": "āsanam",
+        "lemma": "āsana",
+        "meaning": "posture",
+        "grammar": "Neuter nominative singular in both clauses in the primary analysis: subject of ucyate and of kuryāt. The identical form can also be accusative in an alternative reading."
+      },
+      {
+        "form": "pūrvam",
+        "lemma": "pūrva",
+        "meaning": "first",
+        "grammar": "Accusative neuter singular used adverbially."
+      },
+      {
+        "form": "ucyate",
+        "lemma": "√vac",
+        "meaning": "is said; is discussed",
+        "grammar": "Present passive, third person singular."
+      },
+      {
+        "form": "kuryāt",
+        "lemma": "√kṛ",
+        "meaning": "should do; should produce",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "tat",
+        "lemma": "tad",
+        "meaning": "that",
+        "grammar": "Neuter nominative singular; qualifies āsanam as the subject of kuryāt in the primary analysis. The form is identical to the accusative."
+      },
+      {
+        "form": "sthairyam",
+        "lemma": "sthairya",
+        "meaning": "steadiness",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "ārogyam",
+        "lemma": "ārogya",
+        "meaning": "health; absence of disease",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction."
+      },
+      {
+        "form": "aṅga-lāghavam",
+        "lemma": "aṅgalāghava",
+        "meaning": "lightness of the body",
+        "grammar": "Neuter accusative singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "prathamāṅgatvād āsanam",
+        "split": "prathamāṅgatvāt + āsanam",
+        "rule": "t becomes d before a vowel."
+      },
+      {
+        "form": "cāṅga",
+        "split": "ca + aṅga",
+        "rule": "a + a becomes ā."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "prathamāṅgatva",
+        "split": "prathama-aṅga + tva",
+        "type": "Abstract formation from a compound",
+        "meaning": "The state of being the first limb."
+      },
+      {
+        "form": "aṅga-lāghava",
+        "split": "aṅgasya lāghavam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Lightness of the body."
+      }
+    ],
+    "notes": [
+      "Health effects are claims made by the text; the verse is not clinical evidence.",
+      "The prose order marks supplied words in brackets."
+    ]
+  },
+  "1.34": {
+    "translation": "Lying stretched out on the ground like a corpse is śavāsana. Śavāsana removes fatigue and brings rest to the mind.",
+    "anvaya": "bhūmau śava-vat uttānaṃ śayanaṃ tat śavāsanam. śavāsanaṃ śrānti-haraṃ citta-viśrānti-kārakam [asti].",
+    "meaning": "The name is explained through the comparison to a corpse; its stated aim is relief of fatigue and mental rest.",
+    "words": [
+      {
+        "form": "uttānam",
+        "lemma": "uttāna",
+        "meaning": "supine; stretched out",
+        "grammar": "Neuter nominative singular, qualifying śayanam."
+      },
+      {
+        "form": "śabavad",
+        "lemma": "expected śavavat",
+        "meaning": "like a corpse",
+        "grammar": "Indeclinable comparison in -vat; source appears to have b for v."
+      },
+      {
+        "form": "bhūmau",
+        "lemma": "bhūmi",
+        "meaning": "on the ground",
+        "grammar": "Feminine locative singular."
+      },
+      {
+        "form": "śayanam",
+        "lemma": "śayana",
+        "meaning": "lying down",
+        "grammar": "Neuter nominative singular; verbal noun."
+      },
+      {
+        "form": "tat",
+        "lemma": "tad",
+        "meaning": "that",
+        "grammar": "Neuter nominative singular pronoun."
+      },
+      {
+        "form": "śavāsanam",
+        "lemma": "śavāsana",
+        "meaning": "corpse posture",
+        "grammar": "Neuter nominative singular; occurs twice."
+      },
+      {
+        "form": "śrānti-haram",
+        "lemma": "śrāntihara",
+        "meaning": "removing fatigue",
+        "grammar": "Neuter nominative singular; adjective of śavāsanam."
+      },
+      {
+        "form": "citta-viśrānti-kārakam",
+        "lemma": "cittaviśrāntikāraka",
+        "meaning": "causing rest of the mind",
+        "grammar": "Neuter nominative singular; adjective of śavāsanam."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "tac chavāsanam",
+        "split": "tat + śavāsanam",
+        "rule": "Final t assimilates to c before ś; ś is commonly represented as ch in the resulting cluster."
+      },
+      {
+        "form": "śavāsana",
+        "split": "śava + āsana",
+        "rule": "a + ā becomes ā."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "śavāsana",
+        "split": "śava + āsana",
+        "type": "Compound name with comparison",
+        "meaning": "Posture resembling a corpse."
+      },
+      {
+        "form": "śrānti-hara",
+        "split": "śrāntiṃ harati",
+        "type": "Upapada-type verbal compound",
+        "meaning": "That which removes fatigue."
+      },
+      {
+        "form": "citta-viśrānti-kāraka",
+        "split": "cittasya viśrāntiṃ karoti",
+        "type": "Nested compound with verbal final member",
+        "meaning": "Producing rest of the mind."
+      }
+    ],
+    "notes": [
+      "GRETIL reads śabavad; the sense and standard word require śavavat, voiced to śavavad before bhūmau. This is noted rather than hidden."
+    ]
+  },
+  "1.45": {
+    "translation": "No posture is like siddhāsana; no retention equals kevala; no mudrā equals khecarī; no dissolution equals that through sound.",
+    "anvaya": "siddha-sadṛśam āsanaṃ na [asti]; kevala-upamaḥ kumbhaḥ na; khecarī-samā mudrā na; nāda-sadṛśaḥ layaḥ na.",
+    "meaning": "The verse connects four prominent practices across the book: posture, breath retention, mudrā, and meditative absorption.",
+    "words": [
+      {
+        "form": "na",
+        "lemma": "na",
+        "meaning": "not; no",
+        "grammar": "Indeclinable negative; occurs four times."
+      },
+      {
+        "form": "āsanam",
+        "lemma": "āsana",
+        "meaning": "posture",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "siddha-sadṛśam",
+        "lemma": "siddhasadṛśa",
+        "meaning": "like siddha [posture]",
+        "grammar": "Neuter nominative singular; compound adjective."
+      },
+      {
+        "form": "kumbhaḥ",
+        "lemma": "kumbha",
+        "meaning": "retention",
+        "grammar": "Masculine nominative singular; shortened technical term for kumbhaka."
+      },
+      {
+        "form": "kevalopamaḥ",
+        "lemma": "kevalopama",
+        "meaning": "equal to kevala",
+        "grammar": "Masculine nominative singular; compound adjective."
+      },
+      {
+        "form": "khecarī-samā",
+        "lemma": "khecarīsama",
+        "meaning": "equal to khecarī",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "mudrā",
+        "lemma": "mudrā",
+        "meaning": "seal; yogic mudrā",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "nāda-sadṛśaḥ",
+        "lemma": "nādasadṛśa",
+        "meaning": "like [absorption through] sound",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "layaḥ",
+        "lemma": "laya",
+        "meaning": "dissolution; absorption",
+        "grammar": "Masculine nominative singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "nāsanam",
+        "split": "na + āsanam",
+        "rule": "a + ā becomes ā."
+      },
+      {
+        "form": "kevalopamaḥ",
+        "split": "kevala + upamaḥ",
+        "rule": "a + u becomes o."
+      },
+      {
+        "form": "nāda-sadṛśo layaḥ",
+        "split": "nāda-sadṛśaḥ + layaḥ",
+        "rule": "Final -aḥ becomes -o before voiced l."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "siddha-sadṛśa",
+        "split": "siddhena sadṛśam",
+        "type": "Comparison compound",
+        "meaning": "Comparable to siddhāsana."
+      },
+      {
+        "form": "kevalopama",
+        "split": "kevalena upamaḥ",
+        "type": "Comparison compound",
+        "meaning": "Comparable to kevala retention."
+      },
+      {
+        "form": "khecarī-sama",
+        "split": "khecaryā sama",
+        "type": "Comparison compound",
+        "meaning": "Equal to khecarī."
+      },
+      {
+        "form": "nāda-sadṛśa",
+        "split": "nādena sadṛśa",
+        "type": "Comparison compound",
+        "meaning": "Comparable to nāda as a means of laya."
+      }
+    ],
+    "notes": [
+      "The verse uses ellipsis: siddha stands for siddhāsana, and kevala for kevala-kumbhaka."
+    ]
+  },
+  "1.68": {
+    "translation": "Success should belong to one engaged in practice; how could it arise for one who does nothing? Accomplishment in yoga does not arise merely through reciting treatises.",
+    "anvaya": "kriyā-yuktasya siddhiḥ syāt; akriyasya kathaṃ bhavet? śāstra-pāṭha-mātreṇa yoga-siddhiḥ na prajāyate.",
+    "meaning": "Textual learning is presented as insufficient without practice. The verse does not make textual study worthless.",
+    "words": [
+      {
+        "form": "kriyā-yuktasya",
+        "lemma": "kriyāyukta",
+        "meaning": "of one engaged in practice",
+        "grammar": "Masculine genitive singular; substantivized adjective."
+      },
+      {
+        "form": "siddhiḥ",
+        "lemma": "siddhi",
+        "meaning": "success; accomplishment",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "syāt",
+        "lemma": "√as",
+        "meaning": "would be; should be",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "akriyasya",
+        "lemma": "akriya",
+        "meaning": "of one inactive",
+        "grammar": "Masculine genitive singular."
+      },
+      {
+        "form": "katham",
+        "lemma": "katham",
+        "meaning": "how?",
+        "grammar": "Indeclinable interrogative adverb."
+      },
+      {
+        "form": "bhavet",
+        "lemma": "√bhū",
+        "meaning": "would arise",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "na",
+        "lemma": "na",
+        "meaning": "not",
+        "grammar": "Indeclinable negative."
+      },
+      {
+        "form": "śāstra-pāṭha-mātreṇa",
+        "lemma": "śāstrapāṭhamātra",
+        "meaning": "by mere recitation of treatises",
+        "grammar": "Neuter instrumental singular."
+      },
+      {
+        "form": "yoga-siddhiḥ",
+        "lemma": "yogasiddhi",
+        "meaning": "accomplishment in yoga",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "prajāyate",
+        "lemma": "pra-√jan",
+        "meaning": "arises; is born",
+        "grammar": "Present indicative, third person singular, middle."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "syād akriyasya",
+        "split": "syāt + akriyasya",
+        "rule": "Final t becomes d before a vowel."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "kriyā-yukta",
+        "split": "kriyayā yukta",
+        "type": "Tṛtīyā-tatpuruṣa",
+        "meaning": "Joined to or engaged in action."
+      },
+      {
+        "form": "śāstra-pāṭha-mātra",
+        "split": "śāstrasya pāṭhaḥ; pāṭha-mātra",
+        "type": "Nested compound with mātra (“mere”)",
+        "meaning": "Only the recitation of a treatise."
+      },
+      {
+        "form": "yoga-siddhi",
+        "split": "yogasya siddhiḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Accomplishment of yoga."
+      }
+    ],
+    "notes": []
+  },
+  "2.1": {
+    "translation": "Once posture is firm, the self-controlled yogin who eats beneficial food in moderation should practise breath disciplines by the path taught by the guru.",
+    "anvaya": "atha āsane dṛḍhe [sati], vaśī hita-mitāśanaḥ yogī guru-upadiṣṭa-mārgeṇa prāṇāyāmān samabhyaset.",
+    "meaning": "The chapter begins by making stable posture, self-restraint, suitable food, and a teacher’s guidance prerequisites for breath practice.",
+    "words": [
+      {
+        "form": "atha",
+        "lemma": "atha",
+        "meaning": "now; then",
+        "grammar": "Indeclinable transition particle."
+      },
+      {
+        "form": "āsane",
+        "lemma": "āsana",
+        "meaning": "posture",
+        "grammar": "Neuter locative singular; locative absolute with dṛḍhe."
+      },
+      {
+        "form": "dṛdhe",
+        "lemma": "expected dṛḍha",
+        "meaning": "firm",
+        "grammar": "Neuter locative singular adjective; GRETIL lacks the retroflex dot on the second consonant."
+      },
+      {
+        "form": "yogī",
+        "lemma": "yogin",
+        "meaning": "the yogin",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "vaśī",
+        "lemma": "vaśin",
+        "meaning": "self-controlled",
+        "grammar": "Masculine nominative singular adjective."
+      },
+      {
+        "form": "hita-mitāśanaḥ",
+        "lemma": "hitamitāśana",
+        "meaning": "one whose food is beneficial and moderate",
+        "grammar": "Masculine nominative singular; possessive compound."
+      },
+      {
+        "form": "gurūpadiṣṭa-mārgeṇa",
+        "lemma": "gurūpadiṣṭamārga",
+        "meaning": "by the path taught by the guru",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "prāṇāyāmān",
+        "lemma": "prāṇāyāma",
+        "meaning": "breath disciplines",
+        "grammar": "Masculine accusative plural."
+      },
+      {
+        "form": "samabhyaset",
+        "lemma": "sam-abhi-√as",
+        "meaning": "should practise thoroughly",
+        "grammar": "Present optative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "athāsane",
+        "split": "atha + āsane",
+        "rule": "a + ā becomes ā."
+      },
+      {
+        "form": "gurūpadiṣṭa",
+        "split": "guru + upadiṣṭa",
+        "rule": "u + u becomes ū."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "hita-mitāśanaḥ",
+        "split": "hitaṃ mitaṃ aśanaṃ yasya",
+        "type": "Bahuvrīhi",
+        "meaning": "One whose eating is beneficial and measured."
+      },
+      {
+        "form": "gurūpadiṣṭa-mārga",
+        "split": "guruṇā upadiṣṭaḥ mārgaḥ",
+        "type": "Nested compound; karmadhāraya at outer level",
+        "meaning": "A path taught by the teacher."
+      }
+    ],
+    "notes": [
+      "GRETIL prints dṛdhe; the expected form is dṛḍhe.",
+      "Prāṇāyāma is treated here as a textual subject, not as an unsupervised exercise prescription."
+    ]
+  },
+  "2.3": {
+    "translation": "As long as breath remains in the body, that is called life. Its departure is death; therefore one should restrain the breath.",
+    "anvaya": "yāvat vāyuḥ dehe sthitaḥ [asti], tāvat jīvanam ucyate. tasya niṣkrāntiḥ maraṇam [asti]; tataḥ vāyuṃ nirodhayet.",
+    "meaning": "The text identifies continued embodiment with the presence of vital breath and explains why its discipline matters to the yogin.",
+    "words": [
+      {
+        "form": "yāvat",
+        "lemma": "yāvat",
+        "meaning": "as long as",
+        "grammar": "Indeclinable relative temporal adverb."
+      },
+      {
+        "form": "vāyuḥ",
+        "lemma": "vāyu",
+        "meaning": "wind; vital breath",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "sthitaḥ",
+        "lemma": "√sthā",
+        "meaning": "remaining; situated",
+        "grammar": "Past passive participle, masculine nominative singular."
+      },
+      {
+        "form": "dehe",
+        "lemma": "deha",
+        "meaning": "in the body",
+        "grammar": "Masculine locative singular."
+      },
+      {
+        "form": "tāvat",
+        "lemma": "tāvat",
+        "meaning": "so long",
+        "grammar": "Indeclinable correlative temporal adverb."
+      },
+      {
+        "form": "jīvanam",
+        "lemma": "jīvana",
+        "meaning": "life; living",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "ucyate",
+        "lemma": "√vac",
+        "meaning": "is called",
+        "grammar": "Present passive, third person singular."
+      },
+      {
+        "form": "maraṇam",
+        "lemma": "maraṇa",
+        "meaning": "death",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "tasya",
+        "lemma": "tad",
+        "meaning": "of it",
+        "grammar": "Masculine genitive singular; refers to vāyu."
+      },
+      {
+        "form": "niṣkrāntiḥ",
+        "lemma": "niṣkrānti",
+        "meaning": "departure",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "tataḥ",
+        "lemma": "tatas",
+        "meaning": "therefore; from that",
+        "grammar": "Indeclinable causal adverb."
+      },
+      {
+        "form": "vāyum",
+        "lemma": "vāyu",
+        "meaning": "breath",
+        "grammar": "Masculine accusative singular."
+      },
+      {
+        "form": "nirodhayet",
+        "lemma": "ni-√rudh",
+        "meaning": "should restrain",
+        "grammar": "Causative present optative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "yāvad vāyuḥ",
+        "split": "yāvat + vāyuḥ",
+        "rule": "Final t becomes d before voiced v."
+      },
+      {
+        "form": "tāvaj jīvanam",
+        "split": "tāvat + jīvanam",
+        "rule": "Final t becomes j before j."
+      },
+      {
+        "form": "niṣkrāntis tataḥ",
+        "split": "niṣkrāntiḥ + tataḥ",
+        "rule": "Visarga is represented as s before dental t."
+      }
+    ],
+    "compounds": [],
+    "notes": [
+      "Vāyu here belongs to a yogic account of vital processes; it should not be equated without qualification with a modern physiological variable."
+    ]
+  },
+  "2.15": {
+    "translation": "As a lion, an elephant, or a tiger becomes manageable little by little, so too does breath when cultivated gradually; otherwise it kills the practitioner.",
+    "anvaya": "yathā siṃhaḥ gajaḥ vyāghraḥ śanaiḥ śanaiḥ vaśyaḥ bhavet, tathā eva sevitaḥ vāyuḥ [vaśyaḥ bhavet]; anyathā sādhakaṃ hanti.",
+    "meaning": "The animal simile insists on gradual discipline and explicitly warns against harmful practice.",
+    "words": [
+      {
+        "form": "yathā",
+        "lemma": "yathā",
+        "meaning": "just as",
+        "grammar": "Indeclinable relative adverb."
+      },
+      {
+        "form": "siṃhaḥ",
+        "lemma": "siṃha",
+        "meaning": "lion",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "gajaḥ",
+        "lemma": "gaja",
+        "meaning": "elephant",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "vyāghraḥ",
+        "lemma": "vyāghra",
+        "meaning": "tiger",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "bhavet",
+        "lemma": "√bhū",
+        "meaning": "would become",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "vaśyaḥ",
+        "lemma": "vaśya",
+        "meaning": "manageable; subject to control",
+        "grammar": "Gerundive adjective, masculine nominative singular."
+      },
+      {
+        "form": "śanaiḥ",
+        "lemma": "śanais",
+        "meaning": "slowly; gradually",
+        "grammar": "Indeclinable adverb, repeated for emphasis."
+      },
+      {
+        "form": "tathā",
+        "lemma": "tathā",
+        "meaning": "so; in that way",
+        "grammar": "Indeclinable correlative adverb."
+      },
+      {
+        "form": "eva",
+        "lemma": "eva",
+        "meaning": "just; precisely",
+        "grammar": "Indeclinable emphatic particle."
+      },
+      {
+        "form": "sevitaḥ",
+        "lemma": "√sev",
+        "meaning": "cultivated; attended to",
+        "grammar": "Past passive participle, masculine nominative singular."
+      },
+      {
+        "form": "vāyuḥ",
+        "lemma": "vāyu",
+        "meaning": "breath",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "anyathā",
+        "lemma": "anyathā",
+        "meaning": "otherwise",
+        "grammar": "Indeclinable adverb."
+      },
+      {
+        "form": "hanti",
+        "lemma": "√han",
+        "meaning": "kills",
+        "grammar": "Present indicative, third person singular, active."
+      },
+      {
+        "form": "sādhakam",
+        "lemma": "sādhaka",
+        "meaning": "practitioner",
+        "grammar": "Masculine accusative singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "siṃho gajo vyāghro",
+        "split": "siṃhaḥ + gajaḥ + vyāghraḥ",
+        "rule": "Final -aḥ becomes -o before a voiced consonant."
+      },
+      {
+        "form": "tathaiva",
+        "split": "tathā + eva",
+        "rule": "ā + e becomes ai."
+      },
+      {
+        "form": "vāyur anyathā",
+        "split": "vāyuḥ + anyathā",
+        "rule": "Visarga after u becomes r before a vowel."
+      }
+    ],
+    "compounds": [],
+    "notes": [
+      "The warning is in the source text itself. The study interface should not convert this passage into a timed breath-retention exercise."
+    ]
+  },
+  "2.16": {
+    "translation": "Properly applied breath discipline would bring the destruction of all diseases; improper practice brings the arising of all diseases.",
+    "anvaya": "yuktena prāṇāyāmena sarva-roga-kṣayaḥ bhavet; ayukta-abhyāsa-yogena sarva-roga-samudgamaḥ [bhavet].",
+    "meaning": "The verse pairs a broad claim of benefit with a broad claim of harm. These are the author’s traditional claims, not verified clinical conclusions.",
+    "words": [
+      {
+        "form": "prāṇāyāmena",
+        "lemma": "prāṇāyāma",
+        "meaning": "through breath discipline",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "yuktena",
+        "lemma": "yukta",
+        "meaning": "proper; appropriate",
+        "grammar": "Masculine instrumental singular; qualifies prāṇāyāmena."
+      },
+      {
+        "form": "sarva-roga-kṣayaḥ",
+        "lemma": "sarvarogakṣaya",
+        "meaning": "destruction of all disease",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "bhavet",
+        "lemma": "√bhū",
+        "meaning": "would occur",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "ayuktābhyāsa-yogena",
+        "lemma": "ayuktābhyāsayoga",
+        "meaning": "through the application of improper practice",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "sarva-roga-samudgamaḥ",
+        "lemma": "sarvarogasamudgama",
+        "meaning": "arising of all disease",
+        "grammar": "Masculine nominative singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "ayuktābhyāsa",
+        "split": "ayukta + abhyāsa",
+        "rule": "a + a becomes ā."
+      },
+      {
+        "form": "kṣayo bhavet",
+        "split": "kṣayaḥ + bhavet",
+        "rule": "Final -aḥ becomes -o before voiced bh."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "sarva-roga-kṣaya",
+        "split": "sarveṣāṃ rogāṇāṃ kṣayaḥ",
+        "type": "Nested genitive compound",
+        "meaning": "Destruction of every disease."
+      },
+      {
+        "form": "ayuktābhyāsa-yoga",
+        "split": "ayuktasya abhyāsasya yogaḥ",
+        "type": "Nested compound",
+        "meaning": "Application of unsuitable practice."
+      },
+      {
+        "form": "sarva-roga-samudgama",
+        "split": "sarveṣāṃ rogāṇāṃ samudgamaḥ",
+        "type": "Nested genitive compound",
+        "meaning": "Arising of every disease."
+      }
+    ],
+    "notes": [
+      "Yukta can mean joined, fitting, or appropriate; “properly applied” is contextual.",
+      "Do not read the universal disease claim as established medical advice."
+    ]
+  },
+  "2.76": {
+    "translation": "Rājayoga does not succeed without haṭha, nor haṭha without rājayoga. Therefore one should practise the pair until completion.",
+    "anvaya": "haṭhaṃ vinā rāja-yogaḥ na sidhyati; rāja-yogaṃ vinā haṭhaḥ [na sidhyati]. tataḥ ā-niṣpatteḥ yugmaṃ samabhyaset.",
+    "meaning": "The verse makes the two forms of yoga mutually dependent rather than competing systems.",
+    "words": [
+      {
+        "form": "haṭham",
+        "lemma": "haṭha",
+        "meaning": "haṭha",
+        "grammar": "Masculine accusative singular, governed by vinā."
+      },
+      {
+        "form": "vinā",
+        "lemma": "vinā",
+        "meaning": "without",
+        "grammar": "Indeclinable, here with accusative; occurs twice."
+      },
+      {
+        "form": "rāja-yogaḥ",
+        "lemma": "rājayoga",
+        "meaning": "rājayoga",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "rāja-yogam",
+        "lemma": "rājayoga",
+        "meaning": "rājayoga",
+        "grammar": "Masculine accusative singular, governed by vinā."
+      },
+      {
+        "form": "haṭhaḥ",
+        "lemma": "haṭha",
+        "meaning": "haṭha",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "na",
+        "lemma": "na",
+        "meaning": "not",
+        "grammar": "Indeclinable negative."
+      },
+      {
+        "form": "sidhyati",
+        "lemma": "√sidh",
+        "meaning": "succeeds; is accomplished",
+        "grammar": "Present indicative, third person singular, active."
+      },
+      {
+        "form": "tataḥ",
+        "lemma": "tatas",
+        "meaning": "therefore",
+        "grammar": "Indeclinable causal adverb."
+      },
+      {
+        "form": "yugmam",
+        "lemma": "yugma",
+        "meaning": "the pair",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "āniṣpatteḥ",
+        "lemma": "ā + niṣpatti",
+        "meaning": "until completion",
+        "grammar": "Preposition ā with ablative singular of feminine niṣpatti."
+      },
+      {
+        "form": "samabhyaset",
+        "lemma": "sam-abhi-√as",
+        "meaning": "should practise thoroughly",
+        "grammar": "Present optative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "tato yugmam",
+        "split": "tataḥ + yugmam",
+        "rule": "Final -aḥ becomes -o before voiced y."
+      },
+      {
+        "form": "āniṣpatteḥ",
+        "split": "ā + niṣpatteḥ",
+        "rule": "No vowel coalescence; this is a prepositional construction."
+      }
+    ],
+    "compounds": [],
+    "notes": [
+      "The translation supplies the repeated negative predicate in the second clause."
+    ]
+  },
+  "2.77": {
+    "translation": "At the end of the restraint of breath in kumbhaka, one should make the mind free of support. Thus, through sustained practice, one would reach the state of rājayoga.",
+    "anvaya": "kumbhaka-prāṇa-rodha-ante cittaṃ nirāśrayaṃ kuryāt. evam abhyāsa-yogena rāja-yoga-padaṃ vrajet.",
+    "meaning": "Breath restraint is linked to a meditative aim: the mind’s relinquishment of its supports.",
+    "words": [
+      {
+        "form": "kumbhaka-prāṇa-rodhānte",
+        "lemma": "kumbhakaprāṇarodhānta",
+        "meaning": "at the end of breath restraint in kumbhaka",
+        "grammar": "Masculine locative singular; nested compound."
+      },
+      {
+        "form": "kuryāt",
+        "lemma": "√kṛ",
+        "meaning": "should make",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "cittam",
+        "lemma": "citta",
+        "meaning": "mind",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "nirāśrayam",
+        "lemma": "nirāśraya",
+        "meaning": "without support",
+        "grammar": "Neuter accusative singular predicate adjective."
+      },
+      {
+        "form": "evam",
+        "lemma": "evam",
+        "meaning": "thus",
+        "grammar": "Indeclinable adverb."
+      },
+      {
+        "form": "abhyāsa-yogena",
+        "lemma": "abhyāsayoga",
+        "meaning": "through sustained practice",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "rāja-yoga-padam",
+        "lemma": "rājayogapada",
+        "meaning": "the state of rājayoga",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "vrajet",
+        "lemma": "√vraj",
+        "meaning": "would go to; would reach",
+        "grammar": "Present optative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "rodhānte",
+        "split": "rodha + ante",
+        "rule": "a + a becomes ā."
+      },
+      {
+        "form": "kuryāc cittam",
+        "split": "kuryāt + cittam",
+        "rule": "t + c assimilates to cc."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "rāja-yoga-pada",
+        "split": "rāja-yogasya padam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "The state or station of rājayoga."
+      },
+      {
+        "form": "nirāśraya",
+        "split": "nir + āśraya",
+        "type": "Privative prefixal formation",
+        "meaning": "Having no support."
+      }
+    ],
+    "notes": [
+      "“Support” refers to an object or basis of mental attention in this context."
+    ]
+  },
+  "3.1": {
+    "translation": "Just as the lord of serpents supports the earth with its mountains and forests, so Kuṇḍalī indeed supports all systems of yoga.",
+    "anvaya": "yathā ahi-nāyakaḥ sa-śaila-vana-dhātrīṇām ādhāraḥ [asti], tathā kuṇḍalī sarveṣāṃ yoga-tantrāṇām ādhāraḥ hi [asti].",
+    "meaning": "The opening of the mudrā chapter compares Kuṇḍalī’s role in yoga to the mythic serpent’s support of the earth.",
+    "words": [
+      {
+        "form": "sa-śaila-vana-dhātrīṇām",
+        "lemma": "saśailavanadhātrī",
+        "meaning": "of the earth with mountains and forests",
+        "grammar": "Feminine genitive plural in this transcription; the plural and compound construction deserve textual comparison."
+      },
+      {
+        "form": "yathā",
+        "lemma": "yathā",
+        "meaning": "just as",
+        "grammar": "Indeclinable relative adverb."
+      },
+      {
+        "form": "ādhāraḥ",
+        "lemma": "ādhāra",
+        "meaning": "support; foundation",
+        "grammar": "Masculine nominative singular; occurs twice."
+      },
+      {
+        "form": "ahi-nāyakaḥ",
+        "lemma": "ahināyaka",
+        "meaning": "lord of serpents",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "sarveṣām",
+        "lemma": "sarva",
+        "meaning": "of all",
+        "grammar": "Neuter genitive plural; qualifies yoga-tantrāṇām."
+      },
+      {
+        "form": "yoga-tantrāṇām",
+        "lemma": "yogatantra",
+        "meaning": "of systems of yoga",
+        "grammar": "Neuter genitive plural."
+      },
+      {
+        "form": "tathā",
+        "lemma": "tathā",
+        "meaning": "so",
+        "grammar": "Indeclinable correlative adverb."
+      },
+      {
+        "form": "hi",
+        "lemma": "hi",
+        "meaning": "indeed",
+        "grammar": "Indeclinable emphatic particle."
+      },
+      {
+        "form": "kuṇḍalī",
+        "lemma": "kuṇḍalinī / kuṇḍalī",
+        "meaning": "the coiled power",
+        "grammar": "Feminine nominative singular; shortened form used in the text."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "yathādhāro'hi-nāyakaḥ",
+        "split": "yathā + ādhāraḥ + ahi-nāyakaḥ",
+        "rule": "ā + ā → ā; -aḥ + a → -o followed by elision of a."
+      },
+      {
+        "form": "tathādhāro hi",
+        "split": "tathā + ādhāraḥ + hi",
+        "rule": "ā + ā → ā; -aḥ → -o before voiced h."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "ahi-nāyaka",
+        "split": "ahīnām nāyakaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Leader of serpents."
+      },
+      {
+        "form": "yoga-tantra",
+        "split": "yogasya tantram",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "A system or teaching of yoga."
+      }
+    ],
+    "notes": [
+      "The mythic serpent is traditionally understood as Śeṣa/Ananta; the verse itself says only “lord of serpents.”",
+      "The source’s dhātrīṇām is unusual for a singular earth. No silent grammatical correction is made."
+    ]
+  },
+  "3.2": {
+    "translation": "When the sleeping Kuṇḍalī awakens through the guru’s favour, then all the lotuses are pierced, and the knots as well.",
+    "anvaya": "yadā suptā kuṇḍalī guru-prasādena jāgarti, tadā sarvāṇi padmāni granthayaḥ api ca bhidyante.",
+    "meaning": "The verse introduces awakening, lotuses, and knots as linked features of the text’s subtle-body account.",
+    "words": [
+      {
+        "form": "suptā",
+        "lemma": "√svap",
+        "meaning": "sleeping",
+        "grammar": "Past passive participle, feminine nominative singular; describes Kuṇḍalī."
+      },
+      {
+        "form": "guru-prasādena",
+        "lemma": "guruprasāda",
+        "meaning": "through the guru’s favour",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "yadā",
+        "lemma": "yadā",
+        "meaning": "when",
+        "grammar": "Indeclinable relative temporal adverb."
+      },
+      {
+        "form": "jāgarti",
+        "lemma": "√jāgṛ",
+        "meaning": "awakens; is awake",
+        "grammar": "Present indicative, third person singular, active."
+      },
+      {
+        "form": "kuṇḍalī",
+        "lemma": "kuṇḍalī",
+        "meaning": "Kuṇḍalī",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "tadā",
+        "lemma": "tadā",
+        "meaning": "then",
+        "grammar": "Indeclinable correlative temporal adverb."
+      },
+      {
+        "form": "sarvāṇi",
+        "lemma": "sarva",
+        "meaning": "all",
+        "grammar": "Neuter nominative plural; qualifies padmāni."
+      },
+      {
+        "form": "padmāni",
+        "lemma": "padma",
+        "meaning": "lotuses",
+        "grammar": "Neuter nominative plural; yogic centres metaphorically called lotuses."
+      },
+      {
+        "form": "bhidyante",
+        "lemma": "√bhid",
+        "meaning": "are pierced; are split",
+        "grammar": "Present passive, third person plural."
+      },
+      {
+        "form": "granthayaḥ",
+        "lemma": "granthi",
+        "meaning": "knots",
+        "grammar": "Masculine nominative plural."
+      },
+      {
+        "form": "api",
+        "lemma": "api",
+        "meaning": "also",
+        "grammar": "Indeclinable particle."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "granthayo'pi",
+        "split": "granthayaḥ + api",
+        "rule": "Final -aḥ becomes -o before a; a is elided."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "guru-prasāda",
+        "split": "guroḥ prasādaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "The guru’s grace or favour."
+      }
+    ],
+    "notes": [
+      "Padma and granthi are technical images in yogic discourse; this verse does not give an anatomical identification."
+    ]
+  },
+  "3.3": {
+    "translation": "Then the empty path becomes a royal road for the vital breath; then the mind is without support; then comes the outwitting of time.",
+    "anvaya": "tadā prāṇasya śūnya-padavī rājapathāyate; tadā cittaṃ nirālambam [bhavati]; tadā kālasya vañcanam [bhavati].",
+    "meaning": "Awakening is associated with opening a central path, unsupported mind, and overcoming time or death.",
+    "words": [
+      {
+        "form": "prāṇasya",
+        "lemma": "prāṇa",
+        "meaning": "of vital breath",
+        "grammar": "Masculine genitive singular."
+      },
+      {
+        "form": "śūnya-padavī",
+        "lemma": "śūnyapadavī",
+        "meaning": "empty path",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "tadā",
+        "lemma": "tadā",
+        "meaning": "then",
+        "grammar": "Indeclinable adverb; occurs three times."
+      },
+      {
+        "form": "rājapathāyate",
+        "lemma": "rājapatha",
+        "meaning": "becomes or acts like a royal road",
+        "grammar": "Denominative present, third person singular, middle."
+      },
+      {
+        "form": "cittam",
+        "lemma": "citta",
+        "meaning": "mind",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "nirālambam",
+        "lemma": "nirālamba",
+        "meaning": "without support",
+        "grammar": "Neuter nominative singular predicate adjective."
+      },
+      {
+        "form": "kālasya",
+        "lemma": "kāla",
+        "meaning": "of time; of death",
+        "grammar": "Masculine genitive singular."
+      },
+      {
+        "form": "vañcanam",
+        "lemma": "vañcana",
+        "meaning": "outwitting; evasion",
+        "grammar": "Neuter nominative singular."
+      }
+    ],
+    "sandhi": [],
+    "compounds": [
+      {
+        "form": "śūnya-padavī",
+        "split": "śūnyā padavī",
+        "type": "Karmadhāraya",
+        "meaning": "The empty path."
+      },
+      {
+        "form": "rāja-patha",
+        "split": "rājñaḥ pathaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Royal road; broad main road."
+      },
+      {
+        "form": "nirālamba",
+        "split": "nir + ālamba",
+        "type": "Privative prefixal formation",
+        "meaning": "Without a support."
+      }
+    ],
+    "notes": [
+      "The following verse groups “empty path” with suṣumṇā and other names.",
+      "Kāla can mean time and personified death; both resonances matter here."
+    ]
+  },
+  "3.5": {
+    "translation": "Therefore, with every effort, one should undertake the practice of mudrā to awaken the sovereign power sleeping at the mouth of the door of brahman.",
+    "anvaya": "tasmāt brahma-dvāra-mukhe suptām īśvarīṃ prabodhayituṃ sarva-prayatnena mudrā-abhyāsaṃ samācaret.",
+    "meaning": "The chapter states its purpose: mudrā is taught as a means to awaken the power described in its opening.",
+    "words": [
+      {
+        "form": "tasmāt",
+        "lemma": "tad",
+        "meaning": "therefore",
+        "grammar": "Ablative singular pronoun used adverbially."
+      },
+      {
+        "form": "sarva-prayatnena",
+        "lemma": "sarvaprayatna",
+        "meaning": "with every effort",
+        "grammar": "Masculine instrumental singular."
+      },
+      {
+        "form": "prabodhayitum",
+        "lemma": "pra-√budh",
+        "meaning": "to awaken",
+        "grammar": "Causative infinitive in -tum."
+      },
+      {
+        "form": "īśvarīm",
+        "lemma": "īśvarī",
+        "meaning": "the sovereign lady; ruling power",
+        "grammar": "Feminine accusative singular; refers to Kuṇḍalī."
+      },
+      {
+        "form": "brahma-dvāra-mukhe",
+        "lemma": "brahmadvāramukha",
+        "meaning": "at the mouth of the door of brahman",
+        "grammar": "Neuter locative singular; compound."
+      },
+      {
+        "form": "suptām",
+        "lemma": "√svap",
+        "meaning": "sleeping",
+        "grammar": "Past passive participle, feminine accusative singular; agrees with īśvarīm."
+      },
+      {
+        "form": "mudrābhyāsam",
+        "lemma": "mudrābhyāsa",
+        "meaning": "practice of mudrā",
+        "grammar": "Masculine accusative singular."
+      },
+      {
+        "form": "samācaret",
+        "lemma": "sam-ā-√car",
+        "meaning": "should undertake; should practise",
+        "grammar": "Present optative, third person singular, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "mudrābhyāsam",
+        "split": "mudrā + abhyāsam",
+        "rule": "ā + a becomes ā."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "sarva-prayatna",
+        "split": "sarvaḥ prayatnaḥ",
+        "type": "Karmadhāraya",
+        "meaning": "Every effort."
+      },
+      {
+        "form": "brahma-dvāra-mukha",
+        "split": "brahma-dvārasya mukham",
+        "type": "Ṣaṣṭhī-tatpuruṣa at outer level",
+        "meaning": "The mouth of brahman’s door."
+      },
+      {
+        "form": "mudrā-abhyāsa",
+        "split": "mudrāṇām abhyāsaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Practice of mudrās."
+      }
+    ],
+    "notes": [
+      "The translation “brahman” follows the neuter brahma compound member. Technical interpretations of brahma-dvāra vary."
+    ]
+  },
+  "4.5": {
+    "translation": "Just as salt attains sameness with water through union, so the oneness of self and mind is called samādhi.",
+    "anvaya": "yadvat saindhavaṃ salile yogataḥ sāmyaṃ bhajati, tathā ātma-manasoḥ aikyaṃ samādhiḥ abhidhīyate.",
+    "meaning": "Dissolving salt is the image used to explain the non-separation of self and mind in samādhi.",
+    "words": [
+      {
+        "form": "salile",
+        "lemma": "salila",
+        "meaning": "in water",
+        "grammar": "Neuter locative singular."
+      },
+      {
+        "form": "saindhavam",
+        "lemma": "saindhava",
+        "meaning": "salt; rock salt",
+        "grammar": "Neuter nominative singular; subject of bhajati."
+      },
+      {
+        "form": "yadvat",
+        "lemma": "yadvat",
+        "meaning": "just as",
+        "grammar": "Indeclinable comparison adverb."
+      },
+      {
+        "form": "sāmyam",
+        "lemma": "sāmya",
+        "meaning": "sameness; equality",
+        "grammar": "Neuter accusative singular."
+      },
+      {
+        "form": "bhajati",
+        "lemma": "√bhaj",
+        "meaning": "attains; partakes of",
+        "grammar": "Present indicative, third person singular, active."
+      },
+      {
+        "form": "yogataḥ",
+        "lemma": "yogatas",
+        "meaning": "through union",
+        "grammar": "Adverb in -tas expressing cause or relation."
+      },
+      {
+        "form": "tathā",
+        "lemma": "tathā",
+        "meaning": "so",
+        "grammar": "Indeclinable correlative adverb."
+      },
+      {
+        "form": "ātma-manasoḥ",
+        "lemma": "ātmamanas",
+        "meaning": "of self and mind",
+        "grammar": "Genitive dual of a dvandva compound."
+      },
+      {
+        "form": "aikyam",
+        "lemma": "aikya",
+        "meaning": "oneness",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "samādhiḥ",
+        "lemma": "samādhi",
+        "meaning": "samādhi; absorption",
+        "grammar": "Masculine nominative singular; predicate designation."
+      },
+      {
+        "form": "abhidhīyate",
+        "lemma": "abhi-√dhā",
+        "meaning": "is called",
+        "grammar": "Present passive, third person singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "tathātma",
+        "split": "tathā + ātma",
+        "rule": "ā + ā becomes ā."
+      },
+      {
+        "form": "manasor aikyam",
+        "split": "manasoḥ + aikyam",
+        "rule": "Visarga after o becomes r before a vowel."
+      },
+      {
+        "form": "samādhir abhidhīyate",
+        "split": "samādhiḥ + abhidhīyate",
+        "rule": "Visarga after i becomes r before a vowel."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "ātma-manas",
+        "split": "ātmā ca manaḥ ca",
+        "type": "Itaretara-dvandva",
+        "meaning": "Self and mind, the pair."
+      }
+    ],
+    "notes": [
+      "Ātman is rendered “self” here; its philosophical meaning should be interpreted in context rather than equated automatically with an individual ego."
+    ]
+  },
+  "4.6": {
+    "translation": "When vital breath subsides and the mind dissolves, then their condition of equal essence is called samādhi.",
+    "anvaya": "yadā prāṇaḥ saṃkṣīyate mānasaṃ ca pralīyate, tadā samarasatvaṃ ca samādhiḥ abhidhīyate.",
+    "meaning": "Samādhi is described through the linked quieting of breath and mind and the state of non-difference associated with them.",
+    "words": [
+      {
+        "form": "yadā",
+        "lemma": "yadā",
+        "meaning": "when",
+        "grammar": "Indeclinable relative temporal adverb."
+      },
+      {
+        "form": "saṃkṣīyate",
+        "lemma": "sam-√kṣi",
+        "meaning": "diminishes; subsides",
+        "grammar": "Present passive-form verb, third person singular."
+      },
+      {
+        "form": "prāṇaḥ",
+        "lemma": "prāṇa",
+        "meaning": "vital breath",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "mānasam",
+        "lemma": "mānasa",
+        "meaning": "mind; the mental faculty",
+        "grammar": "Neuter nominative singular, substantivized adjective."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction; occurs twice."
+      },
+      {
+        "form": "pralīyate",
+        "lemma": "pra-√lī",
+        "meaning": "dissolves; is absorbed",
+        "grammar": "Present indicative, third person singular, middle."
+      },
+      {
+        "form": "tadā",
+        "lemma": "tadā",
+        "meaning": "then",
+        "grammar": "Indeclinable correlative temporal adverb."
+      },
+      {
+        "form": "samarasatvam",
+        "lemma": "samarasatva",
+        "meaning": "state of equal essence; identity of experience",
+        "grammar": "Neuter nominative singular; abstract in -tva."
+      },
+      {
+        "form": "samādhiḥ",
+        "lemma": "samādhi",
+        "meaning": "samādhi",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "abhidhīyate",
+        "lemma": "abhi-√dhā",
+        "meaning": "is called",
+        "grammar": "Present passive, third person singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "prāṇo mānasam",
+        "split": "prāṇaḥ + mānasam",
+        "rule": "Final -aḥ becomes -o before voiced m."
+      },
+      {
+        "form": "samādhir abhidhīyate",
+        "split": "samādhiḥ + abhidhīyate",
+        "rule": "Visarga after i becomes r before a vowel."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "samarasatva",
+        "split": "sama-rasa + tva",
+        "type": "Abstract formation from compound",
+        "meaning": "The condition of having the same essence or flavour."
+      }
+    ],
+    "notes": [
+      "“Their” in the translation supplies a contextual link, not an explicit Sanskrit pronoun.",
+      "The verse describes a yogic state; it does not prescribe stopping ordinary breathing."
+    ]
+  },
+  "4.29": {
+    "translation": "Mind is lord of the senses; vital breath is lord of mind. Dissolution is lord of vital breath; that dissolution depends on sound.",
+    "anvaya": "manaḥ indriyāṇāṃ nāthaḥ; mārutaḥ tu mano-nāthaḥ; layaḥ mārutasya nāthaḥ; saḥ layaḥ nādam āśritaḥ.",
+    "meaning": "A chain of dependence links senses, mind, breath, dissolution, and sound. It provides a useful conceptual spine for the book’s graph.",
+    "words": [
+      {
+        "form": "indriyāṇām",
+        "lemma": "indriya",
+        "meaning": "of the senses",
+        "grammar": "Neuter genitive plural."
+      },
+      {
+        "form": "manaḥ",
+        "lemma": "manas",
+        "meaning": "mind",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "nāthaḥ",
+        "lemma": "nātha",
+        "meaning": "lord; controlling principle",
+        "grammar": "Masculine nominative singular predicate; occurs twice."
+      },
+      {
+        "form": "manonāthaḥ",
+        "lemma": "manonātha",
+        "meaning": "lord of mind",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "tu",
+        "lemma": "tu",
+        "meaning": "but; indeed",
+        "grammar": "Indeclinable connective particle."
+      },
+      {
+        "form": "mārutaḥ",
+        "lemma": "māruta",
+        "meaning": "wind; vital breath",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "mārutasya",
+        "lemma": "māruta",
+        "meaning": "of vital breath",
+        "grammar": "Masculine genitive singular."
+      },
+      {
+        "form": "layaḥ",
+        "lemma": "laya",
+        "meaning": "dissolution; absorption",
+        "grammar": "Masculine nominative singular; occurs twice."
+      },
+      {
+        "form": "saḥ",
+        "lemma": "tad",
+        "meaning": "that",
+        "grammar": "Masculine nominative singular pronoun."
+      },
+      {
+        "form": "nādam",
+        "lemma": "nāda",
+        "meaning": "sound",
+        "grammar": "Masculine accusative singular."
+      },
+      {
+        "form": "āśritaḥ",
+        "lemma": "ā-√śri",
+        "meaning": "resting on; dependent on",
+        "grammar": "Past passive participle, masculine nominative singular; agrees with laya."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "mano nāthaḥ",
+        "split": "manaḥ + nāthaḥ",
+        "rule": "Final -aḥ becomes -o before voiced n."
+      },
+      {
+        "form": "manonāthaḥ",
+        "split": "manas + nāthaḥ",
+        "rule": "The compound member manas has the sandhi form mano- before n."
+      },
+      {
+        "form": "sa layaḥ",
+        "split": "saḥ + layaḥ",
+        "rule": "The pronoun saḥ loses visarga before a consonant here."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "mano-nātha",
+        "split": "manasaḥ nāthaḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Lord of mind."
+      }
+    ],
+    "notes": [
+      "The relations are the author’s doctrinal hierarchy, not an experimentally established causal model."
+    ]
+  },
+  "4.67": {
+    "translation": "The yogin, seated in muktāsana, having established the śāmbhavī mudrā, should listen with single attention to the inner sound in the right ear.",
+    "anvaya": "muktāsane sthitaḥ yogī śāmbhavīṃ mudrāṃ sandhāya ekadhīḥ dakṣiṇe karṇe antaḥsthaṃ nādaṃ śṛṇuyāt.",
+    "meaning": "The verse links a named seat, a mudrā, focused attention, and the contemplation of inner sound.",
+    "words": [
+      {
+        "form": "muktāsane",
+        "lemma": "muktāsana",
+        "meaning": "in muktāsana",
+        "grammar": "Neuter locative singular."
+      },
+      {
+        "form": "sthitaḥ",
+        "lemma": "√sthā",
+        "meaning": "situated; seated",
+        "grammar": "Past passive participle, masculine nominative singular."
+      },
+      {
+        "form": "yogī",
+        "lemma": "yogin",
+        "meaning": "the yogin",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "mudrām",
+        "lemma": "mudrā",
+        "meaning": "mudrā; seal",
+        "grammar": "Feminine accusative singular."
+      },
+      {
+        "form": "sandhāya",
+        "lemma": "sam-√dhā",
+        "meaning": "having established; having applied",
+        "grammar": "Absolutive."
+      },
+      {
+        "form": "śāmbhavīm",
+        "lemma": "śāmbhavī",
+        "meaning": "śāmbhavī",
+        "grammar": "Feminine accusative singular; qualifies mudrām."
+      },
+      {
+        "form": "śṛṇuyāt",
+        "lemma": "√śru",
+        "meaning": "should listen to; should hear",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "dakṣiṇe",
+        "lemma": "dakṣiṇa",
+        "meaning": "right",
+        "grammar": "Masculine locative singular, qualifying karṇe."
+      },
+      {
+        "form": "karṇe",
+        "lemma": "karṇa",
+        "meaning": "in the ear",
+        "grammar": "Masculine locative singular."
+      },
+      {
+        "form": "nādam",
+        "lemma": "nāda",
+        "meaning": "sound",
+        "grammar": "Masculine accusative singular."
+      },
+      {
+        "form": "antāstham",
+        "lemma": "expected antaḥstha",
+        "meaning": "situated within",
+        "grammar": "Masculine accusative singular; source’s antāstham is irregular."
+      },
+      {
+        "form": "ekadhīḥ",
+        "lemma": "ekadhī",
+        "meaning": "having single attention",
+        "grammar": "Masculine nominative singular; possessive adjective."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "śṛṇuyād dakṣiṇe",
+        "split": "śṛṇuyāt + dakṣiṇe",
+        "rule": "Final t becomes d before voiced d."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "muktāsana",
+        "split": "mukta + āsana",
+        "type": "Compound posture name",
+        "meaning": "The posture called mukta, “liberated.”"
+      },
+      {
+        "form": "ekadhīḥ",
+        "split": "ekā dhīḥ yasya",
+        "type": "Bahuvrīhi",
+        "meaning": "One whose attention is single."
+      }
+    ],
+    "notes": [
+      "GRETIL prints antāstham; the expected adjective is antaḥstham, “situated within.” The analysis marks this proposed correction.",
+      "The terms name contemplative practices in the source; the annotation does not establish a connection with external auditory symptoms."
+    ]
+  },
+  "4.69": {
+    "translation": "Beginning, integration, acquaintance, and completion: these should be the four stages in all yogas.",
+    "anvaya": "ārambhaḥ ca ghaṭaḥ ca eva tathā paricayaḥ api ca niṣpattiḥ: sarva-yogeṣu avasthā-catuṣṭayaṃ syāt.",
+    "meaning": "The four-stage framework organizes the account of inner sound in the following verses.",
+    "words": [
+      {
+        "form": "ārambhaḥ",
+        "lemma": "ārambha",
+        "meaning": "beginning",
+        "grammar": "Masculine nominative singular; first stage."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction; occurs three times."
+      },
+      {
+        "form": "ghaṭaḥ",
+        "lemma": "ghaṭa",
+        "meaning": "integration; pot",
+        "grammar": "Masculine nominative singular; technical name of the second stage."
+      },
+      {
+        "form": "eva",
+        "lemma": "eva",
+        "meaning": "indeed; precisely",
+        "grammar": "Indeclinable emphatic particle."
+      },
+      {
+        "form": "tathā",
+        "lemma": "tathā",
+        "meaning": "likewise",
+        "grammar": "Indeclinable connective adverb."
+      },
+      {
+        "form": "paricayaḥ",
+        "lemma": "paricaya",
+        "meaning": "acquaintance; familiarity",
+        "grammar": "Masculine nominative singular; third stage."
+      },
+      {
+        "form": "api",
+        "lemma": "api",
+        "meaning": "also",
+        "grammar": "Indeclinable particle."
+      },
+      {
+        "form": "niṣpattiḥ",
+        "lemma": "niṣpatti",
+        "meaning": "completion; consummation",
+        "grammar": "Feminine nominative singular; fourth stage."
+      },
+      {
+        "form": "sarva-yogeṣu",
+        "lemma": "sarvayoga",
+        "meaning": "in all yogas",
+        "grammar": "Masculine locative plural."
+      },
+      {
+        "form": "syāt",
+        "lemma": "√as",
+        "meaning": "would be; should be",
+        "grammar": "Present optative, third person singular, active."
+      },
+      {
+        "form": "avasthā-catuṣṭayam",
+        "lemma": "avasthācatuṣṭaya",
+        "meaning": "a group of four stages",
+        "grammar": "Neuter nominative singular."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "caiva",
+        "split": "ca + eva",
+        "rule": "a + e becomes ai."
+      },
+      {
+        "form": "paricayo'pi",
+        "split": "paricayaḥ + api",
+        "rule": "Final -aḥ becomes -o before a; a is elided."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "sarva-yoga",
+        "split": "sarve yogāḥ",
+        "type": "Karmadhāraya",
+        "meaning": "All forms of yoga."
+      },
+      {
+        "form": "avasthā-catuṣṭaya",
+        "split": "avasthānāṃ catuṣṭayam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "A set of four states or stages."
+      }
+    ],
+    "notes": [
+      "Ghaṭa literally means “pot”; “integration” is an interpretive rendering of the technical stage name, not its only lexical meaning."
+    ]
+  },
+  "4.21": {
+    "translation": "By whatever breath is bound, by that very means mind is bound; and by whatever mind is bound, by that breath is bound.",
+    "anvaya": "yena pavanaḥ badhyate, tena eva manaḥ badhyate; yena manaḥ ca badhyate, tena pavanaḥ badhyate.",
+    "meaning": "A symmetrical statement of the interdependence of the disciplines of mind and vital breath.",
+    "words": [
+      {
+        "form": "pavanaḥ",
+        "lemma": "pavana",
+        "meaning": "wind; vital breath",
+        "grammar": "Masculine nominative singular; occurs twice."
+      },
+      {
+        "form": "badhyate",
+        "lemma": "√bandh",
+        "meaning": "is bound; is restrained",
+        "grammar": "Present passive, third person singular; occurs four times."
+      },
+      {
+        "form": "yena",
+        "lemma": "yad",
+        "meaning": "by whatever means",
+        "grammar": "Neuter instrumental singular relative pronoun; occurs twice."
+      },
+      {
+        "form": "manaḥ",
+        "lemma": "manas",
+        "meaning": "mind",
+        "grammar": "Neuter nominative singular; occurs twice."
+      },
+      {
+        "form": "tena",
+        "lemma": "tad",
+        "meaning": "by that means",
+        "grammar": "Neuter instrumental singular correlative pronoun; occurs twice."
+      },
+      {
+        "form": "eva",
+        "lemma": "eva",
+        "meaning": "precisely; very",
+        "grammar": "Indeclinable emphatic particle."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "tenaiva",
+        "split": "tena + eva",
+        "rule": "a + e becomes ai."
+      },
+      {
+        "form": "manaś ca",
+        "split": "manaḥ + ca",
+        "rule": "Visarga becomes ś before palatal c."
+      },
+      {
+        "form": "pavanas tena",
+        "split": "pavanaḥ + tena",
+        "rule": "Visarga becomes s before dental t."
+      }
+    ],
+    "compounds": [],
+    "notes": [
+      "The grammatical parallelism is central: each relative yena is answered by tena."
+    ]
+  },
+  "4.22": {
+    "translation": "The mind has two causes: latent disposition and vital breath. When either of these perishes, both of them perish.",
+    "anvaya": "cittasya hetu-dvayaṃ tu [asti]: vāsanā ca samīraṇaḥ. tayoḥ ekasmin vinaṣṭe [sati], tau dvau api vinaśyataḥ.",
+    "meaning": "A two-cause model links mind to latent tendencies and breath; the second half states their mutual dependence.",
+    "words": [
+      {
+        "form": "hetu-dvayam",
+        "lemma": "hetudvaya",
+        "meaning": "a pair of causes",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "tu",
+        "lemma": "tu",
+        "meaning": "but; indeed",
+        "grammar": "Indeclinable connective."
+      },
+      {
+        "form": "cittasya",
+        "lemma": "citta",
+        "meaning": "of mind",
+        "grammar": "Neuter genitive singular."
+      },
+      {
+        "form": "vāsanā",
+        "lemma": "vāsanā",
+        "meaning": "latent disposition; habitual impression",
+        "grammar": "Feminine nominative singular."
+      },
+      {
+        "form": "ca",
+        "lemma": "ca",
+        "meaning": "and",
+        "grammar": "Indeclinable conjunction."
+      },
+      {
+        "form": "samīraṇaḥ",
+        "lemma": "samīraṇa",
+        "meaning": "wind; vital breath",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "tayoḥ",
+        "lemma": "tad",
+        "meaning": "of those two",
+        "grammar": "Genitive dual pronoun."
+      },
+      {
+        "form": "vinaṣṭe",
+        "lemma": "vi-√naś",
+        "meaning": "having perished",
+        "grammar": "Past passive participle, masculine locative singular; locative absolute with ekasmin."
+      },
+      {
+        "form": "ekasmin",
+        "lemma": "eka",
+        "meaning": "in one; either one",
+        "grammar": "Masculine locative singular."
+      },
+      {
+        "form": "tau",
+        "lemma": "tad",
+        "meaning": "those two",
+        "grammar": "Masculine nominative dual."
+      },
+      {
+        "form": "dvau",
+        "lemma": "dvi",
+        "meaning": "two; both",
+        "grammar": "Masculine nominative dual numeral."
+      },
+      {
+        "form": "api",
+        "lemma": "api",
+        "meaning": "also; even",
+        "grammar": "Indeclinable particle."
+      },
+      {
+        "form": "vinaśyataḥ",
+        "lemma": "vi-√naś",
+        "meaning": "perish",
+        "grammar": "Present indicative, third person dual, active."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "tayor vinaṣṭa ekasmin",
+        "split": "tayoḥ + vinaṣṭe + ekasmin",
+        "rule": "Visarga after o becomes r before v. In vinaṣṭe + ekasmin, e may become ay before the vowel; optional loss of y gives the printed vinaṣṭa ekasmin."
+      },
+      {
+        "form": "dvāv api",
+        "split": "dvau + api",
+        "rule": "Final au becomes āv before a vowel."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "hetu-dvaya",
+        "split": "hetvoḥ dvayam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "A pair of causes."
+      }
+    ],
+    "notes": [
+      "The source writes vinaṣṭa ekasmin, a contracted sandhi representation of vinaṣṭe ekasmin.",
+      "The word “cause” translates hetu in the text’s own model; this is not a modern psychological theory."
+    ]
+  },
+  "4.23": {
+    "translation": "Where mind would dissolve, there breath dissolves; where breath dissolves, there mind dissolves.",
+    "anvaya": "yatra manaḥ vilīyeta, tatra pavanaḥ līyate; yatra pavanaḥ līyate, tatra manaḥ vilīyate.",
+    "meaning": "The parallel clauses describe absorption of mind and breath as inseparable.",
+    "words": [
+      {
+        "form": "manaḥ",
+        "lemma": "manas",
+        "meaning": "mind",
+        "grammar": "Neuter nominative singular; occurs twice."
+      },
+      {
+        "form": "yatra",
+        "lemma": "yatra",
+        "meaning": "where",
+        "grammar": "Indeclinable relative adverb; occurs twice."
+      },
+      {
+        "form": "vilīyeta",
+        "lemma": "vi-√lī",
+        "meaning": "would dissolve",
+        "grammar": "Present optative, third person singular, middle."
+      },
+      {
+        "form": "pavanaḥ",
+        "lemma": "pavana",
+        "meaning": "wind; vital breath",
+        "grammar": "Masculine nominative singular; occurs twice."
+      },
+      {
+        "form": "tatra",
+        "lemma": "tatra",
+        "meaning": "there",
+        "grammar": "Indeclinable correlative adverb; occurs twice."
+      },
+      {
+        "form": "līyate",
+        "lemma": "√lī",
+        "meaning": "dissolves; is absorbed",
+        "grammar": "Present indicative, third person singular, middle; occurs twice."
+      },
+      {
+        "form": "vilīyate",
+        "lemma": "vi-√lī",
+        "meaning": "dissolves",
+        "grammar": "Present indicative, third person singular, middle."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "mano yatra",
+        "split": "manaḥ + yatra",
+        "rule": "Final -aḥ becomes -o before voiced y."
+      },
+      {
+        "form": "pavanas tatra",
+        "split": "pavanaḥ + tatra",
+        "rule": "Visarga becomes s before dental t."
+      }
+    ],
+    "compounds": [],
+    "notes": [
+      "The first vilīyeta is optative; the last vilīyate is indicative in this transcription."
+    ]
+  },
+  "4.30": {
+    "translation": "Let this very state be called liberation, or, in another view, let it not: in the dissolution of mind and breath, a certain bliss arises.",
+    "anvaya": "saḥ ayam eva mokṣa-ākhyaḥ astu; vā api mata-antare mā astu. manaḥ-prāṇa-laye kaścit ānandaḥ sampravartate.",
+    "meaning": "The verse allows a dispute over terminology while affirming the experiential claim of bliss in absorption.",
+    "words": [
+      {
+        "form": "saḥ",
+        "lemma": "tad",
+        "meaning": "that",
+        "grammar": "Masculine nominative singular pronoun."
+      },
+      {
+        "form": "ayam",
+        "lemma": "idam",
+        "meaning": "this",
+        "grammar": "Masculine nominative singular pronoun."
+      },
+      {
+        "form": "eva",
+        "lemma": "eva",
+        "meaning": "precisely; very",
+        "grammar": "Indeclinable emphatic particle."
+      },
+      {
+        "form": "astu",
+        "lemma": "√as",
+        "meaning": "let it be",
+        "grammar": "Imperative, third person singular, active; occurs twice, second with mā."
+      },
+      {
+        "form": "mokṣākhyaḥ",
+        "lemma": "mokṣākhya",
+        "meaning": "called liberation",
+        "grammar": "Masculine nominative singular adjective."
+      },
+      {
+        "form": "mā",
+        "lemma": "mā",
+        "meaning": "let not",
+        "grammar": "Indeclinable prohibitive particle."
+      },
+      {
+        "form": "vā",
+        "lemma": "vā",
+        "meaning": "or",
+        "grammar": "Indeclinable disjunctive conjunction."
+      },
+      {
+        "form": "api",
+        "lemma": "api",
+        "meaning": "even; also",
+        "grammar": "Indeclinable particle."
+      },
+      {
+        "form": "matāntare",
+        "lemma": "matāntara",
+        "meaning": "in another view",
+        "grammar": "Neuter locative singular."
+      },
+      {
+        "form": "manaḥ-prāṇa-laye",
+        "lemma": "manaḥprāṇalaya",
+        "meaning": "in the dissolution of mind and breath",
+        "grammar": "Masculine locative singular."
+      },
+      {
+        "form": "kaścit",
+        "lemma": "kaścit",
+        "meaning": "a certain; some",
+        "grammar": "Masculine nominative singular indefinite pronoun."
+      },
+      {
+        "form": "ānandaḥ",
+        "lemma": "ānanda",
+        "meaning": "bliss",
+        "grammar": "Masculine nominative singular."
+      },
+      {
+        "form": "sampravartate",
+        "lemma": "sam-pra-√vṛt",
+        "meaning": "arises; comes into operation",
+        "grammar": "Present indicative, third person singular, middle."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "so'yam",
+        "split": "saḥ + ayam",
+        "rule": "Final -aḥ becomes -o before a; a is elided."
+      },
+      {
+        "form": "māstu",
+        "split": "mā + astu",
+        "rule": "ā + a becomes ā."
+      },
+      {
+        "form": "vāpi",
+        "split": "vā + api",
+        "rule": "ā + a becomes ā."
+      },
+      {
+        "form": "kaścid ānandaḥ",
+        "split": "kaścit + ānandaḥ",
+        "rule": "Final t becomes d before a vowel."
+      },
+      {
+        "form": "evāstu",
+        "split": "eva + astu",
+        "rule": "a + a becomes ā."
+      },
+      {
+        "form": "matāntare",
+        "split": "mata + antare",
+        "rule": "a + a becomes ā."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "mokṣākhya",
+        "split": "mokṣa iti ākhyā yasya",
+        "type": "Bahuvrīhi-style designation",
+        "meaning": "Having “liberation” as its name."
+      },
+      {
+        "form": "matāntara",
+        "split": "anyat matam",
+        "type": "Compound with antara",
+        "meaning": "Another opinion or doctrinal view."
+      },
+      {
+        "form": "manaḥ-prāṇa-laya",
+        "split": "manasaḥ prāṇasya ca layaḥ",
+        "type": "Nested dvandva and genitive compound",
+        "meaning": "Dissolution of mind and breath."
+      }
+    ],
+    "notes": []
+  },
+  "4.34": {
+    "translation": "People say “dissolution, dissolution”; what sort of thing characterizes dissolution? Dissolution is forgetting sensory objects, because latent dispositions do not arise again.",
+    "anvaya": "layaḥ layaḥ iti prāhuḥ. laya-lakṣaṇaṃ kīdṛśam [asti]? apunar-vāsanā-utthānāt layaḥ viṣaya-vismṛtiḥ [asti].",
+    "meaning": "The verse asks for a criterion rather than a label: genuine laya involves non-recurrence of latent tendencies, not a merely temporary distraction.",
+    "words": [
+      {
+        "form": "layaḥ",
+        "lemma": "laya",
+        "meaning": "dissolution; absorption",
+        "grammar": "Masculine nominative singular; occurs three times."
+      },
+      {
+        "form": "iti",
+        "lemma": "iti",
+        "meaning": "thus; quotation marker",
+        "grammar": "Indeclinable particle."
+      },
+      {
+        "form": "prāhuḥ",
+        "lemma": "pra-√ah",
+        "meaning": "they say",
+        "grammar": "Perfect, third person plural; used with present sense."
+      },
+      {
+        "form": "kīdṛśam",
+        "lemma": "kīdṛśa",
+        "meaning": "of what kind?",
+        "grammar": "Neuter nominative singular interrogative adjective."
+      },
+      {
+        "form": "laya-lakṣaṇam",
+        "lemma": "layalakṣaṇa",
+        "meaning": "characteristic of dissolution",
+        "grammar": "Neuter nominative singular."
+      },
+      {
+        "form": "apunar-vāsanotthānāt",
+        "lemma": "apunarvāsanotthāna",
+        "meaning": "because latent dispositions do not arise again",
+        "grammar": "Neuter ablative singular compound; causal."
+      },
+      {
+        "form": "viṣaya-vismṛtiḥ",
+        "lemma": "viṣayavismṛti",
+        "meaning": "forgetting of sensory objects",
+        "grammar": "Feminine nominative singular; predicate definition."
+      }
+    ],
+    "sandhi": [
+      {
+        "form": "layo laya iti",
+        "split": "layaḥ + layaḥ + iti",
+        "rule": "First -aḥ becomes -o before l; second visarga drops before i."
+      },
+      {
+        "form": "vāsanotthāna",
+        "split": "vāsanā + utthāna",
+        "rule": "ā + u becomes o."
+      },
+      {
+        "form": "apunar-vāsanotthānāl layaḥ",
+        "split": "apunar-vāsanotthānāt + layaḥ",
+        "rule": "Final t assimilates to l before l."
+      }
+    ],
+    "compounds": [
+      {
+        "form": "laya-lakṣaṇa",
+        "split": "layasya lakṣaṇam",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "The distinguishing mark of laya."
+      },
+      {
+        "form": "viṣaya-vismṛti",
+        "split": "viṣayāṇāṃ vismṛtiḥ",
+        "type": "Ṣaṣṭhī-tatpuruṣa",
+        "meaning": "Forgetting objects of sense."
+      },
+      {
+        "form": "apunar-vāsanotthāna",
+        "split": "vāsanānāṃ punaḥ utthānasya abhāvaḥ",
+        "type": "Privative compound expression",
+        "meaning": "Non-reappearance of latent dispositions."
+      }
+    ],
+    "notes": [
+      "“Sensory objects” translates viṣaya in this contemplative context; “forgetting” is not being used as a diagnosis of memory impairment."
+    ]
+  }
+}

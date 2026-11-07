@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {knowledgeGraph} from '../lib/knowledge-graph.ts';
+import {sources} from '../lib/sources.ts';
+const load=(n)=>JSON.parse(fs.readFileSync(new URL('../lib/'+n+'.json',import.meta.url),'utf8'));
+const verses=load('corpus'),concepts=load('concepts'),analyses=load('study-annotations'),guide=load('guide');
+const graph=knowledgeGraph(verses,concepts,analyses);
+const target=process.argv[2];if(!target)throw new Error('Supply the output JSON path');
+fs.mkdirSync(path.dirname(target),{recursive:true});
+fs.writeFileSync(target,JSON.stringify({verses,concepts,analyses,guide,graph,sources},null,2));
+console.log(JSON.stringify({verses:verses.length,analyses:Object.keys(analyses).length,wordEntries:Object.values(analyses).reduce((n,a)=>n+a.words.length,0),nodes:graph.nodes.length,edges:graph.edges.length,output:target}));

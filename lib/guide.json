@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "title": "How to read the text layers",
+      "body": "The base text, transliteration, translation, and grammatical commentary are separate layers. Devanāgarī generated from IAST is a script conversion, not a second manuscript witness. Hyphens in the romanized transcription are editorial aids and do not necessarily mark word boundaries in a manuscript. Verse numbers follow this site’s named base transcription; other editions may count differently."
+    },
+    {
+      "title": "IAST is transliteration, not IPA",
+      "body": "IAST represents Sanskrit spelling in Roman letters: ā ī ū ṛ ṝ ḷ ṅ ñ ṭ ḍ ṇ ś ṣ ṃ ḥ. It is not a phonetic transcription. Approximate English respellings cannot preserve all Sanskrit distinctions. IPA between slashes describes an idealized pronunciation and must be distinguished from recordings of a particular recitation tradition."
+    },
+    {
+      "title": "Vowels and duration · स्वर",
+      "body": "अ a is conventionally /ɐ/ or /ə/; आ ā is /aː/. इ i /i/ contrasts with ई ī /iː/; उ u /u/ with ऊ ū /uː/. ऋ ṛ is vocalic r, often represented /r̩/ in an idealized account, while actual recitation varies. ए e and ओ o are normally long /eː oː/; ऐ ai and औ au are diphthongs /ɐi̯ ɐu̯/. A macron is a length mark, not a stress mark."
+    },
+    {
+      "title": "Consonant places · उच्चारणस्थान",
+      "body": "Compare क ka, च ca, ट ṭa, त ta, and प pa: velar, palatal, retroflex, dental, and labial rows. Dental त थ द ध न use the teeth region; retroflex ट ठ ड ढ ण use a curled-back tongue position. Sanskrit c is commonly /t͡ɕ/ or /t͡ʃ/, not English k or s. Ś ś, ṣ, and s represent three different sibilants."
+    },
+    {
+      "title": "Aspiration and clusters",
+      "body": "ख kh, घ gh, थ th, ध dh, फ ph, and भ bh are aspirated stops. Th is not the sound in English “thin”, and ph is not automatically English f. Kṣ क्ष is a consonant cluster, conventionally k + ṣ; jñ ज्ञ is j + ñ in the spelling system, with differing regional realizations. In IAST yoga begins with a consonantal y; yogī has long ī."
+    },
+    {
+      "title": "Anusvāra and visarga · अनुस्वार–विसर्ग",
+      "body": "Anusvāra ṃ (ं) is a nasal sign whose recited realization depends on context and tradition; before a stop it often corresponds to the nasal of that stop’s place. Visarga ḥ (ः) is a breath-like final sound, commonly /h/ with context-dependent realization. Neither should be treated as an ordinary English m or a fully voiced extra syllable in every position. Avagraha ऽ marks an elided a, as in नमोऽस्तु namo’stu."
+    },
+    {
+      "title": "Sandhi · सन्धि",
+      "body": "Sandhi changes sounds at a boundary. Examples: namaḥ + astu → namo’stu; yena + upadiṣṭā → yenopadiṣṭā; vidyā + upadiśyate → vidyopadiśyate; ca + eva → caiva. A surface string can have more than one plausible division, so syntax and meaning must decide. Sandhi undoing is not merely inserting spaces or replacing every long vowel with two short vowels."
+    },
+    {
+      "title": "Compound versus sandhi · समास",
+      "body": "A compound combines nominal elements into a single lexical or syntactic unit; sandhi describes sound interaction. A compound may also undergo sandhi: rāja-yoga is a compound, while vidyā + upadiśyate joins a noun and a verb by external sandhi. Editorial hyphens are helpful but do not prove a particular samāsa analysis. Compound components generally lose their independent case endings; the final member normally carries the compound’s inflection."
+    },
+    {
+      "title": "Common compound patterns",
+      "body": "Tatpuruṣa: one member depends on another, as in yoga-vidyā, “knowledge of yoga”. Karmadhāraya: an adjectival description within a compound, as in mahā-mudrā, “great seal”. Dvandva coordinates members, as in prāṇāpānau, “prāṇa and apāna”. Bahuvrīhi describes something outside the compound: ṛju-kāyaḥ can describe one “whose body is straight”. Avyayībhāva is an indeclinable compound type. These names describe relations; they are not interchangeable labels for every hyphenated expression."
+    },
+    {
+      "title": "Nominal grammar · विभक्ति",
+      "body": "For nouns, pronouns, and adjectives, ask for stem, gender, case, and number. Sanskrit distinguishes singular, dual, and plural. Cases conventionally number eight: nominative, accusative, instrumental, dative, ablative, genitive, locative, and vocative. For example yoginā is instrumental singular of yogin, and rāja-yogāya is dative singular. In a passive clause, an instrumental can express the agent; a bare English “by” does not capture every instrumental use."
+    },
+    {
+      "title": "Verb forms and non-finite constructions",
+      "body": "Finite verbs express person, number, tense or mood, and voice or pada. Upadiśyate is a present passive “is taught”; kuryāt is an optative “one should do / might do”. Kṛtvā “having done” and praṇamya “having bowed” are absolutives, not finite past tenses. Āroḍhum “to ascend” is an infinitive. Past passive participles such as prokta “said” agree like adjectives and need their sentence context."
+    },
+    {
+      "title": "Padaccheda and anvaya",
+      "body": "Padaccheda separates the connected recited text into words, restoring forms where appropriate. Anvaya rearranges the words into a more explicit prose order to show syntax. Neither is the original verse order, and both contain interpretive decisions. Start with the finite verb, find its subject and arguments, then connect participles, compounds, and particles. Some sentences run across verse numbers."
+    },
+    {
+      "title": "Meter and recitation",
+      "body": "Many verses use the anuṣṭubh śloka, commonly four pādas of eight syllables, but the book also contains longer meters and irregular or difficult transmitted lines. A long vowel or diphthong is metrically heavy; a short vowel may become heavy before a consonant cluster, anusvāra, or visarga. Printed line breaks are not always pāda boundaries. Meter is valuable evidence for checking a reading, not permission to silently rewrite it."
+    },
+    {
+      "title": "Ambiguity and textual criticism",
+      "body": "One ending may represent several cases, numbers, or genders: the form must be interpreted in its clause. A compound can allow more than one analysis. The GRETIL file includes apparent transcription problems; retain a reading and flag it rather than silently converting a guess into an authoritative text. A critical edition and commentary can resolve questions that a bare electronic transcription cannot. Study annotations on this site are editorial aids, not a claim of manuscript collation or expert certification."
+    },
+    {
+      "title": "A productive reading sequence",
+      "body": "Read the complete verse in Devanāgarī and IAST; locate its topic in the graph; compare the literal meaning with the historical translation; inspect padaccheda, compounds, and inflections; then read adjacent verses. Keep a note of uncertain readings and meanings. Return to the same technical term in its other contexts: laya, bindu, mudrā, and prāṇa do not always fit one English word."
+    },
+    {
+      "title": "Historical descriptions and practice instructions",
+      "body": "The work includes breath retention, invasive cleansing, tongue cutting, sexual-fluid practices, and claims of curing illness or conquering death. A study edition should preserve and explain these passages rather than turn them into an exercise timer or medical recommendation. The text itself emphasizes suitable instruction and gradualness; its descriptions of yogic physiology remain distinct from modern clinical evidence."
+    }
+  ]
+}
